@@ -1,0 +1,1748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texts>
+<obj>
+<line>• HỌC NHỮNG ĐIỀU CƠ BẢN, NGẮM VÀ BẮN</line>
+<line>• GIẾT TRỢ LÝ LUẬT SƯ</line>
+<line>• GIẾT LUẬT SƯ</line>
+<line>• GIẾT TẤT CẢ LỰC LƯỢNG AN NINH</line>
+<line>• MỤC TIÊU CÓ TÓC ĐỎ</line>
+<line>• GIẾT VỆ SĨ, BẮT SỐNG TÊN MẶT ĐỎ</line>
+<line>• KILL THE CREW</line>
+<line>• KILL REDFACE WITH NO ALARMS</line>
+<line>• CLEAR THE SAFEHOUSE</line>
+<line>• CLEAR THE BARN</line>
+<line>• KILL BOTH TANK COMMANDERS</line>
+<line>• GIẾT ĐẠI UÝ</line>
+<line>• DỌN DẸP CĂN HỘ</line>
+<line>• GIẢI CỨU CON TIN</line>
+<line>• CLEAR THE TRAILER</line>
+<line>• PREVENT THE SUICIDE</line>
+<line>• PROTECT SLICK-WILL</line>
+<line>• KILL ALL ENEMIES</line>
+<line>• RESCUE THE PILOT</line>
+<line>• KILL THREATS &amp; SAVE HOSTAGES</line>
+<line>• KILL THE MAN RUNNING</line>
+<line>• BEAT THE DOORMAN</line>
+<line>• KILL THE SECOND BEAR BROTHER</line>
+<line>• KILL THE THIRD BEAR BROTHER</line>
+<line>• KILL THE LAST BEAR BROTHER</line>
+<line>• DỌN DẸP BÃI ĐẬU XE</line>
+<line>• DỌN DẸP QUÁN BAR</line>
+<line>• BOMB THE BLACK CAR</line>
+<line>• KILL THE GUARDS</line>
+<line>• KILL THE GUARDS</line>
+</obj>
+<range>• TIÊU DIỆT MỤC TIÊU</range>
+<fence>•  BẮN NHỮNG CÁI LON</fence>
+<rate>RẤT TỐT, CÓ THƯỞNG CHO BẠN!</rate>
+<rate>GIÚP TÔI MỘT TAY, HÃY ĐÁNH GIÁ GAME</rate>
+<rate>ĐƯỢC,TÔI SẼ ĐẤN GIÁ</rate>
+<rate>KHÔNG, CẢM ƠN</rate>
+
+<quit>Bạn thực sự muốn thoát?</quit>
+<yes>ĐÚNG</yes>
+<no>KHÔNG</no>
+
+<hud>NHIỆM VỤ HOÀN THÀNH</hud>
+<hud>MỤC TIÊU ĐÃ BỊ GIẾT</hud>
+<hud>ĐỘ CHÍNH XÁC</hud>
+<hud>BẮN TRÚNG ĐẦU</hud>
+<hud>TỔNG THÙ LAO</hud>
+<hud>NHIỆM VỤ THẤT BẠI</hud>
+
+<splash>TIẾP TỤC</splash>
+<splash>CHƠI MỚI</splash>
+<splash>CHÚ Ý!</splash>
+<splash>CHƠI MỚI SẼ CHỈ ĐẶT LẠI NHIỆM VỤ VÀ CHỈ SỐ</splash>
+
+<setup>ĐOẠN GIỚI THIỆU</setup>
+<setup>ĐỘ MỜ NÚT</setup>
+<setup>BỐ CỤC NÚT</setup>
+<setup>ĐẢO NGƯỢC TRỤC X</setup>
+<setup>ĐẢO NGƯỢC TRỤC Y</setup>
+<setup>ĐỘ NHẠY</setup>
+<setup>RUNG</setup>
+<setup>PLAY 'LOT' AFTER INTRO</setup>
+<setup>TRƯỜNG BẮN</setup>
+<setup></setup>
+<setup></setup>
+<setup></setup>
+<setup></setup>
+<setup></setup>
+
+<ammo>ĐÃ ĐẦY</ammo>
+<ammo>HẾT ĐẠN</ammo>
+<ammo>KIẾM CHÁC</ammo>
+<ammo>NHẬN GÓI PREMIUM</ammo>
+<ammo>KHÔI PHỤC GIAO DỊCH</ammo>
+<ammo>XEM VIDEO</ammo>
+<ammo>LÀM ĐẦY</ammo>
+<ammo>4 LƯỢT LÀM ĐẦY MỖI NGÀY</ammo>
+<ammo>LUÔN ĐẦY ĐẠN</ammo>
+<ammo>KHÔNG QUẢNG CÁO</ammo>
+<ammo>TẤT CẢ NỘI DUNG</ammo>
+<ammo>ĐANG TẢI VIDEO...</ammo>
+<ammo>ĐANG TẢI...</ammo>
+<ammo>ĐẠN ĐÃ ĐẦY</ammo>
+<ammo>PREMIUM</ammo>
+
+<sale>GIẢM GIÁ</sale>
+<sale>TẮT</sale>
+<sale>MUA NGAY</sale>
+<sale>*ƯU ĐÃI CÓ GIỚI HẠN THỜI GIAN!</sale>
+
+<error>KHÔNG ĐỦ TIỀN</error>
+<error>ĐẠN ĐÃ ĐẦY</error>
+<error>ĐÃ HẾT LƯỢT, XIN CHỜ</error>
+<error>KHÔNG THỂ KHÔI PHỤC GIAO DỊCH...</error>
+<error>ĐÃ XẢY RA LỖI...</error>
+<error>XIN LỖI! VUI LÒNG THỬ LẠI SAU HOẶC KHỎI ĐỘNG LẠI ỨNG DỤNG</error>
+<error>CÓ VẺ NHƯ BẠN ĐÃ CHỌN HUỶ</error>
+<error>ĐANG CHỜ MUA HÀNG</error>
+<error>LỖI KHI MUA SẢN PHẨM NÀY</error>
+<error>NỘI DUNG GÓI PREMIUM</error>
+<error>NHẬN GÓI PREMIUM NGAY</error>
+<error>KHÔNG ĐỦ TIỀN ĐỂ MUA</error>
+<error>CẦN THÊM TIỀN?</error>
+
+<rifle>HƯỚNG DẪN</rifle>
+<rifle>HÃY MUA MỘT MÓN ĐỒ</rifle>
+<rifle>HOLD BUTTON TO MARK WHERE THE BULLET WILL HIT</rifle>
+<rifle>THANG GIÓ</rifle>
+<rifle>THANG CỰ LY</rifle>
+<rifle>CHẠN VÀO VẬT PHẨM ĐANG KHOÁ ĐỂ XEM VÀ MUA</rifle>
+<rifle>MUA Ở ĐÂY</rifle>
+<rifle>* KHÔNG THỂ ĐỔI ỐNG NGẮM</rifle>
+<rifle>ĐỘ CHÍNH XÁC</rifle>
+<rifle>TẦM BẮN</rifle>
+<rifle>NẠP ĐẠN</rifle>
+<rifle>TỐC ĐỘ BẮN</rifle>
+<rifle>ĐỘ GIẬT</rifle>
+<rifle>* CHỈ SỐ SÚNG TRƯỜNG HIỆN TẠI</rifle>
+<rifle>THU PHÓNG</rifle>
+<rifle>TRƯỜNG NGẮM</rifle>
+
+<item>ĐỘ CHÍNH XÁC +</item>
+<item>TĂNG ĐỘ CHÍNH XÁC, GIẢM RUNG LẮC</item>
+<item>ĐỘ ỒN -</item>
+<item>GIẢM TIẾNG ỒN PHÁT RA TỪ ĐẦU NÒNG</item>
+<item>NẠP ĐẠN +</item>
+<item>TĂNG TỐC ĐỘ NẠP ĐẠN / HÀNH ĐỘNG KHOÁ NÒNG</item>
+<item>ĐỘ GIẬT +</item>
+<item>KIỂM SOÁT ĐỘ GIẬT TỐT HƠN</item>
+<item>STYLE +</item>
+<item>ADD PERSONAL STYLE TO YOUR RIFLE</item>
+<item>PHONG CÁCH +</item>
+<item>THÊM PHONG CÁCH CÁ NHÂN CHO SÚNG TRƯỜNG</item>
+<item>THANG CỰ LY</item>
+<item>ĐÁNH DẤU VỊ TRÍ VIÊN ĐẠN HẠ CÁNH THEO CỰ LY</item>
+<item>THANG GIÓ</item>
+<item>ĐÁNH DẤU VỊ TRÍ VIÊN ĐẠN HẠ CÁNH THEO HƯỚNG GIÓ</item>
+
+<stats>HIỆN TẠI</stats>
+<stats>TỔNG THỂ</stats>
+<stats>SỐ LẦN THẮNG</stats>
+<stats>TRÚNG ĐẦU / GIẾT</stats>
+<stats>DANH HIỆU</stats>
+<stats>ĐỘ CHÍNH XÁC CHUNG</stats>
+<stats>ĐỘ CHÍNH XÁC SÚNG TRƯỜNG</stats>
+<stats>ĐỘ CHÍNH XÁC SÚNG LỤC</stats>
+<stats>ĐỘ CHÍNH XÁC SÚNG M4</stats>
+
+<trophy> PHÁT SÚNG ĐẦU</trophy>
+<trophy> ẨN MÌNH</trophy>
+<trophy> ĐÁNG LẼ PHẢI CHẠY</trophy>
+<trophy> KHÔNG MỘT SỢI LÔNG</trophy>
+<trophy> MỤC TIÊU ĐỘNG</trophy>
+<trophy> VẪN ỔN THÔI</trophy>
+<trophy> NGƯỜI NỘI BỘ</trophy>
+<trophy> NHÂN ĐÔI</trophy>
+<trophy> RUNNER</trophy>
+<trophy> CẮT TÓC</trophy>
+<trophy> NGHỆ SĨ CARBINE</trophy>
+<trophy> CẤP ĐỘ CƠ BẢN</trophy>
+<trophy> ANH CẢ</trophy>
+<trophy> CÁI CHẾT MỆT MỎI</trophy>
+<trophy> VÉ KẾT THÚC</trophy>
+<trophy> BỐN PHÁT</trophy>
+<trophy> THÔNG TIN BẨN</trophy>
+<trophy> KHÔNG THU PHÓNG</trophy>
+<trophy> CHÓ CON</trophy>
+<trophy> CHÓ LAI</trophy>
+<trophy> CHÓ SÓI</trophy>
+<trophy> CHÓ ĐẦU ĐÀN</trophy>
+<trophy> ĐAU ĐẦU</trophy>
+<trophy> TỔN THƯƠNG NÃO</trophy>
+<trophy> KẺ SƯU TẦM SỌ</trophy>
+<trophy> THỢ SĂN ĐẦU NGƯỜI</trophy>
+<trophy> CHUYÊN GIA CHƯƠNG 1</trophy>
+<trophy> CHUYÊN GIA CHƯƠNG 2</trophy>
+<trophy> CHUYÊN GIA CHƯƠNG 4</trophy>
+<trophy> CHUYÊN GIA CHƯƠNG 5</trophy>
+<trophy> MẮT THUỶ TINH</trophy>
+<trophy> KHÔNG SAI SÓT</trophy>
+<trophy> CHÍNH XÁC TUYỆT ĐỐI</trophy>
+<trophy> XẠ THỦ ĐỈNH CAO</trophy>
+<trophy> ÔNG HOÀNG SÚNG LỤC</trophy>
+<trophy> CHÚA TỂ M4A1</trophy>
+<trophy> LÁI SÚNG</trophy>
+<trophy> KỸ NĂNG THỰC THỤ</trophy>
+<trophy> HỢP ĐỒNG SÁT THỦ</trophy>
+<trophy> CHUYÊN NGHIỆP</trophy>
+<trophy> CON SÓI ĐƠN ĐỘC</trophy>
+
+<trophy2>Giết mục tiêu đầu tiên của bạn</trophy2>
+<trophy2>Bắn trúng đầu xuyên qua bụi rậm</trophy2>
+<trophy2>Giết mục tiêu trong xe đầu tiên</trophy2>
+<trophy2>Giết gã hói cuối cùng</trophy2>
+<trophy2>Bắn trúng đầu khi mục tiêu đang di chuyển</trophy2>
+<trophy2>Beat mission without shooting the OKAY machine</trophy2>
+<trophy2>Make your second kill be the man inside the house</trophy2>
+<trophy2>Get 2 headshots with one shot</trophy2>
+<trophy2>Make the captain run, then kill him</trophy2>
+<trophy2>Disarm the man beside his head</trophy2>
+<trophy2>Get 100% accuracy</trophy2>
+<trophy2>Wait until the captain is on the ground</trophy2>
+<trophy2>Allow no hostages to die</trophy2>
+<trophy2>Make the target run, and then kill him with a headshot</trophy2>
+<trophy2>Make the target run, and then kill him with a headshot</trophy2>
+<trophy2>Clear targets in under 1 second</trophy2>
+<trophy2>Kill the bartender first</trophy2>
+<trophy2>Beat mission without zooming in</trophy2>
+<trophy2>Get 10 confirmed kills</trophy2>
+<trophy2>Get 25 confirmed kills</trophy2>
+<trophy2>Get 1000 confirmed kills</trophy2>
+<trophy2>Get 100 confirmed kills</trophy2>
+<trophy2>Get 10 headshots</trophy2>
+<trophy2>Get 25 headshots</trophy2>
+<trophy2>Get an insane amount of 1000 headshots!</trophy2>
+<trophy2>Get 100 headshots.</trophy2>
+<trophy2>Get all headshot and accuracy marks for Chapter 1</trophy2>
+<trophy2>Get all headshot and accuracy marks for Chapter 2</trophy2>
+<trophy2>Get all headshot and accuracy marks for Chapter 4</trophy2>
+<trophy2>Get all headshot and accuracy marks for Chapter 5</trophy2>
+<trophy2>Get 100% accuracy after 10 sniper shots</trophy2>
+<trophy2>Get 100% accuracy after 25 sniper shots</trophy2>
+<trophy2>Get 100% accuracy after 1000 sniper shots, earning the top rank for Accuracy</trophy2>
+<trophy2>Get 100% accuracy after 100 sniper shots</trophy2>
+<trophy2>Get 100% Accuracy with a pistol after 100 shots</trophy2>
+<trophy2>Get 100% Accuracy with the M4A1 after 100 shots</trophy2>
+<trophy2>Buy and own every rifle, a true gun lover</trophy2>
+<trophy2>Earn every headshot and accuracy bonus, including bonus weapon gameplay</trophy2>
+<trophy2>Complete the game</trophy2>
+<trophy2>Complete the game with no fails.</trophy2>
+<trophy2>Complete the game with no fails and 100% accuracy.</trophy2>
+
+<trophy3>THẤT BẠI</trophy3>
+<trophy3>Hoàn thành trong 'Chơi mới'</trophy3>
+
+
+<lot>
+<line>NGẮM VÀO ĐÂY</line>
+<line>CHẠM, KÉO BẰNG NGÓN CÁI ĐỂ NGẮM</line>
+<line>ĐẢO NGƯỢC TRỤC X</line>
+<line>ĐẢO NGƯỢC TRỤC Y</line>
+<line>PHÓNG TO TỐI ĐA</line>
+<line>PHÓNG TO</line>
+<line>ĐẶT BỐ CỤC NÚT</line>
+<line>BẮN</line>
+</lot>
+
+<games>
+<line>Tiêu diệt mục tiêu nhanh nhất có thể.</line>
+<line>Phòng thủ càng lâu càng tốt.</line>
+<line>Giữ quả bóng trên không lâu nhất có thể.</line>
+<line>Không để con vịt nào trốn thoát.</line>
+<line>Tiêu diệt các mục tiêu ngẫu nhiên.</line>
+<line>Bảo vệ người dân khỏi zombie.</line>
+<line>KHÔNG ĐỦ TIỀN ĐỂ CHƠI</line>
+<line>• NHẬP CUỘC!</line>
+</games>
+
+<games2>ĐẶT CƯỢC</games2>
+<games2>KICK UPS PISTOL</games2>
+<games2>SPEED SNIPER</games2>
+<games2>DEFENSE M4</games2>
+<games2>SPEED M4</games2>
+<games2>DEFENSE SNIPER</games2>
+<games2>SPEED PISTOL</games2>
+<games2>DUCK HUNT PISTOL</games2>
+<games2>KILLHOUSE SNIPER</games2>
+<games2>ZOMBIE HUNT M4</games2>
+<games2>BẢNG XẾP HẠNG</games2>
+
+<gun>ĐỘ CHÍNH XÁC</gun>
+<gun>TỐC ĐỘ</gun>
+<gun>SÁT THƯƠNG</gun>
+<gun>*NỘI DUNG PREMIUM</gun>
+<gun>CHỈ DÀNH CHO NỘI DUNG PREMIUM</gun>
+<gun>NHẬN GÓI PREMIUM NGAY</gun>
+<gun>ĐẦU RUỒI</gun>
+<gun>HOLO</gun>
+<gun>CHẤM ĐỎ</gun>
+
+<menu>NHIỆM VỤ</menu>
+<menu>SÚNG TRƯỜNG</menu>
+<menu>TRƯỜNG BẮN</menu>
+<menu>MINI GAME</menu>
+<menu>CHỈ SỐ</menu>
+<menu>DANH HIỆU</menu>
+<menu>HOÀN THÀNH 'ĐƯỜNG RAY'</menu>
+<menu>HOÀN THÀNH 'CĂN CỨ MẬT'</menu>
+<menu>HOÀN THÀNH 'CỬA VÒM'</menu>
+<menu>HOÀN THÀNH 'RƠ-MOÓC'</menu>
+
+<intro>Sư tử hoặc Hổ có thể rất mạnh mẽ,</intro>
+<intro>nhưng Sói sẽ không bao giờ cúi đầu trong bất kỳ rạp xiếc nào</intro>
+<intro>ĐỒ HOẠ</intro>
+<intro>THIẾT KẾ ÂM THANH</intro>
+<intro>ÂM NHẠC</intro>
+<intro>KỊCH BẢN BỞI</intro>
+<intro>MỘT TỰA GAME BỞI</intro>
+
+<start>• CÓ HÌNH ẢNH BẠO LỰC, MÁU ME</start>
+<start>• CÓ NGÔN NGỮ NGƯỜI LỚN</start>
+<start>• TRẢI NGHIỆM TỐT HƠN VỚI TAI NGHE</start>
+
+
+<chapter1>
+<cafe>
+<line>CHAPTER 1</line>
+<line>INTRODUCTIONS</line>
+<line>Meeting in an easy place to dump a body... Dark, isolated, right above a river.</line>
+<line>I admit, it was dumb of me to meet him way out here...             </line>
+<line>But if Emile is right about him, this could be the killer we're looking for.</line>
+<line>You're wearing a mask... Emile said I'd be able to trust you?            </line>
+<line>Emile told me I would be meeting Mando here.          </line>
+<line>We don't send our leader to meet people we don't know in the dark.           </line>
+<line>You will meet Mando in time...          </line>
+<line>My job is to make sure you are who Emile says you are.        </line>
+<line>And who are you?        </line>
+<line>I speak for The Assembly. Mando's right hand man, if you will.         </line>
+<line>You can call me Midman.            </line>
+<line>I'm only here because Emile said you're the best.             </line>
+<line>I just need to find out for myself if he is right.          </line>
+<line>Let's get to work then.          </line>
+<line>Lawyers are natural enemies for The Assembly, we despise them.           </line>
+<line>One lawyer in particular, Richard Carter, is a major problem.</line>
+<line>We want Richard Carter to back off of the Assembly.</line>
+<line>His legal assistant is meeting one of our guys at Planet Cafe.</line>
+<line>Richard Carter is known for his cases against The Assembly...           </line>
+<line>We are giving him a wake up call by killing his legal assistant.</line>
+<line>I know this is short notice and...           </line>
+<line>Meet me here tomorrow. Same time.            </line>
+<line>Good Luck. Try not to bring the police with you tomorrow.          </line>
+<line>CAFE</line>
+
+</cafe>
+
+<court>
+<line>• KILL THE LAWYER</line>
+<line>No leads. No witnesses. No evidence.</line>
+<line>This Lonewolf performed a beautiful hit...      </line>
+<line>The crime was surrounded by mystery. Questions only lead to more questions.</line>
+<line>This was excellent news for The Assembly. We may have found a ghost that can kill...</line>
+<line>... but I still don't fully trust him.          </line>
+<line>Have you seen the paper? The police haven't found anything.</line>
+<line>Although it has only been one day. Evidence may turn up during the investigation.</line>
+<line>There's nothing to find.</line>
+<line>I spoke with Mando. He is not convinced.</line>
+<line>The hit was perfect. Don't waste my time.      </line>
+<line>Look, The Assembly has a very high standard for recruiting new members.</line>
+<line>Alright, I'm gone.      </line>
+<line>Mando, it's me...         </line>
+<line>When is he coming in? I want to meet the kid.       </line>
+<line>I told him we're not convinced. He walked.         </line>
+<line>YOU BETTER BE FUCKING JOKING!       </line>
+<line>We need to stay in control. He came to us...       </line>
+<line>Yes, we need him...</line>
+<line>But I believe for some reason he needs us more.       </line>
+<line>Get him back. How the fuck will you even find him?           </line>
+<line>I have a feeling he will find us.           </line>
+<line>1. TAP TO SHOOT</line>
+<line>2. HOLD FOR SLOW MOTION</line>
+</court>
+
+<laundry>
+<line>• KILL ALL SECURITY</line>
+<line>This is Jennifer Davis with your top story this evening.         </line>
+<line>Police have identified the victim of the Court House shooting as Richard Carter.</line>
+<line>Police are investigating any ties between 'The Assembly' and Richard Carter's death... </line>
+<line>as Richard Carter is notorious for bringing down 'The Assembly' gang members...</line>
+<line>Mando, Lonewolf is communicating with us...</line>
+<line>What do you mean?    </line>
+<line>Richard Carter has been shot.             </line>
+<line>FIND LONEWOLF, NOW!        </line>
+<line>Killing Richard Carter was a message,      loud and clear.</line>
+<line>He is proving that he is the real deal, and slapping me in the face for questioning it...</line>
+<line>The only problem is that I have no way to contact him.             </line>
+<line>I'm starting to think waiting on this damn bridge is pointless.</line>
+<line>BLANK</line>
+<line>Are you done wasting my time?         </line>
+<line>Richard Carter...  How did you...         </line>
+<line>You're welcome.             </line>
+<line>I suppose I have underestimated you...          </line>
+<line>Last chance with me, Midman.           </line>
+<line>I made a mistake. Now listen, we have a job for you.</line>
+<line>Not until I meet Mando.            </line>
+<line>Mando requested you for this job, it is rather urgent.       </line>
+<line>An urgent job? I could have been gone...            </line>
+<line>You're damn good, but you aren't our only killer.         </line>
+<line>After this job I meet Mando, or you will have to use them.</line>
+<line>Mr. Wong runs a laundry and he must know we are looking for him.</line>
+<line>He has to run the laundry, so we know he will be there, but he will have security.</line>
+<line>Take out his security so I can get to Mr. Wong.</line>
+<line>DON'T LET ENEMIES SEE YOUR KILLS!</line>
+</laundry>
+
+<briefcase>
+<line>• TARGET HAS RED HAIR</line>
+<line>Mr. Wong, if you don't help us, we will bring you to Mando.</line>
+<line>I believe you and Mando would have a lot of fun together.</line>
+<line>Please, I told you already, Redface has your money!</line>
+<line>You will have to come with us, Mr. Wong...</line>
+<line>I told you everything already, please, just let me go...</line>
+<line>You will be fine. As long as we find Redface.         </line>
+<line>I'll find him.      </line>
+<line>Redface will be in hiding if what Mr.Wong says is true...</line>
+<line>We'll lure Redface out. His brother takes a bus every weekday morning.</line>
+<line>Redface got his nickname from the red hair his Scottish genes have blessed him with...</line>
+<line>His brother will have red hair as well. Kill him, hopefully before Redface can warn him.</line>
+</briefcase>
+
+<baydoor>
+<line>• KILL THE SECURITY</line>
+<line>Tell me the good news...</line>
+<line>Redface should have warned his brother.</line>
+<line>I guess Redface was too busy gathering his crew.</line>
+<line>Let me guess... you need me to kill them.    </line>
+<line>You have my word, we will meet Mando after this.</line>
+<line>Redface uses a warehouse to operate out of.</line>
+<line>Same as with Mr. Wong. You kill the security, and get me to Redface.</line>
+<line>Redface must know we are coming. He will have his crew ready at the warehouse.</line>
+<line>This will be risky, I can't think of any angles for a sniper rifle...</line>
+<line>I would tell you to be careful, but I don't doubt your ability.</line>
+<line>Kill them all, but make sure Redface stays alive.</line>
+</baydoor>
+
+<baydoor2>
+<line>• TAKE REDFACE ALIVE</line>
+<line>What's going on?!</line>
+<line>Redface... He's not here...            </line>
+<line>That's because he planned this.          </line>
+<line>This is an ambush?             </line>
+<line>What makes you think that?           </line>
+<line>This is exactly how I would have done it.      </line>
+<line>Shit, they're here!      </line>
+</baydoor2>
+
+<OLDtracks>
+<line>• KILL THE CREW</line>
+<line>Brand new pants... for fucks sake...        </line>
+<line>Which one of you fucks shot me?!</line>
+<line>That beard is a nice target, but they wanted you alive.</line>
+<line>Redface... Breaking the peace I see?</line>
+<line>Peace!? You shot my only brother...</line>
+<line>Killing you is all I have left to do now.</line>
+<line>Mando would like a word. The hospital will have to wait.</line>
+<line>I waited. Where is Mando?        </line>
+<line>His hands are tied around Redface's neck...</line>
+<line>Listen, I've brought you to where we operate.</line>
+<line>You're with us now, and you will meet Mando.</line>
+<line>Let me guess. You have another job for me...</line>
+<line>and you expect me to do it.</line>
+<line>You come here after and I will walk you into Mando's office myself.</line>
+<line>You have my word.        </line>
+<line>We convinced Redface to set up an exchange. Our money for Redface.</line>
+<line>Redface's crew expects him, but he won't be going.</line>
+<line>Kill his crew and get our money back.                  </line>
+<line>1. BULLETS DROP AFTER 100M DISTANCE</line>
+<line>2. 'RANGE FINDER' MARKS DISTANCE, CHECK IT OUT IN THE STORE!</line>
+<line>2. HOLD THE MARK BUTTON TO MARK THE DISTANCE ON YOUR SCOPE</line>
+<line>DISTANCE</line>
+<line>BULLETS DROP AFTER 100M, SO AIM HIGHER</line>
+</OLDtracks>
+</chapter1>
+
+<chapter2>
+<hospital>
+<line> HOSPITAL </line>
+<line>Where is Mando?       </line>
+<line>Did Redface's crew bring the money?          </line>
+<line>I'll give it to Mando myself.            </line>
+<line>Of course... I just wanted to speak with you first.            </line>
+<line>Mando can be a bit quick to make decisions.            </line>
+<line>He would have met you that first day on the bridge.        </line>
+<line>I just felt that I had to test you first, so I apologize for the delay.          </line>
+<line>Let's go meet Mando.            </line>
+<line>Chapter 2. Mando.</line>
+<line>It's about fucking time my boy.             Welcome to The Assembly.</line>
+<line>Yes, it is...    </line>
+<line>Here is the ghost himself, LONEWOLF.</line>
+<line>Lonewolf huh? You kids are still playing 'no names'?     </line>
+<line>So Mr. Wolf, where is my money?       </line>
+<line>They didn't bring the money.      </line>
+<line>You kill a lot better than you make jokes. Show me my money.       </line>
+<line>They are dead, I brought you their cellphones, but there was no money.         </line>
+<line>CELLPHONES!? YOU WANT TO FUCK WITH ME IN MY OWN OFFICE!?          </line>
+<line>I WILL TEAR OUT YOUR THROAT.        </line>
+<line>WHERE IS MY FUCKING MONEY, LITTLE BOY!?.        </line>
+<line>You didn't think to tell me about this!?...      </line>
+<line>Like I said. There was no money.</line>
+<line>Be very careful next time you want to fuck around here, wolfy.        </line>
+<line>I know you didn't take our money. You don't give a shit about money.      </line>
+<line>We barely pay you shit for these jobs and you still do them.        </line>
+<line>Fuck man, you just raised my blood pressure, so now I expect a favor...        </line>
+<line>Consider Redface dead.        </line>
+<line>That's what I like to hear Wolfy.</line>
+<line>I got our boys at emergency to give Redface a nice cozy room...</line>
+<line>A room with a nice big window. You understand me don't you Wolfy?</line>
+<line>CHAPTER 2</line>
+<line>MEETING MANDO</line>
+</hospital>
+
+<safehouse>
+<line>SAFEHOUSE</line>
+<line>I can never tell if you are happy or not...        </line>
+<line>Redface is gone.        </line>
+<line>Mando is right. We are paying you almost nothing...   </line>
+<line>What is your motivation?           </line>
+<line>Does it matter?            </line>
+<line>Everyone we want dead disappears.      </line>
+<line>I guess I can't complain...                </line>
+<line>I just hope we can trust you. </line>
+<line>This doesn't end with Redface. We have many enemies.</line>
+<line>I won't get bored. </line>
+<line>That is why I am concerned. Money isn't your motive...</line>
+<line>Is murder a thrill for you?  </line>
+<line>How can we trust a man that kills for fun?  </line>
+<line>The decision for anyone to die has been yours.</line>
+<line>Listen, the Phones you brought back from Redface's crew came in handy...</line>
+<line>We learned of a few safehouses they are using.</line>
+<line>Since Redface didn't show up at the meeting, they must be on alert.</line>
+<line>There are 3 in total, a house, a barn, and an apartment. Clear each safehouse.</line>
+</safehouse>
+
+<barn>
+<line>BARN</line>
+<line>He is clearing Redface's safehouses now, he's at the barn already.</line>
+<line>I just don't understand why he's doing this for us...   </line>
+<line>It's not for money. He's not killing anyone important to him.</line>
+<line>The only thing I can think of is that he just enjoys killing.</line>
+<line>Army guys come back all fucked up.              </line>
+<line>Emile, he's screwed up from killing in the war, right?        </line>
+<line>As snipers we didn't really think of it as killing.         </line>
+<line>We had our target, and we made sure we never missed our target.</line>
+<line>You said you know Lonewolf pretty well?...      </line>
+<line>More than pretty well. We spent hours, even days, on end together.</line>
+<line>Most of what we said was operational, you know, mission speak...</line>
+<line>But you really get to know a man when you rely on them in combat.</line>
+<line>I don't know his name, or even what he looks like...            </line>
+<line>He stays quiet, he stays professional. He's just a warrior.          </line>
+<line>After being in combat with Lonewolf I do know one thing about him...         </line>
+<line>He truly belongs behind a gun. That's the only place he wants to be.         </line>
+<line>WIND</line>
+<line>WIND WILL PUSH THE BULLET. WATCH FOR SIGNS OF WIND DIRECTION</line>
+</barn>
+
+<cabinOLD>
+<line>CABIN</line>
+<line>So Lonewolf was proficient in war, and now he is proficient with us...</line>
+<line>It isn't easy for me to trust a man who seems to really enjoy killing. </line>
+<line>Maybe there is a thrill in it that I don't see.  </line>
+<line>Once you have hunted man, nothing else will ever compare.  </line>
+<line>If Lonewolf fucks up then I will bury him myself.</line>
+<line>But so far, I fucking love the kid.</line>
+<line>Everyone you want dead has disappeared, of course you love him.</line>
+<line>All I am trying to tell you is we need to be careful with such a dangerous man. </line>
+</cabinOLD>
+
+<captainOLD>
+<line>CAPTAIN</line>
+<line>Moving tanks? And two of them?...</line>
+<line>He sounds quite gifted with a rifle.  </line>
+<line>The shots I've seen him make still amaze me. </line>
+<line>Mando, our guys just close their eyes, pull the trigger and hope for the best. </line>
+<line>I knew we needed a professional.    </line>
+<line>When Lonewolf told me he wanted to join The Assembly...</line>
+<line>I set up the meeting with Midman, you saw what he can do, and now we are here.</line>
+<line>He's never told you his name. You've never seen his face. </line>
+<line>And still, you trust him?  </line>
+<line>Mando, He's not here to be the best man at our weddings.</line>
+<line>He's here to end lives.</line>
+<line>And After seeing some of the shots he's made during wartime... </line>
+<line>You're damn right I trust him for that. </line>
+</captainOLD>
+
+<apartment>
+<line>APARTMENT </line>
+<line>Why are you staring at me, Emile? </line>
+<line>You're on edge... It's still bothering you, isn't it? </line>
+<line>Lonewolf called in, he's on the last of Redface's safehouses, the Apartment...</line>
+<line>I still don't understand why he is doing all of this for us.</line>
+<line>I am starting to think he might just be insane.</line>
+<line>I can tell you now - he is not insane.</line>
+<line>Mando is jumping for joy over lonewolf...</line>
+<line>We need to be careful. Mando has made big mistakes before.</line>
+<line>I knew it, I knew you're thinking about that night...       </line>
+<line>Fuck, you need to relax, the past is the past.   </line>
+<line>Yeah, Mando went nuts, but that was 9 years ago, man.</line>
+<line>I'm starting to think I am the only one that remembers what Mando did.</line>
+<line>I seem to be the only one that remembers it could have burned us all to the ground.</line>
+<line>Mando went against all of us. No one gave him a green light.</line>
+<line>Killing a cop is one thing, but killing his wife and son? Mando went way too far.</line>
+<line>After Mando, the leader of The Assembly, lost complete control...</line>
+<line>Yeah I guess you can say I have been a little on edge.    </line>
+</apartment>
+</chapter2>
+
+<chapter3>
+<garageOLD>
+<line> GARAGE</line> 
+<line>Shut the fuck up and listen, Midman.   </line>
+<line>You and Emile had a little chat, huh?       </line>
+<line>How many fucking times are we going to go over this? </line>
+<line>I killed the cop and his family. It's done. Why are you bringing this shit up to Emile?</line>
+<line>Mando, I've been with you since day one.</line>
+<line>The Assembly doesn't know it, you may not even know it...</line>
+<line>But I know it. That night changed you.  </line>
+<line>Fuck! I don't care about that cop or his bitch wife... </line>
+<line>but that kid... I wish... Fuck, why did I shoot that kid?!   </line>
+<line>You lost control Mando...  </line>
+<line>You decided to leave the decisions to me after that night.   </line>
+<line>Quietly, of course. The men would still think you were in charge. </line>
+<line>Now My problem is that I never approved using Lonewolf. </line>
+<line>How many problems would we still have... </line>
+<line>If everyone lonewolf killed was still alive? </line>
+<line>Mando, how many problems came from the night you lost control?</line>
+<line>Chapter 3. 9 Years ago.</line>
+<line>Midman, what do you think?</line>
+<line>I think we shouldn't have had this meeting. </line>
+<line>Well maybe you shouldn't think. We are doing it.</line>
+<line>Like I said Mando, it'll be an easy 30 grand.</line>
+<line>You better fucking hope so.</line>
+<line>Midman, get Nicky in here...  </line>
+<line>Nicky, Meet Slick-Will... </line>
+<line>Slick-Will, meet my handsome nephew Nicky. </line>
+<line>Nicky, listen, The Garage has 30 grand cash in the back of their shop...</line>
+<line>No safe, no security. Standard alarm systems. Easy snatch and grab.</line>
+<line>Sounds fun. Who's coming with me?  </line>
+<line>Our new buddy Slick-Will is.</line>
+<line>What? No. That wasn't part of our deal. </line>
+<line>Listen to me Slick, I don't know you...    </line>
+<line>You said you want in with The Assembly, you go with Nicky.</line>
+<line>Otherwise get the fuck out of my office. </line>
+<line>CHAPTER 3</line>
+<line>9 YEARS AGO</line>
+</garageOLD>
+
+<trailer>
+<line> TRAILER</line>
+<line>I'm Live at the Scene now...  </line>
+<line>Police are now moving towards The Garage ... </line>
+<line>It appears police have shot the hostage taker...</line>
+<line>Holy shit, what the fuck did Nicky and Slick-Will do in there!? </line>
+<line>Something went bad if SWAT had to show up to The Garage... </line>
+<line>That better have been Slick-Will the police just shot.</line>
+<line>Get me Midman. </line>
+<line>Where is Nicky!? Who did the police shoot at the Garage!? </line>
+<line>We are trying to find out, we can't get anywhere near the Garage...  </line>
+<line>Even if it was Nicky they shot, this is a police sniper we are talking about here.</line>
+<line>Cops bleed just like everybody else. Find out what the fucks going on.</line>
+<line>If they killed Nicky, I want the cop.   </line>
+<line>I want you guys to meet Rimer at the Swamp Trailer.</line>
+<line>Rimer works with us, but he is still a cop. </line>
+<line>and a cop is our fastest way to find out what happened at The Garage. </line>
+<line>Should we have fun with Rimer if he doesn't talk?  </line>
+<line>Do NOT kill him. Even if Rimer is a dirty cop, he's still a cop.   </line>
+<line>Mando wants information... </line>
+<line>See what Rimer knows about the Garage shooting. </line>
+</trailer>
+
+<suicide>
+<line> SUICIDE</line>
+<line>You're going to have to repeat that, Midman... </line>
+<line>You're telling me everyone is dead!?  </line>
+<line>Rimer is the only one who survived The Trailer...    </line>
+<line>Mando, you know what this means? </line>
+<line>The police know Rimer was dirty. </line>
+<line>They must have, and now they know he was working with The Assembly.  </line>
+<line>They followed him to the Trailer to find out who he was working with. </line>
+<line>Something went wrong, they had to protect Rimer...   </line>
+<line>But we don't need to worry about Rimer. </line>
+<line>What do you mean?! I'm going to kill Rimer my fucking self! </line>
+<line>Listen... The Police are watching Rimer.</line>
+<line>Don't forget, Rimer has issues...</line>
+<line>Remember the pills? Him running his car in the garage? He has tried suicide in the past... </line>
+<line>I would not be surprised if Rimer tries to kill himself after all of this. </line>
+<line>If Rimer doesn't kill himself, I am going after him.</line>
+<line>I don't give a shit if the cops are babysitting him.</line>
+<line>I'll think of something, Mando.  </line>
+</suicide>
+
+<fountain>
+<line> FOUNTAIN</line>
+<line>I figured we wouldn't have to worry about Rimer...</line>
+<line>I had a feeling Rimer would kill himself.  </line>
+<line>Well he fucking didn't, the police stopped the Suicide.</line>
+<line>The cops want Rimer alive, because Rimer could bury The Assembly. </line>
+<line>I don't want to sit around until Rimer talks or kills himself.</line>
+<line>Mando, Listen. We can't let The Assembly go near Rimer.   </line>
+<line>The police are using Rimer as bait to get to us. </line>
+<line>This better be fucking good...  </line>
+<line>Mando you are going to love this... </line>
+<line>Slick-Will just walked in.  </line>
+<line>I should kill you, mother fucker!  </line>
+<line>Hey man, You sent me to the garage with a fucking lunatic!  </line>
+<line>Nicky went mental. He was firing into the air like a damn cowboy.</line>
+<line>I’m not surprised SWAT showed up...</line>
+<line>I had to slip out after Nicky caused the mayhem.</line>
+<line>You let my family fucking die! </line>
+<line>It was a mess... I came back to tell you what happened... </line>
+<line>How could you just let him die? </line>
+<line>Wild men like that don't live long. </line>
+<line>Neither will you, Slick. </line>
+<line>What do you want from me, Mando? </line>
+<line>I want you to Meet our buddy Rimer. </line>
+<line>Meet him at the Fountain. Lean on it with a newspaper so Rimer knows it is you.</line>
+<line>Trust me, Slick, you will want to get back on my good side. </line>
+<line>Rimer agreed. He will kill Slick-Will at the Fountain for us. </line>
+<line>Of course he agreed. He knows the police are watching him. </line>
+<line>I have to say I love this plan, Mando.  </line>
+<line>The police won't let Rimer kill someone... </line>
+<line>So we use the Police to shoot Rimer for us.   </line>
+<line>Even if Rimer succeeds, that means we got rid of Slick-Will. </line>
+<line>It must be my lucky day.</line>
+</fountain>
+
+<bridge>
+<line> BRIDGE</line>
+<line>What happened at the Fountain?     </line>
+<line>They shot Rimer? Slick-Will is still alive?  </line>
+<line>You know which vehicle the police shot out of...      </line>
+<line>Follow them, try to see if you can recognize one...    </line>
+<line>We'll find him and make him tell us who shot Nicky at The Garage.  </line>
+<line>The police took the shot. They killed Rimer at the Fountain.  </line>
+<line>Our guys at the Fountain saw which vehicle the shot came from.</line>
+<line>They are following the Police Shooter now, he's in a black SUV. </line>
+<line>Why are you taking so long to get me this fucking cop...</line>
+<line>He killed my family, Midman! </line>
+<line>I am going to kill his.  </line>
+</bridge>
+
+<runway>
+<line> RUNWAY</line>
+<line>We fell right into a trap...   </line>
+<line>The police set up an Ambush under the bridge, they lured our men right into a trap.</line>
+<line>Mando... Our guys are gone. </line>
+<line>The Airport... we do the Airport.  </line>
+<line>You can't be serious, Mando. Think of...</line>
+<line>Call the men, NOW!  </line>
+<line>Gentlemen, the war we feared would come has now arrived.     </line>
+<line>I consider each of you my brothers...</line>
+<line>and The Police have declared war with us by killing my Brothers.  </line>
+<line>You all understand that war requires sacrifice... </line>
+<line>This Airport mission will be our sacrifice. </line>
+<line>A sacrifice for the outcome of our war with the police. </line>
+<line>It pains me to ask for volunteers knowing you may not come back... </line>
+<line>Just know your sacrifice is for The Assembly. </line>
+<line>You sent the men to the Airport to die...  </line>
+<line>Did you not listen?     </line>
+<line>This is a sacrifice for the greater cause.  </line>
+<line>I'd do anything for The Assembly. I love the men as much as you do... </line>
+<line>But this is going too far, Mando.</line>
+<line>I am not sending them to die, I am sending them to open a door.  </line>
+<line>A hi-jacking at the airport will send the police into insanity. </line>
+<line>They will be forced to send as many of their men as possible...</line>
+<line>Enough men that their headquarters will be empty. </line>
+<line>We will walk right in and take everything. </line>
+<line>We will have documents. We will have names.  </line>
+<line>You are willing to trade your men's lives for paperwork? </line>
+<line>I am trading their lives for names... </line>
+<line>The names of the mother fuckers who shot Nicky...</line>
+<line>For the mother fuckers who shot my brothers in the Assembly. </line>
+<line>I know what I have to do. The only way I can sleep at night... </line>
+<line>Is to slaughter every cop who takes my family from me.   </line>
+</runway>
+
+<hq>
+<line>HQ</line>
+<line>We're on, Mando...     </line>
+<line>The police must have got the call at the Airport... </line>
+<line>I've never seen so many cops take action!    </line>
+<line>We have van loads of our guys ready... </line>
+<line>Let's make our move.    </line>
+<line>Remember boys! Any paperwork, any CDs...  </line>
+<line>Bring me anything you find that looks like it has information.</line>
+<line>Kill any police. Kill anyone that you find.</line>
+<line>I want fear in their hearts after tonight. </line>
+</hq>
+</chapter3>
+
+<chapter4>
+CHAPTER 4
+<park>
+<line>PARK</line>
+<line>GO! GO! GO!  </line>
+<line>Get us the fuck out of here!  </line>
+<line>FUCK! HOW WERE THE COPS READY FOR US!? </line>
+<line>I am proud of you boys! Are you alright!?  </line>
+<line>Fuck, Mando! It was a slaughter!   </line>
+<line>So many of our guys got shot up!   </line>
+<line>I know, I know. I am sorry I put you boys in that kind of mess.</line>
+<line>But they didn't die for nothing... </line>
+<line>You brought a lot of good stuff out with you...  </line>
+<line>Now get us the fuck out of here! </line>
+<line>Keep looking... I know it's here... </line>
+<line>The cops knew we would hit the Headquarters...</line>
+<line>I don't understand how they could have known the Airport was a decoy...       </line>
+<line>Something is not right about all of this... </line>
+<line>Just keep fucking looking. </line>
+<line>Mando this is a waste of our...  </line>
+<line>I am going to find out who killed our family!</line>
+<line>I am going to find them!  </line>
+<line>I will make them watch me kill their family!  </line>
+<line>I am going to kill them slowly!    </line>
+<line>Wait, what the hell is this... </line>
+<line>...He was a... I don't believe this...  </line>
+<line>No wonder the cops shot Rimer at the Fountain... </line>
+<line>and why the police shot Nicky at the garage... </line>
+<line>The headquarters, the ambush at the bridge, the police were always ready for us... </line>
+<line>He was at our meeting about the airport being a decoy for us to hit the police HQ...</line>
+<line>The cops had one of their men infiltrate The Assembly...</line>
+<line>Mando... Slick-Will is a cop. </line>
+<line>CHAPTER 4. Present Day.</line>
+<line>Do you know how many problems we would have if everyone Lonewolf killed was still alive!?</line>
+<line>And how many problems came from the night that you lost control?</line>
+<line>What was I supposed to do? Let Slick-Will live?</line>
+<line>Lonewolf got all 3 safehouses. The Apartment is clear.</line>
+<line>Good. Now get out. </line>
+<line>He said he has something he wants you to see Mando...</line>
+<line>He didn't say what, he just wanted you there to see it.</line>
+<line>Midman, go with Emile and check it out...  </line>
+<line>I...I'll be...Both of you just fucking go, NOW!  </line>
+<line>On way with Midman.</line>
+<line>What about Mando?</line>
+<line>Could not get him out...</line>
+<line>Cellphones? You wanted Mando to come way out here for cellphones?</line>
+<line>I have to say, I'm not blown away...</line>
+<line>You must have forgotten the cellphones from Redface's crew I got from the tracks...</line>
+<line>Those cellphones are why they're all lying here dead.</line>
+<line>Right...Okay, Let's take a look, shall we?</line>
+<line>What the hell... </line>
+<line>Our weapon dealers were working with Redface?</line>
+<line>What!? The bear brother's are selling guns to Redface?</line>
+<line>These phones are from Redface's crew...</line>
+<line>There are messages on them dealing with the Bear Brothers... </line>
+<line>Lonewolf, The Bear Brother we deal with the most jogs daily in the park.</line>
+<line>He's there now... Bring him back to Mando's office.  </line>
+<line>Mando will want to know why he is selling guns to our enemies.</line>
+<line>CHAPTER 4</line>
+<line>PRESENT DAY</line>
+<line>CHAPTER 5</line>
+</park>
+
+<bouncer>
+<line>BOUNCER</line>
+<line>Lonewolf better fucking call... </line>
+<line>I've been trying to get a hold of him all day. </line>
+<line>I don't understand what happened.  </line>
+<line>I told him to bring the Bear Brother to us, not to shoot him. </line>
+<line>He killed our main gun supplier...   </line>
+<line>I'm going to murder that little fucking wolf.  </line>
+<line>Mando, they were selling guns to Red Face...</line>
+<line>Would you not have killed The Bear Brothers any way? </line>
+<line>I don't care. Lonewolf will do what the fuck I say. </line>
+<line>and I never said to kill our gun supplier. </line>
+<line>There are still three of the Bear Brothers left...</line>
+<line>We need to find them and sort this all out.</line>
+<line>Selling to Red Face, our man killing one of their Brothers in the park...</line>
+<line>I am sure Lonewolf has his reason for shooting the Bear Brother.   </line>
+<line>He will need one hell of a fucking reason, Emile.  </line>
+<line>Sorry friend, club is closed.</line>
+<line>I'm here for The Bear Brothers...</line>
+<line>Never heard of that band. Move on, son.</line>
+<line>I know the guns come from here. </line>
+<line>Be a good boy and open the door for me. </line>
+<line>I said clubs closed. Now move or be moved.  </line>
+</bouncer>
+
+<subway>
+<line>SUBWAY</line>
+<line>Alright, alright!</line>
+<line>Enough man, please...   </line>
+<line>I will stomp the life out of you...</line>
+<line>Where are the Bear Brothers?   </line>
+<line>Fuck man, I could get killed for this shit!  </line>
+<line>I guess you didn't hear... </line>
+<line>One of the Bear Brothers got shot in the park.  </line>
+<line>The other three are on their way here... </line>
+<line>Where are they?! </line>
+<line>Fuck... All I know is one is at the subway station now. </line>
+<line>I don't know where the others are, I swear, please! </line>
+</subway>
+
+<stadium>
+<line>STADIUM</line>
+<line>I need to borrow your cellphone... </line>
+<line>I bet your brothers want to hear from you. </line>
+<line>It's just us three left...</line>
+<line>Are you safe Brother?</line>
+<line>You did not answer my calls...</line>
+<line>I am safe. We must meet...</line>
+<line>Yes, I am coming to town.</line>
+<line>We will find out who shot our Brother.</line>
+<line>Meet at the Stadium. Tonight.</line>
+<line>OK, call me at the Stadium.</line>
+<line>Stay strong, Brother...</line>
+<line>Nobody fucks with the Bears.</line>
+</stadium>
+
+<field>
+<line>FIELD</line>
+<line>Can you explain what the fuck is going on? </line>
+<line>How did Lonewolf find all of the Bear Brothers before us!? </line>
+<line>From what I understand Lonewolf had this whole thing planned.</line>
+<line>He knew killing a Bear Brother would bring the rest of them to our city. </line>
+<line>After that, He beat information out of the Bear Brother's security. </line>
+<line>That led him to the Metro, which got him a Bear Brother's cellphone.</line>
+<line>He used the cellphone to lure the next Bear Brother to the stadium...</line>
+<line>He got another cellphone from the stadium... </line>
+<line>I'd bet Lonewolf is posing as the Bear Brothers to lure the last one somewhere now.</line>
+<line>Jesus Christ, who the fuck are we dealing with?! </line>
+<line>Lonewolf is not just another Hitman... </line>
+<line>I warned you about using a man like him. </line>
+<line>We have to find the last Bear Brother. </line>
+<line>Lonewolf must have him thinking he will meet his brothers somewhere. </line>
+<line>Then he's already fucking dead... </line>
+<line>We need to be very careful, Mando.  </line>
+<line>Lonewolf has a plan, and has the skills to make it happen... </line>
+<line>After the last Bear Brother, he will be coming for us.   </line>
+</field>
+
+<parkade>
+<line>PARKADE</line>
+<line>We've never dealt with something like this before...</line>
+<line>Lonewolf got all of the Bear Brothers.</line>
+<line>One minute he's working with us...</line>
+<line>The next minute he's killing our guys. </line>
+<line>No warning, no reason. This makes no sense...</line>
+<line>Lonewolf agreed to meet us at the Skybar.  </line>
+<line>I have never been so excited to slice somebody up. </line>
+<line>I am going to hang his guts over the Skybar patio.</line>
+<line>Lonewolf kills our guys and decides to come meet us... </line>
+<line>This is obviously a set up.  </line>
+<line>You aren't coming to the Skybar, Mando. </line>
+<line>What the fuck did you just say to me? </line>
+<line>Don't forget, you put me in Charge.  </line>
+<line>I never approved using Lonewolf and look what is happening now. </line>
+<line>He has cut off our gun supply by killing the Bear Brothers...   </line>
+<line>and we have no idea why.</line>
+<line>That is exactly why I am going to the Skybar... </line>
+<line>So I can stab the life out of him. </line>
+<line>Lonewolf is still dangerous.  </line>
+<line>I have our crew waiting at the Skybar. </line>
+<line>I even have our guys in the only parkade entrance to the building. </line>
+<line>It's too dangerous for us. Our guys will bring Lonewolf here.</line>
+</parkade>
+
+<skybar>
+<line>SKYBAR</line>
+<line>Get the fuck out of my way...  </line>
+<line>I'm going to the Skybar to find Lonewolf myself.       </line>
+<line>I can't risk letting someone else enjoy killing that little fuck. </line>
+<line>You're not leaving, Mando.   </line>
+<line>Do you remember Slick-Will and his family? </line>
+<line>You better be careful bringing up the past... </line>
+<line>If I have to cut out your fucking tongue I will. </line>
+<line>Listen to me, Mando...   </line>
+<line>We begged you to stop.   </line>
+<line>We knew Slick-Will had to die for what he had done...  </line>
+<line>But you lost complete control.</line>
+<line>Mando... You made Slick-Will watch you kill his family.  </line>
+<line>You made him beg before you shot his wife. </line>
+<line>I can still hear her screams stop dead as you pulled the trigger.</line>
+<line>I can still see the last breathe that little boy took.  </line>
+<line>You never had to shoot Slick-Will...</line>
+<line>He died the second you killed his son.</line>
+</skybar>
+
+<highway>
+<line>HIGHWAY</line>
+<line>I warned you not to bring that shit up... </line>
+<line>That was 9 god damn years ago! </line>
+<line>Why the fuck are you bringing it up now!? </line>
+<line>You lost your control when you found out Slick-Will was a cop...</line>
+<line>There was no stopping you, your rage took control. </line>
+<line>And now You have the same look in your eyes as you did that night.</line>
+<line>Damn... you're such a pussy, Midman. </line>
+<line>Tell me how we're gonna get Lonewolf... </line>
+<line>Like I said, Mando...</line>
+<line>I have half our crew waiting for Lonewolf at the Skybar.</line>
+<line>Our crew will bring him to us here.  </line>
+<line>It's safe here, and you can do whatever you want with Lonewolf. </line>
+<line>Fuck! I just got word from the Skybar. </line>
+<line>Don't tell me...    </line>
+<line>Lonewolf slaughtered them all.  </line>
+<line>How!? We had the entrance on lock-down! </line>
+<line>I warned you Lonewolf can kill...</line>
+<line>Jesus... Alright, we are officially code red. </line>
+<line>This is what we are going to do.   </line>
+<line>Mando: Get the rest of our crew geared up. Guns, armor, the works.</line>
+<line>Emile: Get a few guys in our SUV over to the Skybar. </line>
+<line>Use our Black SUV, I want Lonewolf to think it is Mando and myself. </line>
+<line>Mando, we are getting you to the Marshland safe house.   </line>
+</highway>
+
+<driveway>
+<line>DRIVEWAY</line>
+<line>Holy shit!  </line>
+<line>How did he know... </line>
+<line>Lonewolf... What the hell are you doing man?! </line>
+<line>Shit...Emile!? I could have killed you man!    </line>
+<line>Let's see where you're going now...              </line>
+<line>Damn, Midman, the place looks worse than ever.  </line>
+<line>I always hate coming here...  </line>
+<line>I don't know how you can call this a 'safe' house...   </line>
+<line>I feel like I'll fall through the fucking floor taking a shit. </line>
+<line>I get it, Mando. It's no penthouse.   </line>
+<line>But with everything going on, we need to lay low.  </line>
+<line>How long do we have to stay in this shit hole?   </line>
+<line>We have supplies for 10 days...             </line>
+<line>Our crew is guarding the place and no one knows we are here.     </line>
+<line>We need to take this time to figure out what to do next.   </line>
+<line>We need to be out there, we need to kill that little Wolf fuck.  </line>
+<line>That's exactly what he wants us to be doing.    </line>
+<line>For some reason, Lonewolf wants our blood. </line>
+<line>I hope you realize who we are dealing with.  </line>
+<line>Get comfortable, you are staying here.   </line>
+<line>3 Days later...</line>
+<line>Let me come with you, this place is driving me mad.  </line>
+<line>It is hell here, but it is our safest option. </line>
+<line>I am putting myself at risk by leaving, but we have a business to run.</line>
+<line>Our allies need to know where we have been and whats going on.  </line>
+<line>We need their help, our crew has never been this small.    </line>
+<line>I can help you, what good can I do sitting here? </line>
+<line>What good are you if you're dead?</line>
+<line>I'll be back tomorrow, just lay low here.  </line>
+</driveway>
+
+<marshland>
+<line>MARSHLAND</line>
+<line>Holy shit... it's about time you showed up.    </line>
+<line>Where the fuck were you!? </line>
+<line>You don't even want to know...   </line>
+<line>Emile...tell me you have Lonewolf's head in that bag. </line>
+<line>Where's Midman? He will want to hear this. </line>
+<line>He'll be back tomorrow.  </line>
+<line>Tell me what happened.   </line>
+<line>I was following the crew we sent in your SUV to the Skybar... </line>
+<line>Good thing you weren't in it, because Lonewolf set up a bomb. </line>
+<line>Somehow he knew we'd go to the Skybar.  </line>
+<line>He blew up my boys...  </line>
+<line>This is a fucking nightmare, Mando.  </line>
+<line>The good news is that Lonewolf must think you are dead...  </line>
+<line>It was your SUV he blew up, and there was nothing left of anybody in it.</line>
+<line>Careful, Emile, thats my family you are talking about.    </line>
+<line>Sorry... but if Lonewolf thinks you are dead we should be safe here. </line>
+<line>Still, we should tighten security.   </line>
+<line>The entire Driveway was empty when I came up here.</line>
+<line>What do you mean empty?  </line>
+<line>We set up guys to watch the driveway... </line>
+<line>No one was there.   </line>
+<line>I didn't see any security until outside the Mansion.   </line>
+<line>Fuck! It's Lonewolf!   </line>
+<line>He knows we are here... </line>
+<line>No fucking way... I wasn't followed... </line>
+<line>Stay away from the windows, I am going to check it out. </line> 
+</marshland>
+
+<credits>
+<line>DANH ĐỀ</line>
+<line>Quit fucking around Emile!  </line>
+<line>Emile get back here, man!</line>
+<line>Hey.. Who... Who is that!?  </line>
+<line>You?! What the fuck are you doing?... </line>
+<line>I've been waiting for this for a long time. </line>
+<line>Wolfy, come on, you were my boy... </line>
+<line>Fuck you, I wanted you dead from day one. </line>
+<line>I couldn't ever get you alone. </line>
+<line>Your time is up, Mando. </line>
+<line>Drop the gun, Lonewolf!   </line>
+<line>Emile...Back off...</line>
+<line>This is between Mando and me. </line>
+<line>It doesn't work like that...</line>
+<line>Mando is on my team, drop the fucking gun, man! </line>
+<line>Emile! Shoot this fuck!    </line>
+<line>This isn't a movie, just shoot him, now! </line>
+<line>Christ, why are you doing this!?    </line>
+<line>I'm here for Mando... </line>
+<line>Emile, back when we were in the army together... </line>
+<line>You told me you worked with Mando, you told me about Mando's history...    </line>
+<line>It turns out that I am part of that history. </line>
+<line>You took everything from me, Mando.  </line>
+<line>I want you to know who is going to end your life.  </line>
+<line>I couldn't kill you until you recognized me... </line>
+<line>BLANK</line>
+<line>You made a big mistake.  </line>
+<line>You should have made sure you killed me that night...  </line>
+<line>Like you made sure you killed my family.  </line>
+<line>Holy shit...  </line>
+<line>It's You!?  </line>
+<line>  BOOM</line>
+<line>TO BE CONTINUED...</line>
+<line>BEAT GAME</line>
+<line>NO FAILS</line>
+<line>NO FAILS, 100% ACCURACY</line>
+</credits>
+
+</chapter4>
+
+
+
+<mission>QUÁN CÀ PHÊ</mission>
+<mission>TOÀ ÁN</mission>
+<mission>TIỆM GIẶT ỦI</mission>
+<mission>CẦU VƯỢT</mission>
+<mission>CỬA VÒM</mission>
+<mission>HÀNG RÀO</mission>
+<mission>ĐƯỜNG RAY</mission>
+<mission>BỆNH VIỆN</mission>
+<mission>CĂN CỨ MẬT</mission>
+<mission>NHÀ KHO</mission>
+<mission>CĂN HỘ</mission>
+<mission>TRƯỜNG BẮN</mission>
+<mission>NHÀ MÁY</mission>
+<mission>ĐẠI UÝ</mission>
+<mission>XE TĂNG</mission>
+<mission>TRƯỜNG HỌC</mission>
+<mission>ĐƯỜNG SẮT</mission>
+<mission>KHO THÓC</mission>
+<mission>GARA</mission>
+<mission>RƠ-MOÓC</mission>
+<mission>TỰ SÁT</mission>
+<mission>ĐÀI PHUN NƯỚC</mission>
+<mission>CẦU</mission>
+<mission>ĐƯỜNG BĂNG</mission>
+<mission>TỔNG HÀNH DINH</mission>
+<mission>CÔNG VIÊN</mission>
+<mission>NGƯỜI GÁC CỬA</mission>
+<mission>TÀU ĐIỆN NGẦM</mission>
+<mission>SÂN VẬN ĐỘNG</mission>
+<mission>CÁNH ĐỒNG</mission>
+<mission>BÃI ĐẬU XE</mission>
+<mission>QUÁN BAR</mission>
+<mission>ĐƯỜNG CAO TỐC</mission>
+<mission>LỐI ĐI</mission>
+<mission>ĐẦM LẦY</mission>
+
+<unlock>MỞ KHOÁ CHƯƠNG 2</unlock>
+<unlock>MỞ KHÓA CHƯƠNG 3</unlock>
+
+<rifles>MOSIN NAGANT</rifles>
+<rifles>HUNTING RIFLE</rifles>
+<rifles>700 TACTICAL</rifles>
+<rifles>SCOUT TACTICAL</rifles>
+<rifles>SOVIET SSD</rifles>
+<rifles>ENHANCED BR</rifles>
+<rifles>A5 M40</rifles>
+<rifles>MK 11-0</rifles>
+<rifles>7.62 OBR</rifles>
+<rifles>XM2100</rifles>
+<rifles>ARCTIC WM</rifles>
+<rifles>SR SYSTEM</rifles>
+<rifles>BRAVO 98</rifles>
+<rifles>SKO 42</rifles>
+<rifles>200M-TAC</rifles>
+<rifles>M MK82</rifles>
+<rifles>VSS</rifles>
+<rifles>M14</rifles>
+<rifles>HK 417</rifles>
+<rifles>OMEN RECON</rifles>
+<rifles>SA-338</rifles>
+
+<scopes>ỐNG NGẮM SĂN BẮN</scopes>
+<scopes>ÓNG NGẮM SĂN BẮN-R</scopes>
+<scopes>AR PLATFORM OPTIC</scopes>
+<scopes>MID-RANGE PRC</scopes>
+<scopes>MID-RANGE BENDER</scopes>
+<scopes>LONG RANGE OPTIC-R</scopes>
+<scopes>ILLUMINATED LRO</scopes>
+<scopes>PRECISION MR</scopes>
+<scopes>ADVANCED TRS</scopes>
+<scopes>RAZOR HD Gen II</scopes>
+
+<items>CHÂN CHỐNG</items>
+<items>BỘ GIẢM THANH</items>
+<items>BAO BÁNG SÚNG</items>
+<items>DÂY ĐEO</items>
+<items>LỚP BỌC VẢI BỐ</items>
+<items>LỚP BỌC LÁ CÂY</items>
+<items>MÁY ĐO CỰ LY</items>
+<items>MÁY ĐO GIÓ</items>
+<items>KÍNH QUAN SÁT MỤC TIÊU</items>
+
+<riflebtn>SÚNG TRƯỜNG</riflebtn>
+<riflebtn>ỐNG NGẮM</riflebtn>
+<riflebtn>PHỤ KIỆN</riflebtn>
+
+<credits>Trang web</credits>
+<credits>Hỗ trợ</credits>
+<credits>Cảm ơn các bạn và gia đình vì sự giúp đỡ, tình yêu, sự chân thành và ủng hộ của các bạn là động lực của chúng tôi!</credits>
+<credits>Công nghệ sử dụng</credits>
+<credits>Đội ngũ FDG</credits>
+<credits>Nhà phát triển</credits>
+<credits>Đồng sáng lập</credits>
+<credits>Pháp lý, kinh doanh</credits>
+<credits>Quản lý kiểm định</credits>
+<credits>Trợ lý kiểm định</credits>
+<credits>Đội ngũ kiểm định</credits>
+
+<ender>MENU</ender>
+<ender>SÚNG TRƯỜNG</ender>
+<ender>CHƠI LẠI</ender>
+<ender>TIẾP TỤC</ender>
+
+<check>CHECK OUT RIFLES</check>
+
+<newRate>Bạn có vui khi chơi Lonewolf không?</newRate>
+<newRate>Hãy gửi phản hồi và cho chúng tôi biết suy nghĩ của bạn!</newRate>
+<newRate>Rất tốt, có thưởng cho bạn!</newRate>
+
+
+
+<xxx>XXXXXXXXXXXXXXXX  New translations below this line  XXXXXXXXXXXXXXXXX</xxx>
+
+<itemsX>KÍNH QUAN SÁT MỤC TIÊU</itemsX>
+
+<itemX>PHÁT HIỆN KẺ ĐỊCH</itemX>
+<itemX>HIỂN THỊ SỐ LƯỢNG KẺ ĐỊCH CẦN HẠ GỤC</itemX>
+
+<missionName>KHU ĐẤT TRỐNG</missionName>
+<missionName>QUÁN CÀ PHÊ</missionName>
+<missionName>TOÀ ÁN</missionName>
+<missionName>TIỆM GIẶT ỦI</missionName>
+<missionName>CẦU VƯỢT</missionName>
+<missionName>CỬA VÒM</missionName>
+<missionName>ĐƯỜNG RAY</missionName>
+<missionName>BỆNH VIỆN</missionName>
+<missionName>CĂN CỨ MẬT</missionName>
+<missionName>KHO THÓC</missionName>
+<missionName>XE TĂNG</missionName>
+<missionName>ĐẠI UÝ</missionName>
+<missionName>CĂN HỘ</missionName>
+<missionName>GARA</missionName>
+<missionName>RƠ-MOÓC</missionName>
+<missionName>TỰ SÁT</missionName>
+<missionName>ĐÀI PHUN NƯỚC</missionName>
+<missionName>CẦU</missionName>
+<missionName>ĐƯỜNG BĂNG</missionName>
+<missionName>TỔNG HÀNH DINH</missionName>
+<missionName>CÔNG VIÊN</missionName>
+<missionName>NGƯỜI GÁC CỬA</missionName>
+<missionName>TÀU ĐIỆN NGẦM</missionName>
+<missionName>SÂN VẬN ĐỘNG</missionName>
+<missionName>CÁNH ĐỒNG</missionName>
+<missionName>BÃI ĐẬU XE</missionName>
+<missionName>QUÁN BAR</missionName>
+<missionName>ĐƯỜNG CAO TỐC</missionName>
+<missionName>LỐI ĐI</missionName>
+<missionName>ĐẦM LẦY</missionName>
+<missionName>HÀNG RÀO</missionName>
+<missionName>TRƯỜNG BẮN</missionName>
+<missionName>NHÀ MÁY</missionName>
+<missionName>TRƯỜNG HỌC</missionName>
+<missionName>ĐƯỜNG SẮT</missionName>
+<missionName>NHÀ KHO</missionName>
+
+<objective>• LEARN THE BASICS, KILL THE CRIMINAL</objective>
+<objective>• KILL THE LEGAL ASSISTANT</objective>
+<objective>• KILL THE LAWYER</objective>
+<objective>• KILL ALL SECURITY</objective>
+<objective>• TARGET HAS RED HAIR</objective>
+<objective>• KILL SECURITY, CAPTURE REDFACE</objective>
+<objective>• KILL THE CREW</objective>
+<objective>• KILL REDFACE WITH NO ALARMS</objective>
+<objective>• CLEAR THE SAFEHOUSE</objective>
+<objective>• CLEAR THE BARN</objective>
+<objective>• KILL BOTH TANK COMMANDERS</objective>
+<objective>• KILL THE CAPTAIN</objective>
+<objective>• CLEAR THE APARTMENT</objective>
+<objective>• RESCUE THE HOSTAGE</objective>
+<objective>• CLEAR THE TRAILER</objective>
+<objective>• PREVENT THE SUICIDE</objective>
+<objective>• PROTECT SLICK-WILL</objective>
+<objective>• KILL ALL ENEMIES</objective>
+<objective>• RESCUE THE PILOT</objective>
+<objective>• KILL THREATS &amp; SAVE HOSTAGES</objective>
+<objective>• KILL THE MAN RUNNING</objective>
+<objective>• BEAT THE DOORMAN</objective>
+<objective>• KILL THE SECOND BEAR BROTHER</objective>
+<objective>• KILL THE THIRD BEAR BROTHER</objective>
+<objective>• KILL THE LAST BEAR BROTHER</objective>
+<objective>• CLEAR THE PARKADE</objective>
+<objective>• CLEAR THE SKYBAR</objective>
+<objective>• BOMB THE BLACK CAR</objective>
+<objective>• KILL THE GUARDS</objective>
+<objective>• KILL THE GUARDS</objective>
+<objective>• CLEAR ALL OF THE CANS</objective>
+<objective>• HIT ALL 10 TARGETS</objective>
+<objective>• KILL ALL ENEMIES</objective>
+<objective>• KILL ALL ENEMIES</objective>
+<objective>• KILL BOTH ENEMIES</objective>
+<objective>• CLEAR THE WAREHOUSE</objective>
+
+<objective2>• CAPTURE REDFACE, DO NOT KILL HIM</objective2>
+<objective2>• KILL THE BIRD</objective2>
+<objective2>• KILL THE PATROL</objective2>
+<objective2>• KILL THE SNIPER BEFORE HE KILLS YOU</objective2>
+
+<enemyCount>SỐ LƯỢNG</enemyCount>
+
+<fence2>• BẮN NHỮNG CÁI LON</fence2>
+<fence2>• BẮN CON CHIM</fence2>
+
+<flash_fence_obj>• SHOOT ALL OF THE CANS</flash_fence_obj>
+<flash_fence>FENCE</flash_fence>
+<flash_fence>Brand new pants... for fucks sake...        </flash_fence>
+<flash_fence>Which one of you fucks shot me?!</flash_fence>
+<flash_fence>That beard is a nice target, but they wanted you alive.</flash_fence>
+<flash_fence>Redface... Breaking the peace I see?</flash_fence>
+<flash_fence>Peace!? You shot my only brother...</flash_fence>
+<flash_fence>Killing you is all I have left to do now.</flash_fence>
+<flash_fence>Mando would like a word. The hospital will have to wait.</flash_fence>
+<flash_fence>Welcome to the Assembly.</flash_fence>
+<flash_fence>That was some amazing shooting. We're only alive because of you...</flash_fence>
+<flash_fence>Let's have a seat while Mando deals with our friend Redface.</flash_fence>
+<flash_fence>We have to wait until Mando calls us in...</flash_fence>
+<flash_fence>Why don't you tell me about yourself?</flash_fence>
+<flash_fence>What is this, a date?</flash_fence>
+<flash_fence>I'm just curious how someone ends up so good at killing people.</flash_fence>
+<flash_fence>It just doesn't seem very natural.</flash_fence>
+<flash_fence>A goat has a different nature than a Lion.</flash_fence>
+<flash_fence>Or perhaps a wolf...I admit your talent has come in handy.</flash_fence>
+<flash_fence>Where did you learn how to shoot?</flash_fence>
+<flash_fence>You must hate not knowing me.</flash_fence>
+<flash_fence>Listen, You are sitting in our office, right next door to our leader...</flash_fence>
+<flash_fence>I'm definitely a little nervous not knowing you.</flash_fence>
+<flash_fence>Alright, if it'll calm you down...</flash_fence>
+<flash_fence>My father taught me how to shoot.</flash_fence>
+<flash_fence>I was 11 years old...</flash_fence>
+<flash_fence>I remember my father handing me my first rifle.</flash_fence>
+<flash_fence>I remember the feel of the grip, and how it felt against my cheek.</flash_fence>
+<flash_fence>I remember exactly when the trigger broke and the rifle would fire.</flash_fence>
+<flash_fence>I felt like the rifle was a part of me...</flash_fence>
+<flash_fence>Just another body part I had complete control of.</flash_fence>
+<flash_fence>All I ever wanted to do was shoot that rifle.</flash_fence>
+<flash_fence>My dad taught me how to use it...        </flash_fence>
+<flash_fence>and how to respect it.                     </flash_fence>
+
+
+<flash_fence2_obj>• SHOOT THE BIRD</flash_fence2_obj>
+<flash_fence2>FENCE</flash_fence2>
+<flash_fence2>My dad and I would shoot all day, everyday.</flash_fence2>
+<flash_fence2>He was even there for my first kill...</flash_fence2>
+<flash_fence2>A raven flew in and landed where I was shooting.</flash_fence2>
+<flash_fence2>Ravens were attacking our chickens...</flash_fence2>
+<flash_fence2>I had no problem killing something that killed the innocent.</flash_fence2>
+<flash_fence2>Everything became amplified when I was shooting at a living thing.</flash_fence2>
+<flash_fence2>I will always remember my first kill...    </flash_fence2>
+<flash_fence2>I liked it more when my target had a heartbeat.</flash_fence2>
+
+<tracks>
+<line>• KILL THE CREW</line>
+<line>Enough stories... Where is Mando?  </line>
+<line>His hands are tied around Redface's neck...</line>
+<line>Listen, I've brought you to where we operate.</line>
+<line>You're with us now, and you will meet Mando.</line>
+<line>Let me guess. You have another job for me...</line>
+<line>and you expect me to do it.</line>
+<line>You come here after and I will walk you into Mando's office myself.</line>
+<line>You have my word.        </line>
+<line>We convinced Redface to set up an exchange. Our money for Redface.</line>
+<line>Redface's crew expects him, but he won't be going.</line>
+<line>Kill his crew and get our money back.                  </line>
+<line>1. BULLETS DROP AFTER 100M DISTANCE</line>
+<line>2. 'RANGE FINDER' MARKS DISTANCE, CHECK IT OUT IN THE STORE!</line>
+<line>2. HOLD THE MARK BUTTON TO MARK THE DISTANCE ON YOUR SCOPE</line>
+<line>DISTANCE</line>
+<line>BULLETS DROP AFTER 100M, SO AIM HIGHER</line>
+</tracks>
+
+<flash_range>RANGE</flash_range>
+<flash_range>Were there any problems at the Apartment?     </flash_range>
+<flash_range>Only for Redface's men...              </flash_range>
+<flash_range>The job is done.                    </flash_range>
+<flash_range>Excellent news...               </flash_range>
+<flash_range>We are on the way to see Mando, I will let him know.</flash_range>
+<flash_range>I'll be in touch.                  </flash_range>
+<flash_range>Right, I'll be ready.                </flash_range>
+<flash_range>Enemies of the Assembly continue to die thanks to our new friend.</flash_range>
+<flash_range>You don't sound very happy about that.</flash_range>
+<flash_range>I thought you wanted The Assembly to have a killer.</flash_range>
+<flash_range>Lonewolf's killing is too good to be true.</flash_range>
+<flash_range>For someone to do something so well without motivation is not right.</flash_range>
+<flash_range>You're just looking for the worst case scenario...</flash_range>
+<flash_range>Like I said, man... You've been on edge since Mando went crazy.</flash_range>
+<flash_range>It's hard for me to trust this man like you do...</flash_range>
+<flash_range>Emile, tell me how he earned your trust.          </flash_range>
+<flash_range>xxx</flash_range>
+<flash_range>Nobody liked him at first...                 </flash_range>
+<flash_range>We all faught hard to get into the Sniper training program.</flash_range>
+<flash_range>Lonewolf got put in while we were already half way through.</flash_range>
+<flash_range>He didn't talk, and wore a facemask everywhere, he was weird.</flash_range>
+<flash_range>The Sniper Training program was supposed to be the best of the best...</flash_range>
+<flash_range>but we all thought this masked asshole was a joke.</flash_range>
+<flash_range>At least until we saw him shoot...</flash_range>
+
+<flash_factory>FACTORY</flash_factory>
+<flash_factory>He didn't say a word...</flash_factory>
+<flash_factory>The qualifying stage was the first time we saw Lonewolf shoot...</flash_factory>
+<flash_factory>He was the only one to hit every target.</flash_factory>
+<flash_factory>He won my respect that day.</flash_factory>
+<flash_factory>Our command paired me with Lonewolf.</flash_factory>
+<flash_factory>We trained together, We were always the top of the class...</flash_factory>
+<flash_factory>It turned out that Lonewolf and me were a good team.</flash_factory>
+<flash_factory>The war needed guys like us, so we were sent in...</flash_factory>
+<flash_factory>Our first real world mission was to clear a bombed factory.</flash_factory>
+<flash_factory>We were assigned to kill the patrol guarding one of the buildings...</flash_factory>
+<flash_factory>and we were ordered to get inside and to secure a large pile of money...</flash_factory>
+<flash_factory>We had no idea what we were getting into.</flash_factory>
+
+<captain>CAPTAIN</captain>
+<captain>Once we cleared the enemy guards, we went in...</captain>
+<captain>But there was no money, the place was completely empty.</captain>
+<captain>It looked like someone beat us there...</captain>
+<captain>At the mission debriefing we were told why the factory was empty.</captain>
+<captain>The factory was bombed by our enemy's army.</captain>
+<captain>Our enemy knew that bombing the area would make everyone evacuate...</captain>
+<captain>Once the area was clear, they would come in and steal the money.</captain>
+<captain>No one could report this war crime...</captain>
+<captain>because once the bombs dropped, everyone ran away.</captain>
+<captain>The man behind this bullshit was Captain Raven.</captain>
+<captain>This sick fuck would find areas with money, gold, weapons, anything valuable...</captain>
+<captain>and he would use his command of the military to drop bombs there.</captain>
+<captain>Once the area was clear, he used his personal guard to protect the valuables.</captain>
+<captain>We were too late catching Captain Raven at the factory...</captain>
+<captain>But our new intel had found Captain Raven.</captain>
+<captain>And they wanted us to finish the job.</captain>
+
+<tanks>TANKS</tanks>
+<tanks>Lonewolf made an amazing shot...      </tanks>
+<tanks>Long range and through wind, he nailed our target.</tanks>
+<tanks>Or at least, who we thought was our target...</tanks>
+<tanks>We pulled the fake mustache off of our target and realized Captain Raven was a careful man.</tanks>
+<tanks>He was using decoys... Captain Raven knew he was being hunted.</tanks>
+<tanks>So you shot the wrong guy?</tanks>
+<tanks>The decoy was dressed exactly like Captain Raven.</tanks>
+<tanks>Lonewolf was pissed.</tanks>
+<tanks>He couldn't handle the fact that we killed an innocent man.</tanks>
+<tanks>Hmm, that is interesting.                   </tanks>
+<tanks>Midman, could you drive any fucking slower?      </tanks>
+<tanks>I've been waiting over an hour...             </tanks>
+<tanks>Sorry boss, it won't happen again.                      </tanks>
+<tanks>Are you two telling war stories without me?</tanks>
+<tanks>Emile, you know I love hearing about that shit.</tanks>
+<tanks>Come in and sit down, let's talk more about killing.</tanks>
+<tanks>Emile... I'm not supposed to talk about when Mando lost his sanity...</tanks>
+<tanks>So I trust you'll keep it between us.</tanks>
+<tanks>No worries, Midman.                          </tanks>
+<tanks>That's hilarious, man...                    </tanks>
+<tanks>You shot some poor asshole thinking it was Captain Raven?</tanks>
+<tanks>It made lonewolf blood thirsty. He wanted Captain Raven in his crosshairs...</tanks>
+<tanks>We knew he was going to be tough to find, especially with him using decoys.</tanks>
+<tanks>Our intel learned of a new area Captain Raven was going to bomb.</tanks>
+<tanks>Lonewolf and I were sent in to stop the tanks from hitting the area.</tanks>
+<tanks>We knew this would get Captain Raven's attention.</tanks>
+
+<tanks2>TANKS 2</tanks2>
+<tanks2>Captain Raven sent out a patrol to make sure the tanks would be safe...</tanks2>
+<tanks2>Lonewolf put them all down.</tanks2>
+<tanks2>We heard the tanks coming in...</tanks2>
+<tanks2>The tanks were moving, there was wind and distance...</tanks2>
+<tanks2>I thought there would be no way Lonewolf could hit them.</tanks2>
+<tanks2>It was the last time I ever doubted Lonewolf.</tanks2>
+
+<flash_school>SCHOOL</flash_school>
+<flash_school>Once we stopped the tanks new orders came in.</flash_school>
+<flash_school>We should never have assumed Captain Raven would only send one tank unit...</flash_school>
+<flash_school>The School building we were supposed to protect had been bombed anyway.</flash_school>
+<flash_school>Captain Raven really wanted whatever was inside of this one...</flash_school>
+<flash_school>I went with Lonewolf to the School...</flash_school>
+<flash_school>Captain Raven already had his guards up to protect what was inside.</flash_school>
+
+<flash_railway>RAILWAY</flash_railway>
+<flash_railway>We cleared the School and got inside.</flash_railway>
+<flash_railway>Everything valuable was gone... we were too late...</flash_railway>
+<flash_railway>and Captain Raven knew we were coming.</flash_railway>
+<flash_railway>Captain Raven left a note just for us.</flash_railway>
+<flash_railway>He wrote that we were cowards...</flash_railway>
+<flash_railway>...we should fight him like real men...</flash_railway>
+<flash_railway>and that we should stop hiding in the bushes.</flash_railway>
+<flash_railway>It was the first time I ever heard Lonewolf laugh. </flash_railway>
+<flash_railway>Classic move, try to anger your enemy out of his own tactics.</flash_railway>
+<flash_railway>We weren't falling for it.</flash_railway>
+<flash_railway>And now we knew we had Captain Raven desperate.</flash_railway>
+<flash_railway>When your enemy mocks what you do, you know you have him beat.</flash_railway>
+<flash_railway>We stayed in the bushes...</flash_railway>
+<flash_railway>Our training made us invisible.</flash_railway>
+<flash_railway>Captain Raven's men were ours for the taking.</flash_railway>
+<flash_railway>Our intel sent us to kill his scouts.</flash_railway>
+<flash_railway>These were the men responsible for finding the valuable areas.</flash_railway>
+<flash_railway>We caught them scouting a train depot filled with diamonds.</flash_railway>
+
+<flash_warehouse>WAREHOUSE</flash_warehouse>
+<flash_warehouse>Captain Raven was furious that his scouts were no longer breathing.</flash_warehouse>
+<flash_warehouse>At our next brief we were assigned to a building that got bombed.</flash_warehouse>
+<flash_warehouse>The target building was a large Warehouse.</flash_warehouse>
+<flash_warehouse>Our officers were convinced it was Captain Raven's work.</flash_warehouse>
+<flash_warehouse>Lonewolf was convinced that it was a trap.       </flash_warehouse>
+<flash_warehouse>We couldn't disobey our orders, so we made our way to the Warehouse.</flash_warehouse>
+<flash_warehouse>Roger that, targets in sight...       </flash_warehouse>
+<flash_warehouse>Are you seeing what I am seeing, Emile?        </flash_warehouse>
+<flash_warehouse>This looks like Captain Raven's work...          </flash_warehouse>
+<flash_warehouse>What makes you think this is a trap?      </flash_warehouse>
+<flash_warehouse>The enitre building is destroyed...            </flash_warehouse>
+<flash_warehouse>How would Captain Raven collect anything valuable from this place?   </flash_warehouse>
+<flash_warehouse>He made this one obvious. He wants us here.     </flash_warehouse>
+<flash_warehouse>Maybe, but intel gave us a mission... It's not like we have a choice.</flash_warehouse>
+<flash_warehouse> At least we get to kill more of his men.       </flash_warehouse>
+<flash_warehouse>That's the other thing that isn't right about this...         </flash_warehouse>
+<flash_warehouse>Why would he put his men out here in the open just to die?</flash_warehouse>
+<flash_warehouse>Fuck it, let's get to work.                 </flash_warehouse>
+
+<flash_warehouse2>WAREHOUSE 2</flash_warehouse2>
+<flash_warehouse2>Damn... Nice shooting.            </flash_warehouse2>
+<flash_warehouse2>Let's get the fuck out of here...              </flash_warehouse2>
+<flash_warehouse2>Emile... Don't move...            </flash_warehouse2>
+<flash_warehouse2>We have a problem...            </flash_warehouse2>
+<flash_warehouse2>What?! What are you...           </flash_warehouse2>
+<flash_warehouse2>This is a trap.</flash_warehouse2>
+<flash_warehouse2>Fuck, how could I fall for this...          </flash_warehouse2>
+<flash_warehouse2>He used his men as targets to expose our position...</flash_warehouse2>
+<flash_warehouse2>Shit... What are you saying?          </flash_warehouse2>
+<flash_warehouse2>Captain Raven set a sniper up to kill us here...     </flash_warehouse2>
+<flash_warehouse2>and he's looking right at us...      </flash_warehouse2>
+
+
+<garage>GARAGE</garage> 
+<garage>I'm really fucking lucky that Lonewolf is such a good shot.</garage>
+<garage>Captain Raven lured us to this warehouse...</garage>
+<garage>His Sniper was set up to kill us.</garage>
+<garage>Lonewolf wanted to leave a message to Captain Raven.</garage>
+<garage>We knew he would be dancing right now, thinking that he killed us.</garage>
+<garage>Our message would be loud and clear once he found it.</garage>
+<garage>You never told me Lonewolf saved your ass...</garage>
+<garage>Tell me the part where you kill Captain Raven with an axe.</garage>
+<garage>We never got Captain Raven...</garage>
+<garage>And I never talk about it. Especially with Lonewolf here.</garage>
+<garage>After the sniper incident, they deemed the mission too dangerous.</garage>
+<garage>When our commanders pulled us off of the mission to kill Captain Raven...</garage>
+<garage>Lonewolf went competely crazy. He wanted Captain Raven's head.</garage>
+<garage>So we know Lonewolf isn't as calculated as he seems...</garage>
+<garage>You're saying he can lose his control?</garage>
+<garage>Yeah, but who can't?</garage>
+<garage>What the fuck are you getting at Midman?</garage>
+<garage>I never liked the idea of using Lonewolf.</garage>
+<garage>We don't know him...And now Emile is showing us he can lose control.</garage>
+<garage>I've seen big mistakes happen when people lose their control.</garage>
+<garage>Mother Fucker!      </garage>
+<garage>YOU'RE BRINGING UP THAT SHIT AGAIN!?</garage>
+<garage>I SHOULD SMASH YOUR HEAD THROUGH THIS FUCKING TABLE!</garage>
+<garage>Emile... If this was a video game we would finish your stories in part 2...</garage>
+<garage>But right now, Get the fuck out.</garage>
+<garage>Me and Midman are going to have us a friendly little chat.</garage>
+<garage>How many fucking times are we going to go over this? </garage>
+<garage>I killed the cop and his family. It's done. Why are you bringing this shit up?</garage>
+<garage>Mando, I've been with you since day one.</garage>
+<garage>The Assembly doesn't know it, you may not even know it...</garage>
+<garage>But I know it. The mistakes you made that night changed you.</garage>
+<garage>Fuck! I don't care about that cop or his bitch wife... </garage>
+<garage>but that kid... I wish... Fuck, why did I shoot that kid?!   </garage>
+<garage>You lost control Mando...  </garage>
+<garage>You decided to leave the decisions to me after that night.   </garage>
+<garage>Quietly, of course. The men would still think you were in charge. </garage>
+<garage>Now My problem is that I never approved using Lonewolf. </garage>
+<garage>How many problems would we still have... </garage>
+<garage>If everyone lonewolf killed was still alive? </garage>
+<garage>Mando, how many problems came from the night you lost control?</garage>
+<garage>Chapter 3. 9 Years ago.</garage>
+<garage>Midman, what do you think?</garage>
+<garage>I think we shouldn't have had this meeting. </garage>
+<garage>Well maybe you shouldn't think. We are doing it.</garage>
+<garage>Like I said Mando, it'll be an easy 30 grand.</garage>
+<garage>You better fucking hope so.</garage>
+<garage>Midman, get Nicky in here...  </garage>
+<garage>Nicky, Meet Slick-Will... </garage>
+<garage>Slick-Will, meet my handsome nephew Nicky. </garage>
+<garage>Nicky, listen, The Garage has 30 grand cash in the back of their shop...</garage>
+<garage>No safe, no security. Standard alarm systems. Easy snatch and grab.</garage>
+<garage>Sounds fun. Who's coming with me?  </garage>
+<garage>Our new buddy Slick-Will is.</garage>
+<garage>What? No. That wasn't part of our deal. </garage>
+<garage>Listen to me Slick, I don't know you...    </garage>
+<garage>You said you want in with The Assembly, you go with Nicky.</garage>
+<garage>Otherwise get the fuck out of my office. </garage>
+
+<chapter_3>CHƯƠNG 3</chapter_3>
+<chapter_3>Emile &amp; Lonewolf.</chapter_3>
+<chapter_4>CHƯƠNG 4</chapter_4>
+<chapter_4>9 năm trước.</chapter_4>
+<chapter_5>CHƯƠNG 5</chapter_5>
+<chapter_5>Hiện tại.</chapter_5>
+
+<premiumGun>Nhiệm vụ này sử dụng súng trường của gói Premium.</premiumGun>
+<premiumGun>MUA PREMIUM ĐỂ MỞ KHOÁ SÚNG BẠN VỪA DÙNG!</premiumGun>
+
+<removeAds>XOÁ QC</removeAds>
+<equip>SỬ DỤNG</equip>
+
+<bonus>SÚNG TRƯỜNG</bonus>
+<bonus>SÚNG LỤC</bonus>
+<bonus>M4A1</bonus>
+<bonus>.22</bonus>
+<bonus>TRÒ CHƠI</bonus>
+<bonus>CHƠI LẠI NHIỆM VỤ NÀY VỚI SÚNG KHÁC</bonus>
+
+<bonusLock>HOÀN THÀNH 'CỬA VÒM'</bonusLock>
+<bonusLock>HOÀN THÀNH 'HÀNG RÀO'</bonusLock>
+<bonusLock>HOÀN THÀNH 'RƠ-MOỐC'</bonusLock>
+
+<bonusTut>CHẾ ĐỘ KHÁC</bonusTut>
+<bonusTut>SAU KHI HOÀN THÀNH MỘT NHIỆM VỤ, BẠN CÓ THỂ CHƠI LẠI BẰNG NHỮNG LOẠI SÚNG KHÁC.</bonusTut>
+
+<moregames>TRÒ CHƠI BẮN SÚNG</moregames>
+
+<premiumChoose>CHỌN GIÁ GÓI PREMIUM CỦA BẠN!</premiumChoose>
+<premiumChoose>MỌI MỨC GIÁ ĐỀU CÓ QUYỀN LỢI NHƯ NHAU</premiumChoose>
+<premiumChoose>*CHÚNG TÔI MUỐN BẠN TRẢ MỨC GIÁ XỨNG ĐÁNG VỚI GIÁ TRỊ CỦA GÓI PREMIUM. BẠN CŨNG CÓ THỂ TRẢ THÊM MỘT CHÚT NẾU YÊU THÍCH VÀ ỦNG HỘ CHÚNG TÔI.</premiumChoose>
+<premiumChoose>MUA</premiumChoose>
+
+<trophy_new> YÊU THIÊN NHIÊN</trophy_new>
+<trophy_new2>Để con chim sống sót.</trophy_new2>
+<trophy_new> LỖ KHOÁ</trophy_new>
+<trophy_new2>Giết cả hai kẻ địch. xuyên qua khe tàu hẹp</trophy_new2>
+<trophy_new> THỢ SĂN hay CON MỒI</trophy_new>
+<trophy_new2>Giết xạ thủ đối phương trước khi hắn kịp bắn.</trophy_new2>
+<trophy_new> CHUYÊN GIA CHƯƠNG 3</trophy_new>
+<trophy_new2>Đạt mọi điểm bắn trúng đầu và độ chính xác ở Chương 3</trophy_new2>
+<trophy_new> NHÀ SƯU TẦM ỐNG NGẮM</trophy_new>
+<trophy_new2>Mua và sở hữu tất cả ống ngắm.</trophy_new2>
+
+
+<watch>WATCH
+WALKTHROUGH!</watch>
+<hintWarn>* YOU PAY EACH TIME YOU SEE A HINT, SO REMEMBER IT!</hintWarn>
+<hintTitle>BUY A HINT FOR THIS MISSION?</hintTitle>
+<hint>1. Target is on the left, in the blue shirt.</hint>
+<hint>1. Kill the only person you see before he walks away.</hint>
+<hint>1. Kill the man in the car.
+2. Kill the man standing by the door.
+3. Kill the man who comes around the corner.</hint>
+<hint>1. Kill the man with the red hair, he has a blue shirt.
+2. He comes in from the left side.</hint>
+<hint>1. Shoot fast and kill everyone, but be careful, Redface runs in from the left.
+2. Shoot Redface in the legs when he runs in.</hint>
+<hint>1. Shoot each of the cans.
+2. Shoot the bird.</hint>
+<hint>1. Wait for the man to walk away from the car.
+2. Kill the man in the car.
+3. Kill the man standing in the grass.
+4. Kill the walking man before he turns around.
+Note - Aim higher because of the distance.</hint>
+<hint>1. Shoot the machine on the left.
+2. Shoot the machine on the right.
+3. Shoot Redface before he calls for help.</hint>
+<hint>1. Kill the man at the bottom.
+2. Kill the man at the top who is outside.
+3. Kill the man inside the house.</hint>
+<hint>1. Kill the man at the top of the barn.
+2. Kill both men once the man walks infront of the other man with one shot.</hint>
+<hint>1. Shoot the man on the balcony.
+2. Shoot the man on the computer.
+3. RELOAD.
+4. Shoot the remaining enemies before they kill you.</hint>
+<hint>1. Shoot all 10 targets, don't let a target disapear.</hint>
+<hint>1. Wait for the 2 men to walk away from the center.
+2. Shoot the man inside the building.
+3. Shoot the man infront of the building.
+4. Shoot each man walking away before they turn.
+5. The man on the left turns before the man on the right.</hint>
+<hint>1. Wait for the captain to walk in from the left, then kill him.</hint>
+<hint>1. Wait for the men to walk past the 2 standing men.
+2. Kill the standing man on the left.
+3. Kill the standing man on the right.
+4. Kill the man walking in the back.
+5. Kill the man in the front.
+6. Wait for the tanks to drive in, and kill the men in the tanks.</hint>
+<hint>1. Shoot the man on the roof.
+2. Shoot the bird on the wire.
+3. Wait for the man to walk over to the dead bird.
+4. Kill the man inside the building.
+5. Kill the man looking left infront of the building.
+6. Kill the man who is looking at the dead bird.</hint>
+<hint>1. Time your shot to hit between the train cars.
+2. Kill the man on the left first.</hint>
+<hint>1. Kill the man on the bottom level at the far left.
+2. Kill the man on the bottom who is walking before he turns around.
+3. Kill the last man on the bottom.
+4. Kill the man on the top when he walks to the far left. 
+5. Kill the man leaning on the wall.
+6. Kill the man with the binoculars.
+7. Wait for the sniper to shoot, the bullet will show you his general location.
+8. Kill the sniper before he has a second shot.</hint>
+<hint>1. Wait for the enemy to peak his head to the right of the hostage.
+2. Kill him without hitting the hostage.</hint>
+<hint>1. Kill the man walking by the windows.
+2. Kill the 2 men outside of the trailer.
+3. Kill the men who appear in the trailer before they kill you.</hint>
+<hint>1. Shoot the gun without hitting the man.</hint>
+<hint>1. Don't zoom in, watch the 3 men to see who pulls out a gun.
+2. Kill the man who pulls his gun before he shoots Slick-Will.</hint>
+<hint>1. Shoot fast, try to be accurate so you don't reload.
+2. If enemies shoot your cover, your aim will be thrown off, so don't shoot.</hint>
+<hint>1. Kill the man walking the hostage.
+2. Quickly kill the man by the car before he shoots the hostage.</hint>
+<hint>1. The GREY squares on your HUD will blink red.
+2. RED blinks show you which area the enemies will spawn.
+3. If a hostage comes up, take your time aiming so you don't kill the hostage.
+4. Kill all of the enemies before they damage the police force.</hint>
+<hint>1. Wait for the man to run in from the left.
+2. Kill the man who is running.
+3. Remember, wind and distance will effect the bullet.</hint>
+<hint>1. Tap to punch.
+2. Tap once the bouncer's head isn't protected.
+3. Watch the pattern and time your punches.
+4. He won't hit you unless you miss a punch.</hint>
+<hint>1. Wait for the bald man with the briefcase.
+2. He walks in from the left.
+3. Kill him without killing anyone else.</hint>
+<hint>1. Wait for the phonecall to go through.
+2. Once the phone rings, look for the car to be lit up.
+3. Shoot the man before he answers the phone and drives away.</hint>
+<hint>1. Shoot the man in the car.
+2. Shoot the man walking infront of the building on the right.
+3. Shoot the bald man in the blue shirt.
+4. Shoot the man walking towards the car.
+5. Shoot the man leaning on the far right.</hint>
+<hint>1. Shoot fast, kill them all before they kill you.</hint>
+<hint>1. Shoot fast, kill them all before they kill you.
+2. Kill the man standing by the group on the left first.
+3. The bar-tender will pop up last, so kill the group first.</hint>
+<hint>1. Watch the right side where the cars come in.
+2. Once you see the BLACK SUV aim at the bomb in the middle.
+3. Time your shot to hit when the black SUV is infront of the bomb.</hint>
+<hint>1. Only headshots will kill these targets.
+2. Wait for the man in the middle to walk to the left.
+3. Kill the man sitting on the box.
+4. Kill the man in the middle before he turns around.
+5. Kill the last man on the left side.</hint>
+<hint>1. Only headshots will kill these targets.
+2. Kill the man in the very top window when he walks by.
+3. Kill the man in the window underneath, wait for him to walk by.
+4. Kill the man standing by the entry door of the house.
+5. Kill the man in the far right, standing in the trees.
+6. Kill the man in the window on the right side of the house.
+7. Kill the last man standing infront of the house.</hint>
+
+</texts>

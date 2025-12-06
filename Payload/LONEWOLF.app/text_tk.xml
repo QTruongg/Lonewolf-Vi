@@ -1,0 +1,1753 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<texts>
+<obj>
+<line>• TEMEL EĞİTİMİ ÖĞREN, SUÇLUYU ÖLDÜR</line>
+<line>• HUKUK ASİSTANINI ÖLDÜR</line>
+<line>• AVUKATI ÖLDÜR</line>
+<line>• TÜM KORUMALARI ÖLDÜR</line>
+<line>• HEDEF KIZIL SAÇLI</line>
+<line>• KORUMALARI ÖLDÜR, REDFACE'İ YAKALA</line>
+<line>• EKİBİ ÖLDÜR</line>
+<line>• ALARM ÇALDIRMADAN REDFACE'İ ÖLDÜR</line>
+<line>• GÜVENLİ EVİ TEMİZLE</line>
+<line>• AHIRI TEMİZLE</line>
+<line>• İKİ TANK KOMUTANINI DA ÖLDÜR</line>
+<line>• YÜZBAŞIYI ÖLDÜR</line>
+<line>• APARTMANI TEMİZLE</line>
+<line>• REHİNEYİ KURTAR</line>
+<line>• TREYLERİ TEMİZLE</line>
+<line>• İNTİHARI ÖNLE</line>
+<line>• SLICK-WILL'İ KORU</line>
+<line>• TÜM DÜŞMANLARI ÖLDÜR</line>
+<line>• PİLOTU KURTAR</line>
+<line>• DÜŞMANLARI ÖLDÜR VE REHİNELERİ KURTAR</line>
+<line>• KOŞAN ADAMI ÖLDÜR</line>
+<line>• KAPICIYI DÖV</line>
+<line>• İKİNCİ BEAR KARDEŞİ ÖLDÜR</line>
+<line>• ÜÇÜNCÜ BEAR KARDEŞİ ÖLDÜR</line>
+<line>• SONUNCU BEAR KARDEŞİ ÖLDÜR</line>
+<line>• KATLI OTOPARKI TEMİZLE</line>
+<line>• SKYBAR'I TEMİZLE</line>
+<line>• SİYAH ARABAYI BOMBALA</line>
+<line>• MUHAFIZLARI ÖLDÜR</line>
+<line>• MUHAFIZLARI ÖLDÜR</line>
+</obj>
+<range>• HEDEFLERLE ÇATIŞMAYA GİR</range>
+<fence>•  TENEKE KUTULARA ATEŞ ET</fence>
+<rate>BİRİNCİ BÖLÜMÜ BİTİRDİN, BİR BONUS KAZANDIN!</rate>
+<rate>LONEWOLF'A YARDIM ET, LÜTFEN OYUNA PUAN VER</rate>
+<rate>ELBETTE, OYUNA PUAN VERECEĞİM</rate>
+<rate>HAYIR, TEŞEKKÜRLER, ATIŞ YAPACAĞIM</rate>
+
+<quit>Gerçekten çıkmak istiyor musun?</quit>
+<yes>EVET</yes>
+<no>HAYIR</no>
+
+<hud>GÖREV TAMAMLANDI</hud>
+<hud>TAMAMLANAN HEDEF</hud>
+<hud>İSABET</hud>
+<hud>KAFADAN VURUŞLAR</hud>
+<hud>TOPLAM KREDİ</hud>
+<hud>GÖREV BAŞARISIZ</hud>
+
+<splash>DEVAM</splash>
+<splash>YENİ OYUN</splash>
+<splash>DİKKAT!</splash>
+<splash>YENİ OYUN SADECE GÖREVLERİNİ VE İSTATİSTİKLERİNİ SIFIRLAR</splash>
+
+<setup>GİRİŞİ GÖSTER</setup>
+<setup>HUD GÖRÜNÜRLÜĞÜ</setup>
+<setup>DÜĞME YERLEŞİMİ</setup>
+<setup>TERS X</setup>
+<setup>TERS Y</setup>
+<setup>HASSASİYET</setup>
+<setup>TİTREŞİM</setup>
+<setup>GİRİŞTEN SONRA 'OTOPARK'I OYNA</setup>
+<setup>KUMANDA TESTİ</setup>
+<setup></setup>
+<setup></setup>
+<setup></setup>
+<setup></setup>
+<setup></setup>
+
+<ammo>DOLU</ammo>
+<ammo>CEPHANE BİTTİ</ammo>
+<ammo>PARA KAPMA</ammo>
+<ammo>PREMIUM'U AL</ammo>
+<ammo>ALIMLARI GERİ YÜKLE</ammo>
+<ammo>VİDEO İZLE</ammo>
+<ammo>DOLDUR</ammo>
+<ammo>GÜNDE 4 DOLUM</ammo>
+<ammo>CEPHANE HEP DOLU</ammo>
+<ammo>REKLAM YOK</ammo>
+<ammo>TÜM İÇERİK</ammo>
+<ammo>VİDEO YÜKLENİYOR...</ammo>
+<ammo>YÜKLENİYOR...</ammo>
+<ammo>TAM CEPHANE</ammo>
+<ammo>PREMIUM</ammo>
+
+<sale>SATIŞ</sale>
+<sale>KAPALI</sale>
+<sale>ŞİMDİ SATIN AL</sale>
+<sale>*SINIRLI SÜRELİ FIRSAT, KAÇIRMA!</sale>
+
+<error>YETERLİ KREDİ YOK</error>
+<error>CEPHANE ZATEN TAM</error>
+<error>BAŞKA DOLUM YOK, LÜTFEN BEKLE</error>
+<error>SATIN ALINANLAR GERİ YÜKLENEMEDİ...</error>
+<error>BİR SORUN OLUŞTU...</error>
+<error>ÜZGÜNÜZ! DAHA SONRA TEKRAR DENE VEYA UYGULAMAYI TEKRAR BAŞLAT</error>
+<error>İPTAL ETMEYİ SEÇTİN GİBİ GÖRÜNÜYOR</error>
+<error>SATIN ALMA İZNİ BEKLENİYOR</error>
+<error>BU ÜRÜN SATIN ALINIRKEN HATA OLUŞTU</error>
+<error>SADECE PREMIUM İÇERİK</error>
+<error>ŞİMDİ PREMIUM'U AL</error>
+<error>BUNU SATIN ALMAK İÇİN KREDİ YETERSİZ</error>
+<error>KREDİ Mİ LAZIM?</error>
+
+<rifle>ÖĞRETİCİ</rifle>
+<rifle>BİR ÜRÜN SATIN ALALIM</rifle>
+<rifle>MERMİNİN VURACAĞI YERİ İŞARETLEMEK İÇİN DÜĞMEYİ BASILI TUT</rifle>
+<rifle>RÜZGARI BELİRTİR</rifle>
+<rifle>MESAFEYİ BELİRTİR</rifle>
+<rifle>BİLGİ VE SATIN ALMAK İÇİN KİLİTLİ ÖĞELERE DOKUN</rifle>
+<rifle>BURADA SATIN AL</rifle>
+<rifle>* DÜRBÜN DEĞİŞTİRİLEMEZ</rifle>
+<rifle>İSABET</rifle>
+<rifle>MENZİL</rifle>
+<rifle>DOLDURMA</rifle>
+<rifle>ATIŞ HIZI</rifle>
+<rifle>GERİ TEPME</rifle>
+<rifle>* GÜNCEL TÜFEK İSTATİSTİKLERİ</rifle>
+<rifle>YAKINLAŞTIRMA</rifle>
+<rifle>GÖRÜŞ ALANI</rifle>
+
+<item>İSABET +</item>
+<item>SARSINTIYI AZALTARAK İSABETİ ARTIRIR</item>
+<item>GÜRÜLTÜ -</item>
+<item>NAMLUDAN ÇIKAN GÜRÜLTÜYÜ AZALTIR</item>
+<item>TEKRAR DOLDUR +</item>
+<item>DOLDURMA / KURMA SÜRELERİ DAHA KISA</item>
+<item>GERİ TEPME +</item>
+<item>GERİ TEPME KONTROLÜ DAHA İYİ</item>
+<item>STİL +</item>
+<item>TÜFEĞİNE KİŞİSEL STİL EKLE</item>
+<item>STİL +</item>
+<item>TÜFEĞİNE KİŞİSEL STİL EKLE</item>
+<item>MESAFEYİ BELİRT</item>
+<item>UZAKTAN MERMİNİN NEREYİ VURACAĞINI BELİRTEBİLME</item>
+<item>RÜZGARI BELİRT</item>
+<item>RÜZGARDAN MERMİNİN NEREYİ VURACAĞINI BELİRTEBİLME</item>
+
+<stats>OTURUM</stats>
+<stats>HER ZAMAN</stats>
+<stats>KAZANILAN</stats>
+<stats>KAFADAN VURUŞ / ÖLDÜRME</stats>
+<stats>ÖDÜLLER</stats>
+<stats>TOPLAM İSABET</stats>
+<stats>NİŞANCI İSABETİ</stats>
+<stats>TABANCA İSABETİ</stats>
+<stats>M4 İSABETİ</stats>
+
+<trophy> İLK ÖLÜ</trophy>
+<trophy> BUŞMAN</trophy>
+<trophy> KAÇMALIYDI</trophy>
+<trophy> SAÇSIZ</trophy>
+<trophy> HAREKETLİ</trophy>
+<trophy> HALA OKEY</trophy>
+<trophy> İÇERDEN BİRİ</trophy>
+<trophy> ÇİFTLEME</trophy>
+<trophy> KOŞUCU</trophy>
+<trophy> SAÇ TIRAŞI</trophy>
+<trophy> KARABİNA ARTİSTİ</trophy>
+<trophy> YER SEVİYESİ</trophy>
+<trophy> BÜYÜK BİRADER</trophy>
+<trophy> YORGUN ÖLMEK</trophy>
+<trophy> DELİK BİLET</trophy>
+<trophy> 4 ATIŞ</trophy>
+<trophy> BAHŞİŞ YOK</trophy>
+<trophy> YAKINLAŞTIRMA YOK</trophy>
+<trophy> ENİK</trophy>
+<trophy> KIRMA KÖPEK</trophy>
+<trophy> KURT</trophy>
+<trophy> KÖPEK</trophy>
+<trophy> BAŞ AĞRISI</trophy>
+<trophy> BEYİN HASARI</trophy>
+<trophy> KAFATASI KOLEKSİYONCUSU</trophy>
+<trophy> KELLE AVCISI</trophy>
+<trophy> BÖLÜM 1 PRO</trophy>
+<trophy> BÖLÜM 2 PRO</trophy>
+<trophy> BÖLÜM 4 PRO</trophy>
+<trophy> BÖLÜM 5 PRO</trophy>
+<trophy> CAM GÖZ</trophy>
+<trophy> SIFIRLANMIŞ</trophy>
+<trophy> İSABETLİLİK</trophy>
+<trophy> NİŞANCI</trophy>
+<trophy> TABANCA USTALIĞI</trophy>
+<trophy> M4A1 USTALIĞI</trophy>
+<trophy> SİLAH KAÇAKÇISI</trophy>
+<trophy> GERÇEK YETENEK</trophy>
+<trophy> TETİKÇİ</trophy>
+<trophy> PROFESYONEL</trophy>
+<trophy> LONEWOLF</trophy>
+
+<trophy2>İlk kanıtlanmış öldürmeyi gerçekleştir</trophy2>
+<trophy2>Çalıların arasından kafadan vur</trophy2>
+<trophy2>Önce arabanın içindeki hedefi öldür</trophy2>
+<trophy2>Kel adamı en son öldür</trophy2>
+<trophy2>Hedef yürürken kafasından vur</trophy2>
+<trophy2>OKEY makinesini vurmadan görevi tamamla</trophy2>
+<trophy2>İkinci olarak evin içindeki adamı öldür</trophy2>
+<trophy2>Bir atışla 2 kişiyi kafadan vur</trophy2>
+<trophy2>Yüzbaşının koşmasına izin ver, sonra da öldür</trophy2>
+<trophy2>Adamın kafasının yanındaki silahı düşür</trophy2>
+<trophy2>%100 isabet elde et</trophy2>
+<trophy2>Yüzbaşı yerde oluncaya kadar bekle</trophy2>
+<trophy2>Hiçbir rehinenin ölmesine izin verme</trophy2>
+<trophy2>Hedefin koşmasına izin ver ve sonra kafasından vurarak öldür</trophy2>
+<trophy2>Hedefin koşmasına izin ver ve sonra kafasından vurarak öldür</trophy2>
+<trophy2>Hedefleri 1 saniyeden az sürede temizle</trophy2>
+<trophy2>Önce barmeni öldür</trophy2>
+<trophy2>Görevi dürbün kullanmadan tamamla</trophy2>
+<trophy2>10 kanıtlanmış öldürme gerçekleştir</trophy2>
+<trophy2>25 kanıtlanmış öldürme gerçekleştir</trophy2>
+<trophy2>1000 kanıtlanmış öldürme gerçekleştir</trophy2>
+<trophy2>100 kanıtlanmış öldürme gerçekleştir</trophy2>
+<trophy2>10 kafadan vuruş yap</trophy2>
+<trophy2>25 kafadan vuruş yap</trophy2>
+<trophy2>Çılgınca 1000 kafadan vuruş yap!</trophy2>
+<trophy2>100 kafadan vuruş yap.</trophy2>
+<trophy2>Bölüm 1'de tüm kafadan vuruş ve isabet puanlarını al</trophy2>
+<trophy2>Bölüm 2'de tüm kafadan vuruş ve isabet puanlarını al</trophy2>
+<trophy2>Bölüm 4'te tüm kafadan vuruş ve isabet puanlarını al</trophy2>
+<trophy2>Bölüm 5'te tüm kafadan vuruş ve isabet puanlarını al</trophy2>
+<trophy2>10 nişancı atışında %100 isabet gerçekleştir</trophy2>
+<trophy2>25 nişancı atışında %100 isabet gerçekleştir</trophy2>
+<trophy2>1000 nişancı atışında %100 isabet gerçekleştir ve en yüksek İsabet derecesini al</trophy2>
+<trophy2>100 nişancı atışında %100 isabet gerçekleştir</trophy2>
+<trophy2>Tabancayla 100 atışta %100 İsabet gerçekleştir</trophy2>
+<trophy2>M4A1 ile 100 atışta %100 İsabet gerçekleştir</trophy2>
+<trophy2>Gerçek bir silah tutkunu olarak tüm tüfekleri satın al ve bulundur</trophy2>
+<trophy2>Tüm kafa vuruşu ve isabet bonuslarını kazan</trophy2>
+<trophy2>Oyunu tamamla</trophy2>
+<trophy2>Oyunu hiç başarısız olmadan tamamla.</trophy2>
+<trophy2>Oyunu hiç başarısız olmadan ve %100 isabetle tamamla.</trophy2>
+
+<trophy3>BAŞARISIZ</trophy3>
+<trophy3>Bunu Yeni Bir Oyunda tamamla</trophy3>
+
+
+<lot>
+<line>BURAYA NİŞAN AL</line>
+<line>NİŞAN İÇİN BAŞPARMAKLA DOKUN VE SÜRÜKLE</line>
+<line>X EKSENİNİ TERS ÇEVİR</line>
+<line>Y EKSENİNİ TERS ÇEVİR</line>
+<line>SONUNA KADAR YAKINLAŞTIR</line>
+<line>YAKINLAŞTIR</line>
+<line>DÜĞME YERLEŞİMİNİ AYARLA</line>
+<line>ATIŞ YAP</line>
+</lot>
+
+<games>
+<line>Hedefleri olabildiğince hızlı temizle</line>
+<line>Mümkün olduğunca uzun savunma yap</line>
+<line>Topu olabildiğince havada tut</line>
+<line>Hiçbirinin kaçmasına izin vermeden ördekleri öldür.</line>
+<line>Keyif için rastgele hedefleri öldür.</line>
+<line>İnsanı zombi istilasından koru.</line>
+<line>OYNAMAK İÇİN KREDİ YETERSİZ</line>
+<line>• OYNA!</line>
+</games>
+
+<games2>BAHİS OYNA</games2>
+<games2>ZIPLATMA TABANCA</games2>
+<games2>HIZ NİŞANCI</games2>
+<games2>SAVUNMA M4</games2>
+<games2>HIZ M4</games2>
+<games2>SAVUNMA NİŞANCI</games2>
+<games2>HIZ TABANCA</games2>
+<games2>ÖRDEK AVI TABANCA</games2>
+<games2>ÖLÜM EVİ NİŞANCI</games2>
+<games2>ZOMBİ AVI M4</games2>
+<games2>LİDER PANOSU</games2>
+
+<gun>İSABET</gun>
+<gun>HIZ</gun>
+<gun>GÜÇ</gun>
+<gun>*PREMIUM İÇERİK</gun>
+<gun>SADECE PREMIUM İÇERİK</gun>
+<gun>ŞİMDİ PREMIUM'U AL</gun>
+<gun>ARPACIK</gun>
+<gun>HOLO</gun>
+<gun>LAZER</gun>
+
+<menu>GÖREV</menu>
+<menu>TÜFEK</menu>
+<menu>POLİGON</menu>
+<menu>OYUNLAR</menu>
+<menu>İSTATİSTİK</menu>
+<menu>ÖDÜL</menu>
+<menu>'RAYLAR'I BİTİR</menu>
+<menu>'GÜVENLİ EV'İ BİTİR</menu>
+<menu>'BÖLME KAPISI'NI BİTİR</menu>
+<menu>'TREYLER'İ BİTİR</menu>
+
+<intro>Aslan veya kaplan daha güçlü olabilir,</intro>
+<intro>ancak kurt sirkte soytarılık yapmaz</intro>
+<intro>ARA SAHNE RESMİ</intro>
+<intro>SES TASARIMI</intro>
+<intro>MÜZİK</intro>
+<intro>YAZAN</intro>
+<intro>OYUNU YAPAN</intro>
+
+<start>• KAN VE VÜCUT PARÇASI ANİMASYONU</start>
+<start>• YETİŞKİN KONUŞMA</start>
+<start>• KULAKLIKLA EN İYİ</start>
+
+
+<chapter1>
+<cafe>
+<line>BÖLÜM 1</line>
+<line>TANIŞMALAR</line>
+<line>Bir cesedin kolayca atılabileceği bir yerde buluşmak... Karanlık, ıssız, nehrin hemen üstünde.</line>
+<line>Onunla burada buluşmanın aptallık olduğunu kabul ediyorum...             </line>
+<line>Ancak Emile haklı ise, aradığımız katil bu olabilir.</line>
+<line>Maske takmışsın... Emile sana güvenebileceğimi söylemişti?            </line>
+<line>Emile bana burada Mando ile buluşacağımı söyledi.          </line>
+<line>Liderimizi karanlıkta tanımadığımız insanlarla buluşmaya göndermeyiz.           </line>
+<line>Zamanı gelince Mando ile tanışacaksın...          </line>
+<line>Benim işim senin Emile'in söylediği kişi olduğundan emin olmak.        </line>
+<line>Peki sen kimsin?        </line>
+<line>Ben Örgüt adına konuşuyorum. İstersen Mando'nun sağ kolu diyebilirsin.         </line>
+<line>Bana Aracı diyebilirsin.            </line>
+<line>Buraya sırf Emile senin en iyi olduğunu söylediği için geldim.             </line>
+<line>Sadece doğru olup olmadığını kendim görmek gerekiyor.          </line>
+<line>O halde işe başlayalım.          </line>
+<line>Avukatlar Örgüt'ün doğal düşmanlarıdır, onlardan iğreniriz.           </line>
+<line>Özellikle bir avukat, Richard Carter, büyük bir sorun.</line>
+<line>Richard Carter'ın Örgüt'ten uzak durmasını istiyoruz.</line>
+<line>Hukuk asistanlarından biri Planet Kafe'de adamlarımızla buluşuyor.</line>
+<line>Richard Carter, Örgüt'e karşı yürüttüğü davalarla biliniyor...           </line>
+<line>Hukuk asistanını öldürerek ona bir uyarı mesajı göndereceğiz.</line>
+<line>Az zaman kaldığının farkındayım ve...           </line>
+<line>Yarın burada buluşalım. Aynı saatte.            </line>
+<line>İyi şanslar. Yarın polisi getirmemeye çalış.          </line>
+<line>KAFE</line>
+
+</cafe>
+
+<court>
+<line>• AVUKATI ÖLDÜR</line>
+<line>İpucu yok. Tanık yok. Kanıt yok.</line>
+<line>Bu Lonewolf mükemmel bir vuruş yaptı...      </line>
+<line>Suç esrarlı bir şekilde işlendi. Sorular sadece daha fazla soruya yol açıyordu.</line>
+<line>Örgüt için bu harika bir haberdi. Öldürücü bir hayalet bulmuş olabiliriz...</line>
+<line>... ama hala ona tam güvenmiyorum.          </line>
+<line>Gazeteyi gördün mü? Polis hiçbir şey bulamamış.</line>
+<line>Gerçi henüz sadece bir gün oldu. Soruşturma sırasında kanıtlar ortaya çıkabilir.</line>
+<line>Bulunacak bir şey yok.</line>
+<line>Mando ile konuştum. İkna olmamış.</line>
+<line>Vuruş mükemmeldi. Vaktimi boşa harcama.      </line>
+<line>Dinle, yeni üyeler alma konusunda Örgüt'ün standartları çok yüksektir.</line>
+<line>Pekala, ben gittim.      </line>
+<line>Mando, benim...         </line>
+<line>Ne zaman geliyor? Bu çocukla tanışmak istiyorum.       </line>
+<line>Ona tatmin olmadığımızı söyledim. Gitti.         </line>
+<line>UMARIM ŞAKA YAPIYORSUNDUR!       </line>
+<line>Kontrolü elimizde tutmamız gerekiyor. O bize geldi...       </line>
+<line>Evet, ona ihtiyacımız var...</line>
+<line>Ancak, nedense onun bize daha çok ihtiyacı olduğunu düşünüyorum.       </line>
+<line>Onu geri getir. Her şey bir tarafa nasıl bulacaksın onu?           </line>
+<line>İçimde onun bizi bulacağına dair bir his var.           </line>
+<line>1. ATIŞ İÇİN DOKUN</line>
+<line>2. AĞIR HAREKET İÇİN TUT</line>
+</court>
+
+<laundry>
+<line>• TÜM KORUMALARI ÖLDÜR</line>
+<line>Ben Jennifer Davis, bu akşamki en önemli haberle karşınızdayım.         </line>
+<line>Polis Adliye cinayetinin kurbanının Richard Carter olduğunu bildirdi.</line>
+<line>Polis, 'Örgüt' ile Richard Carter'ın ölümü arasındaki olası bağlantıları araştırıyor... </line>
+<line>Richard Carter, 'Örgüt' çetesinin üyelerini ortaya çıkarmakla tanınıyor...</line>
+<line>MANDO, Lonewolf bize mesaj veriyor...</line>
+<line>Ne demek istiyorsun?    </line>
+<line>Richard Carter vurulmuş.             </line>
+<line>HEMEN BULUN ONU!        </line>
+<line>Richard Carter'ın öldürülmesi bir mesajdı, açık ve net.</line>
+<line>En iyisi olduğunu kanıtlıyor ve bunu sorguladığım için yüzüme vuruyor...</line>
+<line>Tek sorun, onunla iletişim kurabilmemin yolu yok.             </line>
+<line>Bu lanet köprüde beklemenin anlamsız olduğunu düşünmeye başlıyorum.</line>
+<line>BOŞ</line>
+<line>Yeterince vaktimi heba ettin mi?         </line>
+<line>Richard Carter...  Sen nasıl...         </line>
+<line>Bir şey değil.             </line>
+<line>Sanırım seni yeterince değerlendirememişim...          </line>
+<line>Bu son şansın, Aracı.           </line>
+<line>Bir hata yaptım. Dinle, sana verecek bir işimiz var.</line>
+<line>Mando ile tanışıncaya kadar olmaz.            </line>
+<line>Mando bu iş için seni istedi, oldukça acil.       </line>
+<line>Acil bir iş? Ortadan kaybolmuş olabilirdim...            </line>
+<line>Sen çok iyisin, ancak tek tetikçimiz sen değilsin.         </line>
+<line>Bu işten sonra Mando ile tanışacağım ya da onları kullanmanız gerekecek.</line>
+<line>Mr. Wong bir kuru temizleme işletiyor ve onu aradığımızı bilmesi gerekiyor.</line>
+<line>Kuru temizlemeyi işletmesi gerekiyor, onun için orada olacağını biliyoruz, ancak koruması olacaktır.</line>
+<line>Mr. Wong'a ulaşmam için korumasını ortadan kaldır.</line>
+<line>DÜŞMANLARIN ÖLDÜRDÜKLERİNİ GÖRMESİNE İZİN VERME</line>
+</laundry>
+
+<briefcase>
+<line>• HEDEF KIZIL SAÇLI</line>
+<line>Mr. Wong, bize yardım etmezsen seni Mando'ya götüreceğiz.</line>
+<line>Eminim Mando ile çok eğlenirsiniz.</line>
+<line>Lütfen, size daha önce söyledim, paranız REDFACE'de!</line>
+<line>Bizimle gelmen gerekiyor Mr. Wong...</line>
+<line>Size her şeyi söyledim, n'olur beni bırakın gideyim...</line>
+<line>Korkacak bir şey yok. REDFACE'i bulmamız şartıyla.         </line>
+<line>Onu bulacağım.      </line>
+<line>Mr. Wong doğruyu söylüyorsa REDFACE saklanıyor olmalı...</line>
+<line>REDFACE'i dışarı çekeceğiz. Erkek kardeşi her iş günü bir otobüse biniyor.</line>
+<line>REDFACE takma adını İskoç genlerinden gelen kızıl saçından alıyor...</line>
+<line>Erkek kardeşi de kızıl saçlıdır. Öldür onu; mümkünse REDFACE onu uyarmadan önce.</line>
+</briefcase>
+
+<baydoor>
+<line>• KORUMALARI ÖLDÜR</line>
+<line>Bana iyi haberi ver...</line>
+<line>REDFACE kardeşini uyarmış olmalıydı.</line>
+<line>Tahminim REDFACE ekibini toplamakla meşguldü.</line>
+<line>Dur tahmin edeyim... onları öldürmemi istiyorsun.    </line>
+<line>Söz veriyorum, bundan sonra Mando ile tanışacağız.</line>
+<line>REDFACE faaliyetlerini bir ambardan yürütüyor.</line>
+<line>Aynı Mr. Wong'da olduğu gibi. Korumaları öldür ve beni REDFACE'e ulaştır.</line>
+<line>REDFACE geldiğimizi biliyor olmalı. Ambarda ekibini hazır bulunduracaktır.</line>
+<line>Bu iş riskli, keskin nişancı tüfeği için uygun bir açı düşünemiyorum...</line>
+<line>Sana dikkatli olmanı söylerdim, ancak yeteneğinden kuşkum yok.</line>
+<line>Hepsini öldür, ancak REDFACE'in hayatta kalmasına dikkat et.</line>
+</baydoor>
+
+<baydoor2>
+<line>• REDFACE'İ CANLI YAKALA</line>
+<line>Neler oluyor?!</line>
+<line>REDFACE... Burada değil...            </line>
+<line>Çünkü bunu planladı.          </line>
+<line>Bu bir pusu mu?             </line>
+<line>Neden böyle düşünüyorsun?           </line>
+<line>Ben olsam tam böyle yapardım.      </line>
+<line>Kahretsin, buradalar!      </line>
+</baydoor2>
+
+<OLDtracks>
+<line>• EKİBİ ÖLDÜR</line>
+<line>Yepyeni pantolon... kahrolası...        </line>
+<line>Beni hanginiz vurdu, adiler?!</line>
+<line>Sakal iyi bir hedef, ancak seni canlı istediler.</line>
+<line>Redface... Bakıyorum barışı bozuyorsun?</line>
+<line>Barış mı!? Yegane kardeşimi öldürdün...</line>
+<line>Şimdi tüm yapmam gereken seni öldürmek.</line>
+<line>Mando biraz konuşmak istiyor. Hastane mecburen bekleyecek.</line>
+<line>Bekledim. MANDO nerede?        </line>
+<line>Elleri REDFACE'in boğazına sarılmış durumda...</line>
+<line>Dinle, seni faaliyet yerimize getirdim.</line>
+<line>Şimdi bizden birisin ve Mando ile tanışacaksın.</line>
+<line>Tahmin edeyim. Bana verecek bir işin daha var...</line>
+<line>ve onu yapmamı bekliyorsun.</line>
+<line>Sonra buraya geleceksin ve seni kendim Mando'nun ofisine götüreceğim.</line>
+<line>Söz veriyorum.        </line>
+<line>Redface'i bir takas yapmaya ikna ettik. Redface'e karşılık bizim paramız.</line>
+<line>Redface'in ekibi onu bekliyor, ancak o gitmeyecek.</line>
+<line>Ekibini öldür ve paramızı geri al.                  </line>
+<line>1. 100 M SONRA MERMİLER İRTİFA KAYBEDER.</line>
+<line>2. 'MENZİL BULUCU' MESAFEYİ BELİRTİR, MAĞAZADA İNCELEYEBİLİRSİN!</line>
+<line>2. DÜRBÜNÜNDE MESAFEYİ BELİRTMEK İÇİN MARK DÜĞMESİNİ BASILI TUT.</line>
+<line>MESAFE</line>
+<line>100 M SONRA MERMİ İRTİFA KAYBEDER, ONUN İÇİN ÜSTE NİŞAN AL</line>
+</OLDtracks>
+</chapter1>
+
+<chapter2>
+<hospital>
+<line> HASTANE </line>
+<line>O nerede?       </line>
+<line>Redface'in ekibi parayı getirdi mi?          </line>
+<line>Kendim Mando'ya vereceğim.            </line>
+<line>Elbette... Sadece önce seninle ben konuşayım istedim.            </line>
+<line>Mando biraz hızlı karar verebilir.            </line>
+<line>İlk gün köprüde seninle buluşacaktı.        </line>
+<line>Ancak ben seni test etmem gerektiğini düşündüm, gecikme için özür dilerim.          </line>
+<line>Hadi Mando'ya gidelim.            </line>
+<line>Bölüm 2. Mando.</line>
+<line>Zamanı gelmişti evlat.             Örgüt'e hoş geldin.</line>
+<line>Evet, öyle...    </line>
+<line>İşte hayaletin kendisi,      LONEWOLF.</line>
+<line>Lonewolf ha? Siz çocuklar hala 'isim yok' mu oynuyorsunuz?     </line>
+<line>Pekala Mr. Wolf, param nerede?       </line>
+<line>Parayı yanlarında getirmemişler.      </line>
+<line>Öldürme becerin şakalarından çok daha iyi. Bana paramı göster.       </line>
+<line>Hepsi öldü, sana cep telefonlarını getirdim, ancak para yoktu.         </line>
+<line>CEP TELEFONLARI MI!? KENDİ OFİSİMDE BENİMLE DALGA MI GEÇİYORSUN!?          </line>
+<line>BOYNUNU KOPARIRIM SENİN.        </line>
+<line>LANET OLASI PARAM NERDE OĞLANCIK!?        </line>
+<line>Bunu bana söylemek aklına gelmedi mi!?...      </line>
+<line>Dediğim gibi. Para yoktu.</line>
+<line>Bir dahaki sefere benimle dalga geçmek istediğinde çok dikkatli ol, kurtçuk.        </line>
+<line>Paramızı senin almadığını biliyorum. Para hiç umurunda değil.      </line>
+<line>Bu işler için sana pek bir halt ödemiyoruz ama hala yapıyorsun.        </line>
+<line>Kahretsin, tansiyonumu yükselttin, şimdi bir kıyak bekliyorum...        </line>
+<line>Redface'i ölmüş kabul et.        </line>
+<line>Ben de bunu duymak istiyordum, Kurtçuk.</line>
+<line>Acil servisteki adamlarımız Redface'e güzel ve rahat bir oda verdi...</line>
+<line>Kocaman bir penceresi olan bir oda.                   Beni anlıyorsun değil mi, Kurtçuk?</line>
+<line>BÖLÜM 2</line>
+<line>MANDO İLE TANIŞMA</line>
+</hospital>
+
+<safehouse>
+<line>GÜVENLİ EV</line>
+<line>Memnun olup olmadığını asla anlayamıyorum...        </line>
+<line>Redface gitti.        </line>
+<line>Mando haklı. Sana nerdeyse hiç para vermiyoruz...   </line>
+<line>Amacın ne?           </line>
+<line>Önemli mi?            </line>
+<line>Ölmesini istediğimiz herkes kayboluyor.      </line>
+<line>Sanırım bundan şikayet edemem...                </line>
+<line>Sadece sana güvenebileceğimizi umuyorum. </line>
+<line>REDFACE ile bu iş bitmiyor.                   Çok düşmanımız var.</line>
+<line>Sıkılmam. </line>
+<line>Beni endişelendiren bu.                 Amacın para değil...</line>
+<line>Adam öldürmek sana heyecan mı veriyor?  </line>
+<line>Keyif için öldüren bir adama nasıl güvenebiliriz?  </line>
+<line>Birilerinin ölmesine karar veren sizdiniz.</line>
+<line>Dinle, REDFACE'in ekibinden topladığın Telefonlar işe yaradı...</line>
+<line>Kullandıkları birkaç güvenli evi öğrendik.</line>
+<line>REDFACE buluşmaya gelmediğinden tetikte olmaları beklenir.</line>
+<line>Toplam 3 tane var, bir ev, bir ahır ve bir apartman. Güvenli evlerin hepsini temizle.</line>
+</safehouse>
+
+<barn>
+<line>AHIR</line>
+<line>Şu anda Redface'in güvenli evlerini temizliyor, ahıra vardı bile.</line>
+<line>Bizim için bunu neden yaptığını anlamıyorum...   </line>
+<line>Para için değil Kendi hesabına kimseyi de öldürmüyor.</line>
+<line>Aklıma gelen tek şey öldürmekten keyif alması.</line>
+<line>Askerler savaştan tamamen kafayı yemiş olarak dönerler.              </line>
+<line>Emile, savaştaki ölümler yüzünden tırlatmış, değil mi?        </line>
+<line>Biz keskin nişancılar olayı aslında öldürmek olarak görmüyorduk.         </line>
+<line>Hedeflerimiz vardı ve hedefi ıskalamamaya çalışıyorduk.</line>
+<line>Lonewolf'u epey iyi tanıdığını söyledin?...      </line>
+<line>Epey iyiden fazla. Birlikte saatler, hatta günlerce vakit geçirdik.</line>
+<line>Konuştuklarımız çoğunlukla operasyonla, görevle ilgiliydi...</line>
+<line>Ancak çatışmada bir adama güvenmek zorunda kaldığında onu gerçekten tanırsın.</line>
+<line>Adını, hatta neye benzediğini bile bilmiyorum...            </line>
+<line>Sessiz ve profesyonel durur. Sadece bir savaşçıdır.          </line>
+<line>Lonewolf ile birlikte savaştıktan sonra onun hakkında hiçbir şey bilmiyorum...         </line>
+<line>Gerçekten bir tüfeğin arkasında olması gerekiyor. Olmak istediği tek yer orası.         </line>
+<line>RÜZGAR</line>
+<line>RÜZGAR MERMİYİ İTER. RÜZGAR YÖNÜNÜ GÖSTEREN EMARELER ARA.</line>
+</barn>
+
+<cabinOLD>
+<line>KULÜBE</line>
+<line>Yani Lonewolf savaşta yetenekliydi ve şimdi yeteneğini bizimle kullanıyor...</line>
+<line>Öldürmekten gerçekten zevk alan birine güvenmem kolay değil. </line>
+<line>Belki bu işte benim anlamadığım bir heyecan var.  </line>
+<line>Bir kere insan avladıktan sonra başka hiçbir av ona benzemez.  </line>
+<line>Lonewolf işi bok ederse onu kendim gebertirim.</line>
+<line>Ama şu ana kadar bu çocuğu sevdim.</line>
+<line>Ölmesini istediğin herkes ortadan kalktı, elbette seversin onu.</line>
+<line>Sana söylemek istediğim, böyle tehlikeli bir adam konusunda dikkatli olmamız gerektiğidir. </line>
+</cabinOLD>
+
+<captainOLD>
+<line>YÜZBAŞI</line>
+<line>Hareketli tanklar? Üstelik iki tane?...</line>
+<line>Tüfek kullanmada bir deha gibi görünüyor.  </line>
+<line>Gördüğüm atışları beni hala büyülüyor. </line>
+<line>Mando, bizim adamlarımız gözlerini kapatıyor, tetiğe basıyor ve vurması için dua ediyor. </line>
+<line>Bir profesyonele ihtiyacımız olduğunu biliyordum.    </line>
+<line>Lonewolf bana Örgüt'e katılmak istediğini söylediğinde...</line>
+<line>Aracı ile görüşmesini ayarladım, sen neler yapabildiğini gördün ve şimdi buradayız.</line>
+<line>Sana adını hiç söylemedi. Yüzünü hiç görmedin. </line>
+<line>Ve ona hala güveniyor musun?  </line>
+<line>Mando, o burada düğünlerimizde sağdıç olmak için gelmedi.</line>
+<line>Hayatlara son vermek için burada.</line>
+<line>Savaş sırasında yaptığı bazı atışları gördükten sonra da... </line>
+<line>Elbette bu konuda ona güveniyorum. </line>
+</captainOLD>
+
+<apartment>
+<line>APARTMAN </line>
+<line>Neden sürekli bana bakıyorsun Emile? </line>
+<line>Diken üstündesin... Seni hala rahatsız ediyor, değil mi? </line>
+<line>Lonewolf aradı, REDFACE'in güvenli evlerinin sonuncusu olan Apartmanda...</line>
+<line>Bizim için tüm bunları neden yaptığını hala anlamıyorum.</line>
+<line>Delirmiş olduğunu düşünmeye başlıyorum.</line>
+<line>Sana delirmediğini söyleyebilirim.</line>
+<line>Mando, Lonewolf konusunda zevkten dört köşe...</line>
+<line>Dikkatli olmalıyız. MANDO daha önce büyük hatalar yaptı.</line>
+<line>Biliyordum, o gece hakkında düşündüğünü biliyordum...       </line>
+<line>Boş ver, rahatla, geçmişe mazi derler.   </line>
+<line>Evet, Mando çıldırmıştı, ama bu yıllar önceydi.</line>
+<line>Mando'nun yaptıklarını hatırlayanın tek ben olduğunu düşünmeye başlıyorum.</line>
+<line>Sanki benden başka o olayın hepimizi yok edebileceğini hatırlayan yok.</line>
+<line>Mando hiçbirimizi dinlemedi. Kimse ona yeşil ışık yakmamıştı.</line>
+<line>Bir polisi öldürmek anlaşılır, ana karısını ve oğlunu öldürmek? Mando çok ileri gitti.</line>
+<line>Örgütün başı olarak Mando kontrolü tamamen kaybettikten sonra...</line>
+<line>Evet, sanırım biraz diken üstünde olduğum söylenebilir.    </line>
+</apartment>
+</chapter2>
+
+<chapter3>
+
+<garage>
+<line> GARAJ</line> 
+<line>Emile ile biraz sohbet ettiniz demek?     </line>
+<line>Çeneni kapa ve dinle, Aracı.       </line>
+<line>Bunu kaç kere tartışacağız? </line>
+<line>Polisi ve ailesini öldürdüm. Bitti. Neden bu boku Emile'e anlattın?</line>
+<line>Mando, ilk günden beri senin yanındayım.</line>
+<line>Örgüt bunu bilmiyor, belki sen bile bilmiyorsun...</line>
+<line>Ama ben biliyorum. O gece seni değiştirdi.  </line>
+<line>Hastir! O polis ve kaltak karısı hiç umurumda değil... </line>
+<line>ama o çocuk... Keşke... Lanet, neden o çocuğu vurdum ki?!   </line>
+<line>Kontrolü kaybettin Mando...  </line>
+<line>O geceden sonra kararları bana bırakmaya kararlaştırdın.   </line>
+<line>Sessizce, elbette. Adamlar hala senin idarende olduklarını düşünecekti. </line>
+<line>Şimdi, benim sorunum, Lonewolf'u kullanmayı kesinlikle ben onaylamadım. </line>
+<line>Lonewolf'un öldürdüğü herkes hala yaşasa... </line>
+<line>Kaç tane sorunumuz olacaktı? </line>
+<line>Mando, sorunlarımızın kaçı senin kontrolü kaybettiğin gece başladı?</line>
+<line>Bölüm 3. 9 yıl önce.</line>
+<line>Aracı, ne düşünüyorsun?</line>
+<line>Bu toplantıyı yapmamalıydık diye düşünüyorum. </line>
+<line>Belki de düşünmemelisin. Bu işi yapıyoruz.</line>
+<line>Dediğim gibi Mando, kolay kazanılmış bir 30 bin olacak.</line>
+<line>Umarım öyle olur.</line>
+<line>ARACI, Nicky'yi buraya getir...  </line>
+<line>Nicky, Slick-Will ile tanış... </line>
+<line>Slick-Will, yakışıklı yeğenim Nicky ile tanış. </line>
+<line>Nicky, dinle, Garajın dükkanın arkasında 30 bin nakit parası var...</line>
+<line>Kasa yok, güvenlik yok. Standart alarm sistemleri. Kolay bir al kaç.</line>
+<line>Eğlenceli görünüyor. Kim benimle geliyor?  </line>
+<line>Yeni arkadaşımız Slick-Will.</line>
+<line>Nasıl? Hayır. Bu anlaşmamızda yoktu. </line>
+<line>Beni dinle Slick, seni tanımıyorum...    </line>
+<line>Örgüt'e katılmak istediğini söyledin, Nicky ile gideceksin.</line>
+<line>Aksi halde ofisimden defol git. </line>
+<line>BÖLÜM 3</line>
+<line>9 YIL ÖNCE</line>
+</garage>
+
+<trailer>
+<line> TREYLER</line>
+<line>Şu anda Olay Yerinden Canlı yayın yapıyorum...  </line>
+<line>Polis şu anda Garaja doğru ilerliyor... </line>
+<line>Anlaşılan polis rehine alan adamı vurmuş...</line>
+<line>Hay lanet, Nicky ile Slick-Will ne halt yaptı orada!? </line>
+<line>Garaja SWAT geldiyse bir şeyler yanlış gitmiş olmalı... </line>
+<line>Polisin vurduğu umarım Slick-Will'dir.</line>
+<line>Bana Aracı'yı getirin. </line>
+<line>Nicky nerede!? Polis Garajda kimi vurdu!? </line>
+<line>Öğrenmeye çalışıyoruz, Garajın yakınına yaklaşamıyoruz şu anda...  </line>
+<line>Vurdukları Nicky olsa bile, söz konusu olan bir polis keskin nişancısı.</line>
+<line>Herkes gibi polislerin de kanı akar. Ne olduğunu derhal öğren.</line>
+<line>Nicky'yi öldürdülerse polisi istiyorum.   </line>
+<line>Bataklık Treyleri'nde Rimer ile buluşmanızı istiyorum.</line>
+<line>Rimer bizimle çalışıyor ama aynı zamanda bir polis. </line>
+<line>ve Garajda ne olduğunu öğrenmemizin en hızlı yolu bir polistir. </line>
+<line>Konuşmazsa Rimer ile biraz eğlenebilir miyiz?  </line>
+<line>Onu öldürmeyin. Kirli bir polis olsa bile Rimer hala bir polis.   </line>
+<line>Mando bilgi istiyor... </line>
+<line>Rimer'in Garajdaki olay hakkında ne bildiğini öğrenin. </line>
+</trailer>
+
+<suicide>
+<line> İNTİHAR</line>
+<line>Bunu tekrarlaman gerekiyor, Aracı... </line>
+<line>Bana herkesin öldüğünü mü söylüyorsun!?  </line>
+<line>Treyler'den sadece Rimer canlı çıkmış...    </line>
+<line>Mando, bunun ne anlama geldiğini biliyor musun? </line>
+<line>Polis Rimer'in kirli olduğunu biliyordu. </line>
+<line>Öyle olmalı, şimdi de Örgüt için çalıştığını biliyorlar.  </line>
+<line>Kiminle çalıştığını bulmak için Treyler'e kadar onu izlediler. </line>
+<line>Bir şeyler yanlış gitti ve Rimer'i korumaları gerekti...   </line>
+<line>Ancak bizim Rimer'den endişe etmemiz gerekmiyor. </line>
+<line>Ne demek istiyorsun?! Rimer'i kendim geberteceğim! </line>
+<line>Dinle... Polis Rimer'i takip ediyor.</line>
+<line>Unutma, Rimer'in sorunları var...</line>
+<line>Hapları unuttun mu? Garajda arabasını çalıştırmasını? Geçmişte intihar etmeyi denedi... </line>
+<line>Tüm bunlardan sonra Rimer kendini öldürmeye çalışırsa şaşırmam. </line>
+<line>Rimer kendini öldürmezse ben onun peşini bırakmayacağım.</line>
+<line>Polisler başında nöbet tutuyor olsa da umurumda değil.</line>
+<line>Bir şeyler düşüneceğim, Mando.  </line>
+</suicide>
+
+<fountain>
+<line> ÇEŞME</line>
+<line>Rimer konusunda endişe etmemiz gerekmediğini düşündüm...</line>
+<line>Rimer'in kendini öldüreceğini düşünüyordum.  </line>
+<line>Ama öldürmedi, polis intihara engel oldu.</line>
+<line>Polisler Rimer'i canlı istiyor, çünkü Rimer Örgüt'ü yok edebilir. </line>
+<line>Rimer konuşuncaya veya kendini öldürünceye kadar boş oturmak istemiyorum.</line>
+<line>Mando, dinle. Örgüt'ün Rimer'e yaklaşmasına izin veremeyiz.   </line>
+<line>Polis bizi yakalamak için Rimer'i yem olarak kullanıyor. </line>
+<line>Bu umarım iyidir...  </line>
+<line>Mando, buna bayılacaksın... </line>
+<line>Slick-Will az önce geldi.  </line>
+<line>Seni öldürmeliyim, alçak!  </line>
+<line>Be adam, beni bir deliyle birlikte Garaja gönderdin!  </line>
+<line>Nicky saçmaladı. Allah'ın cezası bir kovboy gibi havaya ateş ediyordu.</line>
+<line>SWAT'ın gelmesine şaşırmadım...</line>
+<line>Nicky ortalığı birbirine kattıktan sonra sıvışmak zorunda kaldım.</line>
+<line>Ailemden birinin ölmesine izin verdin! </line>
+<line>Berbat bir durumdu... Olanları sana anlatmak için geldim... </line>
+<line>Nasıl onu ölüme terk edebildin? </line>
+<line>Böyle çılgın adamlar uzun yaşamaz. </line>
+<line>Sen de yaşamayacaksın, Slick. </line>
+<line>Benden ne istiyorsun, Mando? </line>
+<line>Arkadaşımız Rimer ile görüşmeni istiyorum. </line>
+<line>Çeşmede onunla buluş. Rimer'in seni tanıması için bir gazete alarak oraya yaslan.</line>
+<line>İnan bana Slick, tekrar iyi tarafımla tanışmak istersin. </line>
+<line>Rimer kabul etti. Bizim için Çeşmede Slick-Will'i öldürecek. </line>
+<line>Elbette kabul edecek. Polisin onu izlediğini biliyor. </line>
+<line>Bu planı sevdiğimi söylemek zorundayım, Mando.  </line>
+<line>Polis Rimer'in birini öldürmesine izin vermez... </line>
+<line>Polisin bizim için Rimer'i vurmasını sağlayacağız.   </line>
+<line>Rimer başarılı olsa da bu Slick-Will'den kurtulacağımız anlamına geliyor. </line>
+<line>Şanslı günümde olmalıyım.</line>
+</fountain>
+
+<bridge>
+<line> KÖPRÜ</line>
+<line>Çeşmede ne oldu?     </line>
+<line>Rimer'i vurdular mı? Slick-Will hala hayatta mı?  </line>
+<line>Polisin hangi araçtan ateş ettiğini biliyorsun...      </line>
+<line>Onları takip et, tanıdığın biri olup olmadığını görmeye çalış...    </line>
+<line>Onu bulacağız ve Garajda Nicky'yi kimin vurduğunu söyleteceğiz.  </line>
+<line>Polis ateş etti. Çeşmede Rimer'i öldürdüler.  </line>
+<line>Çeşmedeki adamlarımız hangi araçtan ateş edildiğini gördüler.</line>
+<line>Şu anda Polis Nişancısını izliyorlar, siyah bir SUV kullanıyor. </line>
+<line>Bu kahrolası polisi bana buluvermen neden bu kadar uzun sürüyor?</line>
+<line>Ailemden birini öldürdü, Aracı! </line>
+<line>Ben de onunkini öldüreceğim.  </line>
+</bridge>
+
+<runway>
+<line> PİST</line>
+<line>Tuzağa düştük...   </line>
+<line>Polis köprünün altına pusu kurmuş, adamlarımız dosdoğru kapana girdi.</line>
+<line>Mando... Adamlarımız öldü. </line>
+<line>Havaalanı... Havaalanını yapacağız.  </line>
+<line>Ciddi olamazsın, Mando. Düşün ki...</line>
+<line>Adamları çağır, HEMEN!  </line>
+<line>Beyler, çıkacağından korktuğumuz savaş kapımızda.     </line>
+<line>Hepinizi kardeşim olarak görüyorum...</line>
+<line>ve Polis kardeşlerimi öldürerek bize savaş ilan etmiş durumda.  </line>
+<line>Hepiniz savaşın fedakarlık gerektirdiğini biliyorsunuz... </line>
+<line>Havaalanı görevi bizim fedakarlığımız olacak. </line>
+<line>Polisle yapacağımız savaşın sonucu için bir fedakarlık. </line>
+<line>Gönüllü istemek bana acı veriyor, çünkü geri gelmeyebileceğinizi biliyorum... </line>
+<line>Fedakarlığı Örgüt için yaptığınızı bilmeniz yeterli. </line>
+<line>Adamları Havaalanına ölüme gönderdin...  </line>
+<line>Dinlemedin mi?     </line>
+<line>Bu büyük dava için yapılan bir fedakarlık.  </line>
+<line>Örgüt için her şeyi yaparım. Adamlarımızı senin kadar ben de seviyorum... </line>
+<line>Ama bu çok ileri gitti, Mando.</line>
+<line>Onları ölüme göndermiyorum, bir kapı açmaya gönderiyorum.  </line>
+<line>Havaalanındaki bir kaçırma eylemi polisi deliye döndürecektir. </line>
+<line>Olabildiğince çok adam göndermek zorunda kalacaklar...</line>
+<line>Kendi merkezlerinin boş kalmasına neden olacak kadar çok. </line>
+<line>Dümdüz girip her şeyi alacağız. </line>
+<line>Belgeleri ele geçireceğiz. İsimleri ele geçireceğiz.  </line>
+<line>Adamlarının hayatını kırtasiye ile değişmeyi mi istiyorsun? </line>
+<line>Onların hayatını isimlerle takas ediyorum... </line>
+<line>Nicky'yi vuran pezevenklerin isimleriyle...</line>
+<line>Örgüt'teki kardeşlerimi vuran pezevenklerle. </line>
+<line>Ne yapmam gerektiğini biliyorum. Gece uyuyabilmemin tek yolu... </line>
+<line>Ailemi benden alan tüm polisleri gebertmektir.   </line>
+</runway>
+
+<hq>
+<line>Merkez</line>
+<line>Hareket başladı, Mando...     </line>
+<line>Polis Havaalanından çağrıyı almış olmalı... </line>
+<line>Bu kadar çok polisin operasyonda olduğunu hiç görmedim!    </line>
+<line>Adamlarımız minibüslerde hazır bekliyor... </line>
+<line>Hadi harekete geçelim.    </line>
+<line>Unutmayın çocuklar! Her türlü evrak ve CD...  </line>
+<line>Üzerinde bilgi olabilecek her şeyi bana getirin.</line>
+<line>Tüm polisleri öldürün. Bulduğunuz herkesi öldürün.</line>
+<line>Bugünden sonra içlerinin korku dolmasını istiyorum. </line>
+</hq>
+</chapter3>
+
+<chapter4>
+
+<park>
+<line>PARK</line>
+<line>YÜRÜ! YÜRÜ! YÜRÜ!  </line>
+<line>Bizi buradan çıkar!  </line>
+<line>LANET! NASIL OLDU DA POLİSLER BİZİ BEKLİYORDU!? </line>
+<line>Sizinle gurur duyuyorum çocuklar! İyi misin!?  </line>
+<line>Lanet olsun, Mando! Tam bir kıyımdı!   </line>
+<line>Bir sürü adamımız vuruldu!   </line>
+<line>Biliyorum, biliyorum. Sizi böyle bir pisliğe bulaştırdığım için üzgünüm.</line>
+<line>Ancak boş yere ölmediler... </line>
+<line>Yanınızda bir sürü işe yarar şey getirdiniz...  </line>
+<line>Şimdi hemen buradan çıkalım! </line>
+<line>Bakmaya devam et... Burada olduğunu biliyorum... </line>
+<line>Polisler Merkezi vuracağımızı biliyordu...</line>
+<line>Havaalanının kandırmaca olduğunu nasıl bildiklerini anlayamıyorum...       </line>
+<line>Bu işte doğru olmayan bir şeyler var... </line>
+<line>Bakmaya devam et yeter. </line>
+<line>Mando, bu israftan başka bir şey...  </line>
+<line>Ailemizi kimin öldürdüğünü bulacağım!</line>
+<line>Onları bulacağım!  </line>
+<line>Gözlerinin önünde ailelerini katledeceğim!  </line>
+<line>Yavaş yavaş öldüreceğim!!    </line>
+<line>Dur, bu da ne böyle... </line>
+<line>...O bir... Buna inanamıyorum...  </line>
+<line>Aynasızların neden Çeşmede Rimer'i vurduğu anlaşıldı... </line>
+<line>ve polisin Garajda neden Nicky'yi vurduğu... </line>
+<line>Polis merkezi, köprüdeki pusu, polis hepsinde bizi bekliyordu... </line>
+<line>Havaalanının polis merkezini basmak için kandırmaca olduğunu söylediğimiz toplantıda vardı...</line>
+<line>Polis elemanlarından birini Örgüt'ün içine sokmuş...</line>
+<line>Mando... Slick-Will bir polis. </line>
+<line>BÖLÜM 4. Bugün.</line>
+<line>Lonewolf'un öldürdüğü herkes hala yaşıyor olsa kaç tane sorunumuz olurdu biliyor musun!?</line>
+<line>Ve sorunlarımızın kaçının senin kontrolü kaybettiğin gece başladığını?</line>
+<line>Ne yapmamı bekliyordun? Slick-Will'i canlı mı bırakmalıydım?</line>
+<line>Lonewolf 3 güvenli evi de halletti. Apartman temiz.</line>
+<line>İyi. Şimdi dışarı çık. </line>
+<line>Senin görmeni istediği bir şey olduğunu söyledi, Mando...</line>
+<line>Ne olduğunu söylemedi, sadece görmek için oraya gitmeni istedi.</line>
+<line>Aracı, Emile ile birlikte git ve kontrol et...  </line>
+<line>Ben...ben...İkiniz de defolun gidin, HEMEN!  </line>
+<line>Aracı ile birlikte yoldayım.</line>
+<line>Ya Mando?</line>
+<line>Onu dışarı çıkaramadık...</line>
+<line>Cep telefonları mı? Mando'nun ta buraya cep telefonları için gelmesini mi istedin?</line>
+<line>İtiraf etmeliyim ki büyülenmedim...</line>
+<line>Raylarda Redface'in ekibinden aldığım cep telefonlarını unutmuş olmalısın...</line>
+<line>Hepsinin ölmüş yatıyor olmasının sebebi o cep telefonları.</line>
+<line>Doğru... Pekala bir göz atalım, olur mu?</line>
+<line>Neler oluyor... </line>
+<line>Silah satıcılarımız Redface ile mi çalışıyordu?</line>
+<line>Ne!? Bear Kardeşler Redface'e silah mı satıyor?</line>
+<line>Bu telefonlar Redface'in ekibinden...</line>
+<line>Bunlarda Bear Kardeşlerle alışveriş mesajları var... </line>
+<line>Lonewolf, en çok iş yaptığımız Bear Kardeşi her gün parkta jogging yapıyor.</line>
+<line>Şu anda orada... Onu Mando'nun ofisine getir.  </line>
+<line>Mando neden düşmanlarımıza silah sattığını öğrenmek isteyecektir.</line>
+<line>BÖLÜM 4</line>
+<line>BUGÜN</line>
+<line>BÖLÜM 5</line>
+</park>
+
+<bouncer>
+<line>FEDAİ</line>
+<line>Lonewolf arasa iyi olur... </line>
+<line>Bütün gün ona ulaşmaya çalıştım. </line>
+<line>Ne olduğunu anlamıyorum.  </line>
+<line>Ondan Bear Kardeşi bize getirmesini istedim, vurmasını değil. </line>
+<line>En büyük silah tedarikçimizi öldürdü...   </line>
+<line>O baş cezası küçük kurdu geberteceğim.  </line>
+<line>Mando, Redface'e silah satıyorlardı...</line>
+<line>Bear Kardeşleri kendin öldürmeyecek miydin zaten? </line>
+<line>Umurumda değil. Lonewolf ben ne bok söylüyorsam onu yapacak. </line>
+<line>ve ona silah tedarikçimizi öldürmesini söylemedim. </line>
+<line>Hala üç Bear Kardeş var...</line>
+<line>Onları bulmamız ve bu işi halletmemiz gerekiyor.</line>
+<line>Redface'e satış yapmak, adamımızın Kardeşlerden birini parkta öldürmesi...</line>
+<line>Eminim Lonewolf'un Bear Kardeşi vurmak için bir nedeni vardı.   </line>
+<line>Sağlam bir nedeni olsa iyi olur, Emile.  </line>
+<line>Üzgünüm dostum, kulüp kapalı.</line>
+<line>Bear Kardeşlere geldim...</line>
+<line>O müzik grubunu hiç duymadım. Yoluna devam et evlat.</line>
+<line>Silahların buradan geldiğini biliyorum. </line>
+<line>Uslu bir çocuk ol ve bana kapıyı aç. </line>
+<line>Kulüp kapalı dedim. Şimdi yürü veya yürütelim.  </line>
+</bouncer>
+
+<subway>
+<line>METRO</line>
+<line>Pekala, pekala!</line>
+<line>Yeter, lütfen...   </line>
+<line>Canını tekmeyle çıkaracağım...</line>
+<line>Bear Kardeşler nerede?   </line>
+<line>Bunun yüzünden beni öldürürler!  </line>
+<line>Sanırım iyi duymadın... </line>
+<line>Bear Kardeşlerden biri parkta vuruldu.  </line>
+<line>Diğer üçü yolda, buraya geliyorlar... </line>
+<line>Neredeler?! </line>
+<line>Lanet... Tüm bildiğim şu an birinin metro istasyonunda olduğu. </line>
+<line>Diğerlerinin yerini bilmiyorum, yemin ederim, lütfen! </line>
+</subway>
+
+<stadium>
+<line>STADYUM</line>
+<line>Cep telefonunu ödünç almam gerekiyor... </line>
+<line>Emin kardeşlerin sesini duymak istiyordur. </line>
+<line>Sadece üçümüz kaldık...</line>
+<line>Güvende misin kardeşim?</line>
+<line>Aramalarına cevap vermedin...</line>
+<line>Güvendeyim. Görüşmemiz gerekiyor...</line>
+<line>Evet, şehre geliyorum.</line>
+<line>Kardeşimizi kimin vurduğunu bulacağız.</line>
+<line>Stadyumda buluşalım. Bu gece.</line>
+<line>Tamam, Stadyumdan beni ara.</line>
+<line>Metin ol, kardeşim...</line>
+<line>Hiç kimse Bear Kardeşlerle aşık atamaz.</line>
+</stadium>
+
+<field>
+<line>ARAZİ</line>
+<line>Ne işler döndüğünü açıklayabilir misin? </line>
+<line>Lonewolf nasıl bizden önce Bear Kardeşlerin hepsini buldu!? </line>
+<line>Anladığım kadarıyla Lonewolf her şeyi planlamış.</line>
+<line>Bear Kardeşlerden birini öldürmenin diğerlerini şehrimize getireceğini biliyordu. </line>
+<line>Bundan sonra, dayakla Bear Kardeşlerin korumasından bilgi almış. </line>
+<line>Bu onu Metroya götürmüş ve orada bir Bear Kardeşin cep telefonunu ele geçirmiş.</line>
+<line>Cep telefonunu kullanarak bir sonraki Bear Kardeşi stadyuma çekmiş...</line>
+<line>Stadyumda bir cep telefonu daha ele geçirmiş... </line>
+<line>Bahse girerim Lonewolf şu anda Bear Kardeşi gibi davranıp sonuncuyu bir yere çekiyor.</line>
+<line>Tanrım, nasıl bir adamla muhatap oluyoruz?! </line>
+<line>Lonewolf sadece bir Tetikçi değil... </line>
+<line>Öyle bir adamı kullanma konusunda seni uyarmıştım. </line>
+<line>Son Bear Kardeşi bulmamız gerekiyor. </line>
+<line>Lonewolf onu bir yerde kardeşleriyle buluşacağına inandırmış olmalı. </line>
+<line>Öyleyse çoktan ölmüştür... </line>
+<line>Çok dikkatli olmalıyız, Mando.  </line>
+<line>Lonewolf'un bir planı ve onu gerçekleştirecek yetenekleri var... </line>
+<line>Son Bear Kardeşten sonra bizim peşimize düşecektir.   </line>
+</field>
+
+<parkade>
+<line>KATLI OTOPARK</line>
+<line>Daha önce hiç böyle bir şeyle karşılaşmadık...</line>
+<line>Lonewolf tüm Bear Kardeşleri yakaladı.</line>
+<line>Bir dakika önce bizimle çalışıyordu...</line>
+<line>Bir dakika sonra adamlarımızı öldürüyor. </line>
+<line>İkaz yok, neden yok. Bu çok anlamsız...</line>
+<line>Lonewolf bizimle Skybar'da buluşmayı kabul etti.  </line>
+<line>Birini doğramak için hiç bu kadar heyecan duymamıştım. </line>
+<line>Onun bağırsaklarını Skybar'ın terasından sallandıracağım.</line>
+<line>Lonewolf adamlarımızı öldürüyor ve bizimle bulaşmaya karar veriyor... </line>
+<line>Bu bariz bir tuzak.  </line>
+<line>Sen Skybar'a gelmiyorsun, Mando. </line>
+<line>Ne halt söyledin sen bana şimdi? </line>
+<line>Unutma, sen İdareyi bana verdin.  </line>
+<line>Lonewolf'u kullanmayı asla onaylamadım ve şimdi neler olduğuna bir bak. </line>
+<line>Bear Kardeşleri öldürerek silah bağlantılarımızı kesti...   </line>
+<line>ve nedeni konusunda hiçbir fikrimiz yok.</line>
+<line>İşte bunun için Skybar'a gidiyorum... </line>
+<line>Böylece bıçağımla canını bedenden ayırabileyim. </line>
+<line>Lonewolf hala tehlikeli.  </line>
+<line>Ekibimize Skybar'da beklemelerini söyledim. </line>
+<line>Hatta adamlarımızı binanın yegane otopark girişine yerleştirdim. </line>
+<line>Bizim için çok tehlikeli. Adamlarımız Lonewolf'u buraya getirecek.</line>
+</parkade>
+
+<skybar>
+<line>SKYBAR</line>
+<line>Çekilin yolumdan...  </line>
+<line>Skybar'a gidip Lonewolf'u kendim bulacağım.       </line>
+<line>O küçük pisliği öldürme keyfini başka birinin tatmasına izin veremem. </line>
+<line>Sen gitmiyorsun, Mando.   </line>
+<line>Slick-Will'i ve ailesini hatırlıyor musun? </line>
+<line>Eskiyi hatırlatırken dikkatli olsan iyi edersin... </line>
+<line>Kahrolası dilini kesmem gerekirse keserim. </line>
+<line>Beni dinle Mando...   </line>
+<line>Durman için sana yalvardık.   </line>
+<line>Yaptıkları yüzünden Slick-Will'in ölmesi gerektiğini biliyorduk...  </line>
+<line>Ama sen kontrolü tamamen kaybettin.</line>
+<line>Mando... Ailesini katlederken Slick-Will'i izlemeye zorladın.  </line>
+<line>Karısını vurmadan önce ona yalvarttın. </line>
+<line>Tetiği çektiğinde bir anda kesilen çığlıklarını hala duyabiliyorum.</line>
+<line>O küçük çocuğun aldığı son nefesi hala görebiliyorum.  </line>
+<line>Slick-Will'i vurman gerekmiyordu...</line>
+<line>Oğlunu öldürdüğün anda o da ölmüştü.</line>
+</skybar>
+
+<highway>
+<line>OTOYOL</line>
+<line>Bu konuyu açmaman konusunda seni uyardım... </line>
+<line>Bu lanet olay 9 yıl önceydi! </line>
+<line>Ne halt yemeye bu konuyu açıyorsun şimdi!? </line>
+<line>Slick-Will'in polis olduğunu öğrendiğinde kendini kaybettin...</line>
+<line>Seni durdurmak mümkün olmadı, öfken kontrolü ele geçirdi. </line>
+<line>Şimdi gözlerinde o gecekiyle aynı bakış var.</line>
+<line>Lanet... çok pısırıksın, Aracı. </line>
+<line>Lonewolf'u nasıl yakalayacağımızı bana anlat... </line>
+<line>Söylediğim gibi, Mando...</line>
+<line>Ekibimizin yarısı Skybar'da Lonewolf'u bekliyor.</line>
+<line>Ekibimiz onu buraya getirecek.  </line>
+<line>Burası güvenli ve Lonewolf'a istediğini yapabilirsin. </line>
+<line>Hastir! Skybar'dan haber geldi. </line>
+<line>Deme...    </line>
+<line>Lonewolf hepsini katletmiş.  </line>
+<line>Nasıl!? Giriş tamamen kontrolümüz altındaydı! </line>
+<line>Seni uyardım, Lonewolf'un öldürme...</line>
+<line>Tanrım... Pekala, resmen kırmızı alarmdayız. </line>
+<line>Tam olarak şunları yapacağız.   </line>
+<line>Mando: Ekibin kalanına hazırlanmalarını söyle. Silahlar, zırhlar, malzemeler.</line>
+<line>Emile: Adamların birkaçını SUV ile Skybar'a gönder. </line>
+<line>Siyah SUV'u kullan, Lonewolf'un Mando ile benim geldiğimizi sanmasını istiyorum. </line>
+<line>Mando, seni Bataklıktaki güvenli eve götürüyoruz.   </line>
+</highway>
+
+<driveway>
+<line>BAĞLANTI YOLU</line>
+<line>Lanet!  </line>
+<line>Nasıl biliyor... </line>
+<line>Lonewolf... Ne halt yiyorsun be adam?! </line>
+<line>Lanet... Emile!? Nerdeyse seni öldürüyordum!    </line>
+<line>Şimdi nereye gidiyorsun görelim...              </line>
+<line>Lanet, Aracı bu yer her zamankinden kötü görünüyor.  </line>
+<line>Buraya gelmekten hep nefret ettim...  </line>
+<line>Buna nasıl 'güvenli' ev dediğini anlamıyorum...   </line>
+<line>Helaya giderken lanet yer yarılacak ve düşeceğim sanki. </line>
+<line>Anladım, Mando. Burası kral dairesi değil.   </line>
+<line>Ama tüm bu olanlar yüzünden ortalıkta görünmememiz gerekiyor.  </line>
+<line>Bu bok çukurunda ne kadar kalmamız gerekecek?   </line>
+<line>10 gün yetecek erzakımız var...             </line>
+<line>Ekibimiz evi koruyor ve burada olduğumuzu kimse bilmiyor.     </line>
+<line>Bu süreyi bir sonraki adımımızı planlamak için değerlendirmeliyiz.   </line>
+<line>Buradan gitmeliyiz, o küçük Wolf piçini öldürmeliyiz.  </line>
+<line>O da tam öyle yapmamızı istiyordur kesin.    </line>
+<line>Nedendir bilmem Lonewolf kanımızı akıtmak istiyor. </line>
+<line>Umarım kiminle uğraştığımızın farkındasındır.  </line>
+<line>Rahatlamaya çalış, burada kalacaksın.   </line>
+<line>3 gün sonra...</line>
+<line>Bırak seninle geleyim, bu yer beni deli edecek.  </line>
+<line>Burası berbat, ama en güvenli seçeneğimiz de bu. </line>
+<line>Dışarı çıkarak kendimi riske atıyorum, ama yürütmemiz gereken bir işimiz var.</line>
+<line>Müttefiklerimiz nerede olduğumuzu ve neler döndüğünü merak ediyordur.  </line>
+<line>Yardımlarına ihtiyacımız var, ekibimiz hiç bu kadar küçülmemişti.    </line>
+<line>Sana yardım edebilirim, burada neye faydam var? </line>
+<line>Ölürsen neye faydan olacak?</line>
+<line>Yarın geri geleceğim, sen burada dur yeter.  </line>
+</driveway>
+
+<marshland>
+<line>BATAKLIK</line>
+<line>Lanet... ortaya çıkmanın zamanı gelmişti.    </line>
+<line>Ne cehennemdeydin!? </line>
+<line>Bilmek istemezsin...   </line>
+<line>Emile... bana o torbada Lonewolf'un kafasının olduğunu söyle. </line>
+<line>Aracı nerede? Bunu duymak isteyecektir. </line>
+<line>Yarın dönecek.  </line>
+<line>Neler oldu anlat.   </line>
+<line>Senin aracınla Skybar'a gönderdiğimiz ekibi izliyordum... </line>
+<line>İyi ki sen içinde değildin, Lonewolf bir bomba yerleştirmiş. </line>
+<line>Bir şekilde Skybar'a gideceğimizi biliyormuş.  </line>
+<line>Adamlarımı havaya uçurdu...  </line>
+<line>Bu lanet bir kabus, Mando.  </line>
+<line>İyi haber, Lonewolf sanırım senin öldüğünü düşünüyordur...  </line>
+<line>Havaya uçurduğu senin aracındı ve içindekilerden geriye bir şey kalmamıştı.</line>
+<line>Dikkatli ol, Emile, ailemden bahsediyorsun.    </line>
+<line>Özür dilerim... ama Lonewolf öldüğünü düşünüyorsa burada güvendeyiz demektir. </line>
+<line>Yine de güvenliği artırmalıyız.   </line>
+<line>Ben gelirken Bağlantı Yolu tamamen boştu.</line>
+<line>Boştu derken ne demek istiyorsun?  </line>
+<line>Bağlantı yolunu izlemek üzere adamlar yerleştirmiştik... </line>
+<line>Orada kimse yoktu.   </line>
+<line>Malikanenin kapısına kadar hiçbir koruma görmedim.   </line>
+<line>Lanet! Bu Lonewolf!   </line>
+<line>Burada olduğumuzu biliyor... </line>
+<line>İmkanı yok... Beni kimse izlemedi... </line>
+<line>Pencerelerden uzak dur, kontrol edeceğim. </line> 
+</marshland>
+
+<credits>
+<line>EMEĞİ GEÇENLER</line>
+<line>Dalga geçmeyi bırak, Emile!  </line>
+<line>Emile geri gel, hey!</line>
+<line>Hey.. Kim... Sen kimsin!?  </line>
+<line>Sen?! Ne halt yapıyorsun?... </line>
+<line>Çok uzun zamandır bunu bekliyordum. </line>
+<line>Kurtçuk, saçmalama, sen benim adamımdın... </line>
+<line>Canın cehenneme, ilk günden beri seni ölü görmek istiyorum. </line>
+<line>Seni hiç yalnız yakalayamadım. </line>
+<line>Miadın doldu, Mando. </line>
+<line>Silahı bırak, Lonewolf!   </line>
+<line>Emile... Karışma...</line>
+<line>Bu Mando ile benim aramda. </line>
+<line>Durum öyle değil...</line>
+<line>Mando benim ekibimde, silahı bırak! </line>
+<line>Emile! Vur şu piçi!    </line>
+<line>Film çevirmiyoruz, hemen vur şunu! </line>
+<line>Tanrım, neden yapıyorsun bunu!?    </line>
+<line>Ben Mando için buradayım... </line>
+<line>Emile, birlikte askerlik yaparken... </line>
+<line>Bana Mando ile çalıştığını söyledin, bana Mando'nun hikayesini anlattın...    </line>
+<line>Ne şans ki ben de o tarihin bir parçasıyım. </line>
+<line>Her şeyimi benden aldın, Mando.  </line>
+<line>Hayatına kimin son vereceğini öğrenmeni istiyorum.  </line>
+<line>Beni tanıyıncaya kadar seni öldüremezdim... </line>
+<line>BOŞ</line>
+<line>Büyük bir hata yaptın.  </line>
+<line>O gece beni öldürdüğünden emin olmalıydın...  </line>
+<line>Ailemi öldürdüğünden emin olduğun gibi.  </line>
+<line>Aman tanrım...  </line>
+<line>Sen O'sun!?  </line>
+<line>  BOM</line>
+<line>DEVAM EDECEK...</line>
+<line>OYUNU YEN</line>
+<line>HATA YOK</line>
+<line>HATA YOK, %100 İSABET</line>
+</credits>
+
+</chapter4>
+<xxx>XXXXXXXXXXXXXXXX  New translations below this line  XXXXXXXXXXXXXXXXX</xxx>
+ 
+
+<mission>KAFE</mission>
+<mission>ADLİYE</mission>
+<mission>ÇAMAŞIRHANE</mission>
+<mission>ÜSTGEÇİT</mission>
+<mission>BÖLME KAPISI</mission>
+<mission>xx FENCE</mission>
+<mission>RAYLAR</mission>
+<mission>HASTANE</mission>
+<mission>GÜVENLİ EV</mission>
+<mission>AHIR</mission>
+<mission>APARTMAN</mission>
+<mission>RANGE</mission>
+<mission>FACTORY</mission>
+<mission>YÜZBAŞI</mission>
+<mission>TANKLAR</mission>
+<mission>xxSCHOOL</mission>
+<mission> xxRAILWAY</mission>
+<mission>xx WAREHOUSE</mission>
+<mission>GARAJ</mission>
+<mission>TREYLER</mission>
+<mission>İNTİHAR</mission>
+<mission>ÇEŞME</mission>
+<mission>KÖPRÜ</mission>
+<mission>PİST</mission>
+<mission>GENEL MERKEZ</mission>
+<mission>PARK</mission>
+<mission>FEDAİ</mission>
+<mission>METRO</mission>
+<mission>STADYUM</mission>
+<mission>ARAZİ</mission>
+<mission>KATLI OTOPARK</mission>
+<mission>SKYBAR</mission>
+<mission>OTOYOL</mission>
+<mission>BAĞLANTI YOLU</mission>
+<mission>BATAKLIK</mission>
+ 
+<unlock>2. BÖLÜMÜ AÇ</unlock>
+<unlock>3. BÖLÜMÜ AÇ</unlock>
+ 
+<rifles>MOSIN NAGANT</rifles>
+<rifles>AV TÜFEĞİ</rifles>
+<rifles>700 TACTICAL</rifles>
+<rifles>SCOUT TACTICAL</rifles>
+<rifles>SOVYET SSD</rifles>
+<rifles>ENHANCED BR</rifles>
+<rifles>A5 M40</rifles>
+<rifles>MK 11-0</rifles>
+<rifles>7.62 OBR</rifles>
+<rifles>XM2100</rifles>
+<rifles>ARCTIC WM</rifles>
+<rifles>SR SİSTEMİ</rifles>
+<rifles>BRAVO 98</rifles>
+<rifles>SKO 42</rifles>
+<rifles>200M-TAC</rifles>
+<rifles>M MK82</rifles>
+<rifles>VSS</rifles>
+<rifles>M14</rifles>
+<rifles>HK 417</rifles>
+<rifles>OMEN RECON</rifles>
+<rifles>SA-338</rifles>
+ 
+<scopes>AV DÜRBÜNÜ</scopes>
+<scopes>AV DÜRBÜNÜ-R</scopes>
+<scopes>AR PLATFORMU OPTİK</scopes>
+<scopes>ORTA MENZİLLİ PRC</scopes>
+<scopes>ORTA MENZİLLİ BENDER</scopes>
+<scopes>UZUN MENZİLLİ OPTİK-R</scopes>
+<scopes>AYDINLATMALI LRO</scopes>
+<scopes>HASSAS MR</scopes>
+<scopes>İLERİ TRS</scopes>
+<scopes>RAZOR HD NESIL II</scopes>
+ 
+<items>ÇATAL AYAK</items>
+<items>SUSTURUCU</items>
+<items>DİPÇİK PAKETİ</items>
+<items>ASKI KAYIŞI</items>
+<items>ÇUVAL BEZİ KAMUFLAJ</items>
+<items>GHILLIE KAMUFLAJ</items>
+<items>MENZİL BULUCU</items>
+<items>ANEMOMETRE</items>
+<items>GÖZCÜ DÜRBÜNÜ</items>
+ 
+<riflebtn>TÜFEKLER</riflebtn>
+<riflebtn>DÜRBÜNLER</riflebtn>
+<riflebtn>ÜRÜNLER</riflebtn>
+ 
+<credits>Web sitesi</credits>
+<credits>Destek</credits>
+<credits>Sağladıkları yardım, sevgi, sabır ve destek için arkadaşlarımıza ve ailelerimize müteşekkiriz!</credits>
+<credits>Kullanılan teknoloji</credits>
+<credits>FDG Ekibi</credits>
+<credits>Prodüktör</credits>
+<credits>Yardımcı Prodüktör</credits>
+<credits>İş Yönetimi ve Hukuk</credits>
+<credits> Kalite Güvencesi Yöneticisi </credits>
+<credits>Kalite Güvencesi Yardımcıları</credits>
+<credits>Kalite Güvencesi Ekibi</credits>
+ 
+<ender>MENÜ</ender>
+<ender>TÜFEK</ender>
+<ender>TEKRAR</ender>
+<ender>DEVAM</ender>
+ 
+<check>TÜFEKLERİ İNCELE</check>
+<newRate>Lonewolf'tan keyif alıyor musun?</newRate>
+<newRate>Lütfen bize geri bildirim gönder ve düşüncelerini söyle!</newRate>
+<newRate>Eğer iyi bir ilerleme kaydettik, burada bir bonus!</newRate>
+
+<xxx>XXXXXXXXXXXXXXXX  New translations below this line  XXXXXXXXXXXXXXXXX</xxx>
+ 
+<itemsX>GÖZCÜ DÜRBÜNÜ</itemsX>
+ 
+<itemX>DÜŞMANLARI SAPTA</itemX>
+<itemX>HER GÖREVDE KAÇ DÜŞMAN ÖLDÜRÜLMESİ GEREKTİĞİNİ GÖSTERİR</itemX>
+ 
+<riflesX>VSS</riflesX>
+<riflesX>M14</riflesX>
+<riflesX>HK 417</riflesX>
+<riflesX>OMEN RECON</riflesX>
+<riflesX>SA-338</riflesX>
+ 
+<missionName>OTOPARK</missionName>
+<missionName>KAFE</missionName>
+<missionName>ADLİYE</missionName>
+<missionName>ÇAMAŞIRHANE</missionName>
+<missionName>ÜSTGEÇİT</missionName>
+<missionName>BÖLME KAPISI</missionName>
+<missionName>RAYLAR</missionName>
+<missionName>HASTANE</missionName>
+<missionName>GÜVENLİ EV</missionName>
+<missionName>AHIR</missionName>
+<missionName>TANKLAR</missionName>
+<missionName>YÜZBAŞI</missionName>
+<missionName>APARTMAN</missionName>
+<missionName>GARAJ</missionName>
+<missionName>TREYLER</missionName>
+<missionName>İNTİHAR</missionName>
+<missionName>ÇEŞME</missionName>
+<missionName>KÖPRÜ</missionName>
+<missionName>PİST</missionName>
+<missionName>GENEL MERKEZ</missionName>
+<missionName>PARK</missionName>
+<missionName>FEDAİ</missionName>
+<missionName>METRO</missionName>
+<missionName>STADYUM</missionName>
+<missionName>ARAZİ</missionName>
+<missionName>KATLI OTOPARK</missionName>
+<missionName>SKYBAR</missionName>
+<missionName>OTOYOL</missionName>
+<missionName>OTOPARK ÇIKIŞI</missionName>
+<missionName>BATAKLIK</missionName>
+<missionName>ÇİT</missionName>
+<missionName>POLİGON</missionName>
+<missionName>FABRİKA</missionName>
+<missionName>OKUL</missionName>
+<missionName>TREN YOLU</missionName>
+<missionName>AMBAR</missionName>
+ 
+<objective>• TEMEL EĞİTİMİ ÖĞREN, SUÇLUYU ÖLDÜR</objective>
+<objective>• HUKUK ASİSTANINI ÖLDÜR</objective>
+<objective>• AVUKATI ÖLDÜR</objective>
+<objective>• TÜM KORUMALARI ÖLDÜR</objective>
+<objective>• HEDEF KIZIL SAÇLI</objective>
+<objective>• KORUMALARI ÖLDÜR, REDFACE'İ YAKALA</objective>
+<objective>• EKİBİ ÖLDÜR</objective>
+<objective>• ALARM ÇALDIRMADAN REDFACE'İ ÖLDÜR</objective>
+<objective>• GÜVENLİ EVİ TEMİZLE</objective>
+<objective>• AHIRI TEMİZLE</objective>
+<objective>• İKİ TANK KOMUTANINI DA ÖLDÜR</objective>
+<objective>• YÜZBAŞIYI ÖLDÜR</objective>
+<objective>• APARTMANI TEMİZLE</objective>
+<objective>• REHİNEYİ KURTAR</objective>
+<objective>• TREYLERİ TEMİZLE</objective>
+<objective>• İNTİHARI ÖNLE</objective>
+<objective>• SLICK-WILL'İ KORU</objective>
+<objective>• TÜM DÜŞMANLARI ÖLDÜR</objective>
+<objective>• PİLOTU KURTAR</objective>
+<objective>• DÜŞMANLARI ÖLDÜR VE REHİNELERİ KURTAR</objective>
+<objective>• KOŞAN ADAMI ÖLDÜR</objective>
+<objective>• KAPICIYI DÖV</objective>
+<objective>• İKİNCİ BEAR KARDEŞİ ÖLDÜR</objective>
+<objective>• ÜÇÜNCÜ BEAR KARDEŞİ ÖLDÜR</objective>
+<objective>• SONUNCU BEAR KARDEŞİ ÖLDÜR</objective>
+<objective>• KATLI OTOPARKI TEMİZLE</objective>
+<objective>• SKYBAR'I TEMİZLE</objective>
+<objective>• SİYAH ARABAYI BOMBALA</objective>
+<objective>• MUHAFIZLARI ÖLDÜR</objective>
+<objective>• MUHAFIZLARI ÖLDÜR</objective>
+<objective>• TÜM KUTULARI TEMİZLE</objective>
+<objective>• 10 HEDEFİN HEPSİNİ VUR</objective>
+<objective>• TÜM DÜŞMANLARI ÖLDÜR</objective>
+<objective>• TÜM DÜŞMANLARI ÖLDÜR</objective>
+<objective>• İKİ DÜŞMANI DA ÖLDÜR</objective>
+<objective>• AMBARI TEMİZLE</objective>
+ 
+<objective2>• REDFACE'İ YAKALA, ÖLDÜRME</objective2>
+<objective2>• KUŞU ÖLDÜR</objective2>
+<objective2>• DEVRİYEYİ ÖLDÜR</objective2>
+<objective2>• O SENİ ÖLDÜRMEDEN NİŞANCIYI ÖLDÜR</objective2>
+ 
+<enemyCount>DÜŞMAN SAYISI</enemyCount>
+ 
+<fence2>• KUTULARIN TÜMÜNÜ VUR</fence2>
+<fence2>• KUŞU ÖLDÜR</fence2>
+ 
+<flash_fence_obj>• TÜM KUTULARI VUR</flash_fence_obj>
+<flash_fence>ÇİT</flash_fence>
+<flash_fence>Yepyeni pantolon... kahrolası...        </flash_fence>
+<flash_fence>Beni hanginiz vurdu, adiler?!</flash_fence>
+<flash_fence>Sakal iyi bir hedef, ancak seni canlı istediler.</flash_fence>
+<flash_fence>Redface... Bakıyorum barışı bozuyorsun?</flash_fence>
+<flash_fence>Barış mı!? Yegane kardeşimi öldürdün...</flash_fence>
+<flash_fence>Şimdi tüm yapmam gereken seni öldürmek.</flash_fence>
+<flash_fence>Mando biraz konuşmak istiyor. Hastane mecburen bekleyecek.</flash_fence>
+<flash_fence>Örgüt'e hoş geldin.</flash_fence>
+<flash_fence>Harika atışlardı. Sadece senin sayende hayattayız...</flash_fence>
+<flash_fence>Mando dostumuz Redface'le görüşürken biraz oturalım.</flash_fence>
+<flash_fence>Mando bizi içeri çağırıncaya kadar beklemek zorundayız...</flash_fence>
+<flash_fence>Neden biraz kendi anlatmıyorsun?</flash_fence>
+<flash_fence>Bu da ne, çıkıyor muyuz?</flash_fence>
+<flash_fence>Sadece birinin adam öldürmede nasıl bu kadar iyi olabileceğini merak ediyorum.</flash_fence>
+<flash_fence>Pek doğal görünmüyor.</flash_fence>
+<flash_fence>Keçinin doğası aslandan farklıdır.</flash_fence>
+<flash_fence>Ya da kurttan...İtiraf etmeliyim ki yeteneğin işe yarıyor.</flash_fence>
+<flash_fence>Atıcılığı nerde öğrendin?</flash_fence>
+<flash_fence>Beni tanımamak canını sıkıyor olmalı.</flash_fence>
+<flash_fence>Dinle, bizim ofisimizde, liderimizin yanındaki odada oturuyorsun...</flash_fence>
+<flash_fence>Seni tanımamak kesinlikle beni biraz tedirgin ediyor.</flash_fence>
+<flash_fence>Pekala, eğer seni sakinleştirecekse...</flash_fence>
+<flash_fence>Ateş etmeyi babam öğretti.</flash_fence>
+<flash_fence>11 yaşındaydım...</flash_fence>
+<flash_fence>Babamın bana ilk tüfeğimi verişini hatırlıyorum.</flash_fence>
+<flash_fence>Dipçiğin dokusunu, yanağıma nasıl yapıştığını hatırlıyorum.</flash_fence>
+<flash_fence>Tam olarak ne zaman tetiğin attığını ve tüfeğin ateşlendiğini hatırlıyorum.</flash_fence>
+<flash_fence>Tüfek sanki benim bir parçamdı...</flash_fence>
+<flash_fence>Kontrolü tamamen bende olan bir vücut parçası.</flash_fence>
+<flash_fence>O zamandan beri sadece o tüfekle atış yapmak istedim.</flash_fence>
+<flash_fence>Babam nasıl kullanacağımı öğretti...        </flash_fence>
+<flash_fence>Ve ona nasıl saygı duyacağımı.                     </flash_fence>
+ 
+ 
+<flash_fence2_obj>• KUŞU VUR</flash_fence2_obj>
+<flash_fence2>ÇİT</flash_fence2>
+<flash_fence2>Babamla birlikte her gün, bütün gün atış yapıyorduk.</flash_fence2>
+<flash_fence2>İlk canlı hedefi vurduğumda da yanımdaydı...</flash_fence2>
+<flash_fence2>Bir kuzgun geldi ve atış yaptığım yere kondu.</flash_fence2>
+<flash_fence2>Kuzgunlar tavuklarımıza saldırıyordu...</flash_fence2>
+<flash_fence2>Masumları öldüren bir şeyi öldürmek benim için hiç sorun değildi.</flash_fence2>
+<flash_fence2>Bir canlıya ateş ederken her şey daha yoğun hale geldi.</flash_fence2>
+<flash_fence2>İlk öldürüşümü hiç unutmayacağım...    </flash_fence2>
+<flash_fence2>Hedefimin atan bir kalbi olduğunda daha çok keyif alıyordum.</flash_fence2>
+ 
+<tracks>
+<line>• EKİBİ ÖLDÜR</line>
+<line>Bu kadar öykü yeter... Mando nerede?  </line>
+<line>Elleri Redface'in boğazına sarılmış durumda...</line>
+<line>Dinle, seni faaliyet yerimize getirdim.</line>
+<line>Şimdi bizden birisin ve Mando ile tanışacaksın.</line>
+<line>Tahmin edeyim. Bana verecek bir işin daha var...</line>
+<line>ve onu yapmamı bekliyorsun.</line>
+<line>Sonra buraya geleceksin ve seni kendim Mando'nun ofisine götüreceğim.</line>
+<line>Söz veriyorum.        </line>
+<line>Redface'i bir takas yapmaya ikna ettik. Redface'e karşılık bizim paramız.</line>
+<line>Redface'in ekibi onu bekliyor, ancak o gitmeyecek.</line>
+<line>Ekibini öldür ve paramızı geri al.                  </line>
+<line>1. 100 M SONRA MERMİLER İRTİFA KAYBEDER.</line>
+<line>2. 'MENZİL BULUCU' MESAFEYİ BELİRTİR, MAĞAZADA İNCELEYEBİLİRSİN!</line>
+<line>2. DÜRBÜNÜNDE MESAFEYİ BELİRTMEK İÇİN MARK DÜĞMESİNİ BASILI TUT.</line>
+<line>MESAFE</line>
+<line>100 M SONRA MERMİ İRTİFA KAYBEDER, ONUN İÇİN ÜSTE NİŞAN AL</line>
+</tracks>
+ 
+<flash_range>POLİGON</flash_range>
+<flash_range>Aparmanda herhangi bir sorun oldu mu?     </flash_range>
+<flash_range>Sadece Redface'in adamları için...              </flash_range>
+<flash_range>İş bitti.                    </flash_range>
+<flash_range>Harika haber...               </flash_range>
+<flash_range>Mando'yu görmeye gidiyoruz, ona haber vereceğim.</flash_range>
+<flash_range>Seni arayacağım.                  </flash_range>
+<flash_range>Tamam, hazır olacağım.                </flash_range>
+<flash_range>Yeni arkadaşımız sayesinde Örgüt'ün düşmanları ölmeye devam ediyor.</flash_range>
+<flash_range>Bu seni çok mutlu etmemiş gibisin.</flash_range>
+<flash_range>Örgüt'ün bir tetikçisi olsun istiyorsun sanıyordum.</flash_range>
+<flash_range>Lonewolf'un vuruşları gerçek olamayacak kadar iyi.</flash_range>
+<flash_range>Birinin bir amacı olmadan bir şeyi bu kadar iyi yapması doğru olamaz.</flash_range>
+<flash_range>Sen sadece en kötü ihtimali bekliyorsun...</flash_range>
+<flash_range>Söylediğim gibi... Mando'nun deliliğinden beri diken üstündesin.</flash_range>
+<flash_range>Bu adama senin kadar güvenmem çok zor...</flash_range>
+<flash_range>Emile, senin güvenini nasıl kazandığını anlatsana.          </flash_range>
+<flash_range>xxx</flash_range>
+<flash_range>Başta kimse onu sevmiyordu...                 </flash_range>
+<flash_range>Nişancı eğitim programına girmek için hepimiz çok çalıştık.</flash_range>
+<flash_range>Lonewolf biz nerdeyse yarıya varmışken geldi.</flash_range>
+<flash_range>Hiç konuşmadı ve her yere yüzünde maskeyle gidiyordu, çok acayipti.</flash_range>
+<flash_range>Nişancı Eğitim Programı en iyilerin en iyileri içindi güya...</flash_range>
+<flash_range>Ama hepimiz bu maskeli yavşağın bir şaka olduğunu düşünüyorduk.</flash_range>
+<flash_range>En azından atışlarını görünceye kadar...</flash_range>
+ 
+<flash_factory>FABRİKA</flash_factory>
+<flash_factory>Bir kelime bile konuşmadı...</flash_factory>
+<flash_factory>Yeterlilik aşamasında ilk defa Lonewolf'un atışını gördük...</flash_factory>
+<flash_factory>Tüm hedefleri vuran sadece oydu.</flash_factory>
+<flash_factory>O gün ona saygı duydum.</flash_factory>
+<flash_factory>Komuta kademesi beni Lonewolf ile takım yaptı.</flash_factory>
+<flash_factory>Birlikte çalıştık ve her zaman sınıfın en iyisiydik...</flash_factory>
+<flash_factory>Anlaşılan Lonewolf ile ben iyi bir ekiptik.</flash_factory>
+<flash_factory>Savaşta bizim gibi adamlara ihtiyaç vardı ve gönderildik...</flash_factory>
+<flash_factory>Gerçek dünyadaki ilk görevimiz bombalanmış bir fabrikayı temizlemekti.</flash_factory>
+<flash_factory>Binalardan birini koruyan devriyeyi öldürme görevi bize verildi...</flash_factory>
+<flash_factory>Ve içeriye girip büyük miktarda bir parayı emniyete almamış emredilmişti...</flash_factory>
+<flash_factory>Neyle karşılaşacağımız hakkında hiçbir fikrimiz yoktu.</flash_factory>
+ 
+<captain>YÜZBAŞI</captain>
+<captain>Düşman muhafızlarını temizledikten sonra içeri girdik...</captain>
+<captain>Ancak herhangi bir yoktu ve yer tamamen boştu.</captain>
+<captain>Anlaşılan birileri bizden önce gelmişti...</captain>
+<captain>Görev değerlendirmesinde fabrikanın neden boş olduğu söylendi.</captain>
+<captain>Fabrikayı düşmanımızın ordusu bombalamıştı.</captain>
+<captain>Düşman, bölge bombalanınca herkesin kaçacağını biliyordu...</captain>
+<captain>Ortalıkta kimse kalmadığında gelip parayı çalacaklardı.</captain>
+<captain>Hiç kimse bu savaş suçunu rapor edemedi...</captain>
+<captain>Çünkü bombalar düşmeye başlayınca herkes kaçtı.</captain>
+<captain>Bu pisliğin arkasındaki adam Yüzbaşı Raven'dı.</captain>
+<captain>Bu hasta pislik para, altın, silah, değerli şeyler bulunacak yerleri saptıyordu...</captain>
+<captain>ve ordudaki yetkisini orayı bombalamak için kullanıyordu.</captain>
+<captain>Bölge temizlendikten sonra kendi muhafızını kullanarak değerli şeyleri korumaya alıyordu.</captain>
+<captain>Yüzbaşı Raven'ı fabrika yakalamak için geç kalmıştık...</captain>
+<captain>Ancak yen istihbaratımız Yüzbaşı Raven'ın bulunduğunu bildirdi.</captain>
+<captain>Ve bizden işi bitirmemizi istediler.</captain>
+ 
+<tanks>TANKLAR</tanks>
+<tanks>Lonewolf büyüleyici bir atış yaptı...      </tanks>
+<tanks>Uzak mesafeden e rüzgarlı havada hedefimizi zımbaladı.</tanks>
+<tanks>Veya en azından hedefimiz sandığımız kişiyi...</tanks>
+<tanks>Takma bıyığı çıkarınca Yüzbaşı Raven'ın dikkatli bir adam olduğunu anladık.</tanks>
+<tanks>Dublör kullanıyordu... Yüzbaşı Raven peşinde avcılar olduğunu biliyordu.</tanks>
+<tanks>Yani yanlış adamı vurdunuz?</tanks>
+<tanks>Dublör tıpkı Yüzbaşı Raven gibi giyinmişti.</tanks>
+<tanks>Lonewolf uyuz oldu.</tanks>
+<tanks>Masum bir adamı öldürdüğümüz gerçeğini kabullenemedi.</tanks>
+<tanks>Hmm, ilginç.                   </tanks>
+<tanks>Aracı, acaba daha ne kadar yavaş gidebilirsin?      </tanks>
+<tanks>Bir saatten fazla zamandır bekliyorum...             </tanks>
+<tanks>Kusura bakma patron, bir daha olmaz.                      </tanks>
+<tanks>Siz ikiniz bensiz savaş hikayeleri mi anlatıyorsunuz?</tanks>
+<tanks>Emile, bu zırvaları dinlemeyi severim bilirsin.</tanks>
+<tanks>Gel ve otur, öldürmek hakkında biraz daha konuşalım.</tanks>
+<tanks>Emile... Mando'nun aklını kaybettiği zaman hakkında konuşmamam gerekiyor...</tanks>
+<tanks>O halde sanırım bu ikimizin arasında kalacak.</tanks>
+<tanks>Endişe yok, Aracı.                          </tanks>
+<tanks>Bu çok komik lan...                    </tanks>
+<tanks>Yüzbaşı Raven sanarak zavallı bir sefili vurdunuz ha?</tanks>
+<tanks>Lonewolf'un gözünü kan bürüdü. Yüzbaşı Raven'ı nişangahında görmek istiyordu...</tanks>
+<tanks>Onu bulmanın zor olacağını biliyorduk, özellikle de dublörler kullandığından.</tanks>
+<tanks>İstihbaratımız Yüzbaşı Raven'ın yeni bir yeri bombalayacağını öğrendi.</tanks>
+<tanks>Lonewolf ve ben tankların bölgeyi vurmasını engellemek üzere gönderildik.</tanks>
+<tanks>Bunun Yüzbaşı Raven'ın dikkatini çekeceğini biliyorduk.</tanks>
+ 
+<tanks2>TANKLAR 2</tanks2>
+<tanks2>Yüzbaşı Raven tankların güvende olacağından emin olmak için bir devriye gönderdi...</tanks2>
+<tanks2>Lonewolf hepsini itlaf etti.</tanks2>
+<tanks2>Tankların geldiğini duyduk...</tanks2>
+<tanks2>Tanklar hareket halindeydi, rüzgar vardı ve uzaktı...</tanks2>
+<tanks2>Lonewolf'un asla onları vuramayacağını düşündüm.</tanks2>
+<tanks2>Lonewolf'tan en son o zaman şüphe ettim.</tanks2>
+ 
+<flash_school>OKUL</flash_school>
+<flash_school>Tankları durdurduktan sonra yeni emirler geldi.</flash_school>
+<flash_school>Yüzbaşı Raven'ın tek bir tank birimi göndereceğini var saymakla hata ettik...</flash_school>
+<flash_school>Korumamız gereken Okul binası bombalanmıştı.</flash_school>
+<flash_school>Yüzbaşı Raven orada her ne varsa onu çok istiyordu...</flash_school>
+<flash_school>Lonewolf ile birlikte Okula gittim...</flash_school>
+<flash_school>Yüzbaşı Raven çoktan içerdeki şeyi korumak üzere muhafızlarını yerleştirmişti.</flash_school>
+ 
+<flash_railway>TREN YOLU</flash_railway>
+<flash_railway>Okulu temizledik ve içeri girdik.</flash_railway>
+<flash_railway>Kıymetli her şey gitmişti... geç kalmıştık...</flash_railway>
+<flash_railway>ve Yüzbaşı Raven geldiğimizi biliyordu.</flash_railway>
+<flash_railway>Yüzbaşı Raven bize bir not bırakmıştı.</flash_railway>
+<flash_railway>Ödlek olduğumuzu yazıyordu...</flash_railway>
+<flash_railway>...onunda erkek gibi dövüşmeliymişiz...</flash_railway>
+<flash_railway>ve çalılıklarda saklanmaktan vazgeçmeliymişiz.</flash_railway>
+<flash_railway>Lonewolf'un kahkaha attığını ilk defa o zaman gördüm. </flash_railway>
+<flash_railway>Klasik manevra, taktiklerini bozması için düşmanını kızdırmaya çalışmak.</flash_railway>
+<flash_railway>Buna kanmazdık.</flash_railway>
+<flash_railway>Üstelik şimdi Yüzbaşı Raven'ın umutsuzluğa düştüğünü biliyorduk.</flash_railway>
+<flash_railway>Düşmanın senin yaptığınla alay ediyorsa onu yenmişsin demektir.</flash_railway>
+<flash_railway>Çalılıklardan çıkmadık...</flash_railway>
+<flash_railway>Aldığımız eğitim sayesinde görünmezdik.</flash_railway>
+<flash_railway>Yüzbaşı Raven'ın adamları bizim avımızdı.</flash_railway>
+<flash_railway>İstihbaratımız öncülerini öldürmemiz için bizi gönderdi.</flash_railway>
+<flash_railway>Bunlar değerli yerleri bulmaktan sorumlu adamlardı.</flash_railway>
+<flash_railway>Elmas dolu bir demiryolu deposunun keşfini yaparlarken yakaladık.</flash_railway>
+ 
+<flash_warehouse>AMBAR</flash_warehouse>
+<flash_warehouse>Öncülerinin artık nefes almıyor olması Yüzbaşı Raven'ı çıldırttı.</flash_warehouse>
+<flash_warehouse>Sonraki brifingde bombalanmış bir binada görevlendirildik.</flash_warehouse>
+<flash_warehouse>Hedef bina büyük bir Ambardı.</flash_warehouse>
+<flash_warehouse>Subaylarımız bunun Yüzbaşı Raven'ın işi olduğuna inanıyordu.</flash_warehouse>
+<flash_warehouse>Lonewolf bunun bir tuzak olduğuna emindi.       </flash_warehouse>
+<flash_warehouse>Emirlere karşı gelemezdik, onun için Ambara doğru yola çıktık.</flash_warehouse>
+<flash_warehouse>Anlaşıldı, hedefler göründü...       </flash_warehouse>
+<flash_warehouse>Benim gördüğümü sen de görüyor musun Emile?        </flash_warehouse>
+<flash_warehouse>Bu Yüzbaşı Raven'ın işi gibi görünüyor...          </flash_warehouse>
+<flash_warehouse>Neden bunun tuzak olduğunu düşünüyorsun?      </flash_warehouse>
+<flash_warehouse>Bina tamamen tahrip edilmiş...            </flash_warehouse>
+<flash_warehouse>Yüzbaşı Raven buradan kıymetli şeyleri nasıl alacak?   </flash_warehouse>
+<flash_warehouse>Bu çok bariz yapmış. Buraya gelmemizi istiyor.     </flash_warehouse>
+<flash_warehouse>Olabilir ama istihbarat bize bir görev verdi... Seçeneğimiz yok.</flash_warehouse>
+<flash_warehouse> En azından daha çok adamını öldürürüz.       </flash_warehouse>
+<flash_warehouse>Bu işin diğer sorunlu tarafı da o...         </flash_warehouse>
+<flash_warehouse>Neden kabak gibi adamlarını buraya ölmeye göndersin?</flash_warehouse>
+<flash_warehouse>Siktir et, hadi başlayalım.                 </flash_warehouse>
+ 
+<flash_warehouse2>AMBAR 2</flash_warehouse2>
+<flash_warehouse2>Vaay... İyi atış.            </flash_warehouse2>
+<flash_warehouse2>Şimdi hemen buradan çıkalım...              </flash_warehouse2>
+<flash_warehouse2>Emile... Kıpırdama...            </flash_warehouse2>
+<flash_warehouse2>Bir sorunumuz var...            </flash_warehouse2>
+<flash_warehouse2>Ne?! Sen ne...           </flash_warehouse2>
+<flash_warehouse2>Bu bir tuzak.</flash_warehouse2>
+<flash_warehouse2>Lanet, nasıl buna aldandım...          </flash_warehouse2>
+<flash_warehouse2>Adamlarını yerimizi saptamak için hedef olarak kullandı...</flash_warehouse2>
+<flash_warehouse2>Lanet... Ne diyorsun?          </flash_warehouse2>
+<flash_warehouse2>Yüzbaşı Raven bizi burada öldürmek için bir nişancı yerleştirmiş...     </flash_warehouse2>
+<flash_warehouse2>ve adam dosdoğru bize bakıyor...      </flash_warehouse2>
+ 
+ 
+<garage>GARAJ</garage> 
+<garage>Lonewolf bu kadar iyi bir atıcı olduğum için çok şanslıyım.</garage>
+<garage>Yüzbaşı Raven bizi bu ambara çekmişti...</garage>
+<garage>Bizi öldürmek üzere Nişancısını yerleştirmişti.</garage>
+<garage>Lonewolf Yüzbaşı Raven'a bir mesaj bırakmak istedi.</garage>
+<garage>O anda bizi öldürdüğüne inanarak dans ettiğine emindik.</garage>
+<garage>Mesajımızı bulduğunda açık ve net olarak görecekti.</garage>
+<garage>Lonewolf'un kıçını kurtardığını hiç söylememiştin...</garage>
+<garage>Yüzbaşı Raven'ı baltayla öldürdüğünüz kısmı anlatsana.</garage>
+<garage>Yüzbaşı Raven'ı halledemedik...</garage>
+<garage>Ve asla o konuda konuşmam. Özellikle Lonewolf yanımdayken.</garage>
+<garage>Nişancı olayından sonra görevin çok tehlikeli olduğuna karar verildi.</garage>
+<garage>Komutanlar Yüzbaşı Raven'ı öldürme görevinden bizi çektiklerinde...</garage>
+<garage>Lonewolf tamamen çıldırdı. Yüzbaşı Raven'ın kellesini istiyordu.</garage>
+<garage>Yani Lonewolf göründüğü kadar hesaplı hareket etmiyor...</garage>
+<garage>Kontrolü kaybedebileceğini söylüyorsun?</garage>
+<garage>Evet ama kim öyle olmaz ki?</garage>
+<garage>Ne halt demeye çalışıyorsun Aracı?</garage>
+<garage>Lonewolf'u kullanma fikrini hiç sevmedim.</garage>
+<garage>Onu tanımıyoruz...Ve şimdi Emile adamın kontrolü kaybedebileceğini söylüyor.</garage>
+<garage>İnsanların kontrolü kaybettiklerinde büyük hatalar yaptıklarını gördüm.</garage>
+<garage>Siktir Ordan!      </garage>
+<garage>GENE Mİ O SALAK KONUYU AÇIYORSUN!?</garage>
+<garage>KAFANI BU MASAYA GEÇİRMEM LAZIM!</garage>
+<garage>Emile... Bu bir video oyunu olsaydı senin hikayelerini 2. bölümde bitirirdik...</garage>
+<garage>Ama şimdi buradan defol.</garage>
+<garage>Ben ve aracı küçük bir dost sohbeti yapacağız.</garage>
+<garage>Bunu kaç kere tartışacağız? </garage>
+<garage>Polisi ve ailesini öldürdüm. Bitti. Neden bu boktan bahsedip duruyorsun?</garage>
+<garage>Mando, ilk günden beri senin yanındayım.</garage>
+<garage>Örgüt bunu bilmiyor, belki sen bile bilmiyorsun...</garage>
+<garage>Ama ben biliyorum. O gece yaptığın hatalar seni değiştirdi.</garage>
+<garage>Siktir! O polis ve kaltak karısı hiç umurumda değil... </garage>
+<garage>ama o çocuk... Keşke... Lanet, neden o çocuğu vurdum ki?! </garage>
+<garage>Kontrolü kaybettin Mando...  </garage>
+<garage>O geceden sonra kararları bana bırakmaya karar verdin.   </garage>
+<garage>Sessizce, elbette. Adamlar hala senin idarende olduklarını düşünecekti. </garage>
+<garage>Şimdi, benim sorunum, Lonewolf'u kullanmayı kesinlikle ben onaylamadım. </garage>
+<garage>Lonewolf'un öldürdüğü herkes hala yaşasa... </garage>
+<garage>Kaç tane sorunumuz olacaktı? </garage>
+<garage>Mando, sorunlarımızın kaçı senin kontrolü kaybettiğin gece başladı?</garage>
+<garage>Bölüm 3. 9 yıl önce.</garage>
+<garage>Aracı, ne düşünüyorsun?</garage>
+<garage>Bu toplantıyı yapmamalıydık diye düşünüyorum. </garage>
+<garage>Belki de düşünmemelisin. Bu işi yapıyoruz.</garage>
+<garage>Dediğim gibi Mando, kolay kazanılmış bir 30 bin olacak.</garage>
+<garage>Umarım öyle olur.</garage>
+<garage>Aracı, Nicky'yi buraya getir...  </garage>
+<garage>Nicky, Slick-Will ile tanış... </garage>
+<garage>Slick-Will, yakışıklı yeğenim Nicky ile tanış. </garage>
+<garage>Nicky, dinle, Garajın dükkanın arkasında 30 bin nakit parası var...</garage>
+<garage>Kasa yok, güvenlik yok. Standart alarm sistemleri. Kolay bir al kaç.</garage>
+<garage>Eğlenceli görünüyor. Kim benimle geliyor?  </garage>
+<garage>Yeni arkadaşımız Slick-Will.</garage>
+<garage>Nasıl? Hayır. Bu anlaşmamızda yoktu. </garage>
+<garage>Beni dinle Slick, seni tanımıyorum...    </garage>
+<garage>Örgüt'e katılmak istediğini söyledin, Nicky ile gideceksin.</garage>
+<garage>Aksi halde ofisimden defol git. </garage>
+ 
+<chapter_3>BÖLÜM 3</chapter_3>
+<chapter_3>Emile ve Lonewolf.</chapter_3>
+<chapter_4>BÖLÜM 4</chapter_4>
+<chapter_4>9 yıl önce.</chapter_4>
+<chapter_5>BÖLÜM 5</chapter_5>
+<chapter_5>Bugün.</chapter_5>
+ 
+<premiumGun>Bu görevde Premium bir tüfek modeli kullanılıyor.</premiumGun>
+<premiumGun>KULLANDIĞIN TÜFEĞİN KİLİDİNİ ALMAK İÇİN PREMIUM'U AL!</premiumGun>
+ 
+<removeAds>REKLAMLARI KALDIR</removeAds>
+<equip>DONAT</equip>
+ 
+<bonus>NİŞANCI</bonus>
+<bonus>TABANCA</bonus>
+<bonus>M4A1</bonus>
+<bonus>.22</bonus>
+<bonus>BONUS OYUN</bonus>
+<bonus>BU GÖREVİ FARKLI BİR SİLAHLA TEKRAR OYNA</bonus>
+ 
+<bonusLock>BÖLME KAPISI'NI BİTİR</bonusLock>
+<bonusLock>ÇİT'İ BİTİR</bonusLock>
+<bonusLock>TREYLER'İ BİTİR</bonusLock>
+ 
+<bonusTut>BONUS OYUN</bonusTut>
+<bonusTut>BİR GÖREVİ BİTİRDİĞİNDE FARKLI SİLAHLARLA TEKRAR OYNAMA SEÇENEĞİN OLUR.</bonusTut>
+ 
+<moregames>ATIŞ OYUNLARI</moregames>
+ 
+<premiumChoose>KENDİ PREMIUM FİYATINI SEÇ!</premiumChoose>
+<premiumChoose>HER FİYAT SEÇENEĞİ SANA AYNI ŞEYİ VERİR</premiumChoose>
+<premiumChoose>*PREMIUM İÇİN KENDİ LAYIK GÖRDÜĞÜN DEĞERİ ÖDEMENİ İSTİYORUZ. OYUNU SEVİYORSAN BİZİ DESTEKLEMEK İÇİN BİRAZ FAZLA ÖDEYEBİLİRSİN.</premiumChoose>
+<premiumChoose>SATIN AL</premiumChoose>
+ 
+<trophy_new> DOĞASEVER</trophy_new>
+<trophy_new2>Kuşun yaşamasına izin ver.</trophy_new2>
+<trophy_new> ANAHTAR DELİĞİ</trophy_new>
+<trophy_new2>İki düşmanı da küçük tren boşluğundan doğru öldür.</trophy_new2>
+<trophy_new> AVCI VE AV</trophy_new>
+<trophy_new2>Ateş etmesine fırsat vermeden nişancıyı öldür.</trophy_new2>
+<trophy_new> BÖLÜM 3 PRO</trophy_new>
+<trophy_new2>Bölüm 3'te tüm kafadan vuruş ve isabet puanlarını al.</trophy_new2>
+<trophy_new> CAM KOLEKSİYONCUSU</trophy_new>
+<trophy_new2>Tüm dürbünleri satın al ve sahip ol</trophy_new2>
+ 
+ 
+<watch>ÇÖZÜMÜ
+İZLE!</watch>
+<hintWarn>* HER İPUCU GÖRDÜĞÜNDE ÖDEME YAPARSIN, ONUN İÇİN HATIRLAMAYA ÇALIŞ!</hintWarn>
+<hintTitle>BU GÖREV İÇİN İPUCU SATIN AL?</hintTitle>
+<hint>1. Hedef solda, mavi gömlekli.</hint>
+<hint>1. Gördüğün tek kişiyi o uzaklaşmadan öldür.</hint>
+<hint>1. Arabadaki adamı öldür.
+2. Kapının yanında duran adamı öldür.
+3. Köşeden doğru gelen adamı öldür.</hint>
+<hint>1. Kızıl saçlı adamı öldür, mavi gömleği var.
+2. Sol taraftan geliyor.</hint>
+<hint>1. Hızlı ateş et ve herkesi öldür, ama dikkat et Redface soldan koşarak gelir.
+2. Koşarak içeri girdiğinde Redface'i bacağından vur.</hint>
+<hint>1. Kutuların her birini vur.
+2. Kuşu vur.</hint>
+<hint>1. Adamın arabadan uzaklaşmasını bekle.
+2. Arabadaki adamı öldür.
+3. Çimlerin üstünde duran adamı öldür.
+4. Yürüyen adamı geriye dönmeden önce öldür.
+Not - Mesafe yüzünden üste nişan almalısın.</hint>
+<hint>1. Soldaki makineyi vur.
+2. Sağdaki makineyi vur.
+3. Yardım isteyemeden Redface'i vur.</hint>
+<hint>1. En alttaki adamı öldür.
+2. En üstte dışarıda duran adamı öldür.
+3. Evin içindeki adamı öldür.</hint>
+<hint>1. Ahırın en üstündeki adamı öldür.
+2. Bir adam diğerinin önüne geçtiğinde tek atışla ikisini birden öldür.</hint>
+<hint>1. Balkondaki adamı vur.
+2. Bilgisayardaki adamı vur.
+3. DOLDUR.
+4. Onlar seni öldürmeden kalan düşmanları vur.</hint>
+<hint>1. 10 hedefin hepsini vur, hedefin gözden kaybolmasına izin verme.</hint>
+<hint>1. 2 adamın orta yerden uzaklaşmasını bekle.
+2. Binanın içindeki adamı vur.
+3. Binanın önündeki adamı vur.
+4. Uzaklaşan adamları geriye dönmeden önce vur.
+5. Soldaki adam sağdaki adamdan önce döner.</hint>
+<hint>1. Yüzbaşının soldan doğru yürüyerek girmesini bekle, sonra onu öldür.</hint>
+<hint>1. Adamların ayakta duran 2 adamı geçmesini bekle.
+2. Solda ayakta duran adamı öldür.
+3. Sağda ayakta duran adamı öldür.
+4. Arkada yürüyen adamı öldür.
+5. Önceki adamı öldür.
+6. Tankların menzile girmesini bekle ve tanklardaki adamları öldür.</hint>
+<hint>1. Çatıdaki adamı vur.
+2. Teldeki kuşu adamı vur.
+3. Adamın ölü kuşa doğru yürümesini bekle.
+4. Binanın içindeki adamı öldür.
+5. Binanın önünde sola bakan adamı öldür.
+6. Ölü kuşa bakan adamı öldür.</hint>
+<hint>1. Ateş zamanını tren vagonlarının arasından vuracak şekilde ayarla.
+2. Önce soldaki adamı öldür.</hint>
+<hint>1. En alt katta en solda duran adamı öldür.
+2. En altta yürüyen adamı geriye dönmeden önce öldür.
+3. En alttaki son adamı öldür.
+4. En üstteki adam iyice sola doğru yürüdüğünde öldür. 
+5. Duvara yaslanan adamı öldür.
+6. Dürbünlü adamı öldür.
+7. Nişancının ateş etmesini bekle, mermi yaklaşık konumunu belli edecektir.
+8. İkinci atışı yapmasına fırsat vermeden nişancıyı öldür.</hint>
+<hint>1. Düşmanın rehinenin sağından kafasını çıkarmasını bekle.
+2. Rehineyi vurmadan adamı öldür.</hint>
+<hint>1. Pencerelerin yanında yürüyen adamı öldür.
+2. Treylerin dışındaki 2 adamı öldür.
+3. Treylerde görünen adamı o seni öldürmeden öldür.</hint>
+<hint>1. Adamı vurmadan silahını vur.</hint>
+<hint>1. Yakınlaştırma, kimin silah çektiğini görmek için 3 adamı izle.
+2. Slick-Will'i vurmasına izin vermeden silah çeken adamı öldür.</hint>
+<hint>1. Hızlı ateş et, doldurma yapmamak için isabetli atmaya çalış.
+2. Düşmanlar korunağına ateş ederse nişanın kayar, onun için atış yapma.</hint>
+<hint>1. Rehineyle yürüyen adamı öldür.
+2. Rehineyi vurmasına fırsat vermeden arabanın yanındaki adamı çabucak öldür.</hint>
+<hint>1. HUD'ındaki GRİ kareler kırmızı renkte yanıp sönecek.
+2. Yanıp sönen KIRMIZI düşmanların canlanacağı yerleri gösterir.
+3. Bir rehine çıkarsa, rehineyi vurmamak için dikkatli nişan al.
+4. Polis kuvvetine zarar vermelerine fırsat tanımadan tüm düşmanları öldür.</hint>
+<hint>1. Soldan doğru koşarak gelen adamı bekle.
+2. Koşan adamı öldür.
+3. Unutma, rüzgar ve direnç mermiyi etkiler.</hint>
+<hint>1. Yumruk atmak için dokun.
+2. Fedainin kafası savunmasız olduğunda bir kere dokun.
+3. Şablonu izle ve yumruk zamanlarını ayarla.
+4. Yumruğun ıskalamadığı sürece o sana vurmaz.</hint>
+<hint>1. Evrak çantalı kel adamı bekle.
+2. Sol taraftan yürüyerek geliyor.
+3. Başka kimseyi öldürmeden onu öldür.</hint>
+<hint>1. Telefon aramasının yapılmasını bekle.
+2. Telefon çaldığında ateş edilecek arabayı ara.
+3. Telefonu açıp arabayla uzaklaşamadan adamı vur.</hint>
+<hint>1. Arabadaki adamı vur.
+2. Binanın önünde sağda yürüyen adamı vur.
+3. Mavi gömlekli kel adamı vur.
+4. Arabaya doğru yürüyen adamı vur.
+5. En sağda duvara yaslanan adamı vur.</hint>
+<hint>1. Hızlı ateş et, onlar seni öldürmeden sen hepsini öldür.</hint>
+<hint>1. Hızlı ateş et, onlar seni öldürmeden sen hepsini öldür.
+2. İlk olarak grubun solunda ayakta duran adamı öldür.
+3. Barmen en son çıkacak, onun için önce grubu öldür.</hint>
+<hint>1. Arabaların geleceği sağ tarafı izle.
+2. SİYAH SUV'u gördüğünde ortadaki bombaya nişan al.
+3. Siyah SUV bombanın önüne geldiğinde vuracak şekilde ateş zamanını ayarla.</hint>
+<hint>1. Bu hedefler sadece kafadan vuruşla ölür.
+2. Ortadaki adamın sola yürümesini bekle.
+3. Kutunun üstünde oturan adamı öldür.
+4. Ortadaki adamı geriye dönmeden önce öldür.
+5. Sol taraftaki adamı en son öldür.</hint>
+<hint>1. Bu hedefler sadece kafadan vuruşla ölür.
+2. En üst penceredeki adamı geçerken öldür.
+3. Alt katın penceresindeki adamı öldür, geçmesini bekle.
+4. Evin giriş kapısının yanında duran adamı öldür.
+5. En sağda, ağaçların arasında duran adamı öldür.
+6. Binanın sağ tarafında pencerede duran adamı öldür.
+7. Binanın önünde duran adamı en son öldür.</hint>
+
+</texts>
+
