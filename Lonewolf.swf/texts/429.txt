@@ -1,0 +1,19 @@
+[
+xmin -40
+ymin -40
+xmax 3401
+ymax 422
+readonly 1
+noselect 1
+html 1
+font 353
+height 320
+color #ffffffff
+align right
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="right">
+	<font face="_sans" size="16" color="#ffffff" letterSpacing="0.00" kerning="1">NẠP ĐẠN</font>
+</p>
