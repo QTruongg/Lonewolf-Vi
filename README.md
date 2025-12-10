@@ -1,1 +1,1 @@
-# Lonewolf 
+# Lonewolf Vietnamese Translation
